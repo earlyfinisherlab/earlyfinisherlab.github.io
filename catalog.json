@@ -3,8 +3,29 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 44,
+  "count": 45,
   "resources": [
+    {
+      "sku": "costume-party-crossnumber-g2",
+      "title": "Halloween Math Crossword Puzzles 2nd Grade | Early Finishers Sub Plans",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grade 2",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 27,
+      "standards": [
+        "2.MD.C.8",
+        "2.NBT.A.1",
+        "2.NBT.A.3",
+        "2.NBT.A.4",
+        "2.NBT.B.5",
+        "2.NBT.B.6"
+      ],
+      "listed_on": "2026-09-01",
+      "summary": "20 printable Halloween math crossword puzzles (cross-number) for grade 2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/costume-party-crossnumber-g2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Halloween-Math-Crossword-Puzzles-2nd-Grade-Early-Finishers-Sub-Plans-17539226"
+    },
     {
       "sku": "number-lab-crossnumber-g2",
       "title": "Math Crossword Puzzles 2nd Grade Math Review | Early Finishers Enrichment",
