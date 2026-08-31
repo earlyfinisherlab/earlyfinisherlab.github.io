@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thitipatrb.github.io/efl-pins/sitemap.xml
