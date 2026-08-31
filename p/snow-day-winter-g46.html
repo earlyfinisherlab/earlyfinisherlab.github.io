@@ -56,8 +56,15 @@ article li{margin-bottom:4px}
 .buy{display:inline-block;background:var(--accent);color:#fff;text-decoration:none;
 padding:11px 20px;border-radius:8px;font-weight:600;margin:8px 0 4px}
 .cols{display:flex;gap:26px;align-items:flex-start;flex-wrap:wrap}
-.cols img{width:220px;border:1px solid var(--line);border-radius:8px}
-.cols img{align-self:flex-start}
+/* Height-driven, not width-driven. The pictures are two different shapes -- a
+   2:3 Pinterest pin for most SKUs, a square cover for the ones with no pin --
+   so sizing by width made the pins ~700px tall beside a 185px fact list and
+   left the row two thirds empty. Fixing the height instead makes every product
+   page's hero the same size whatever shape the source is, and `contain` means
+   nothing is cropped. */
+.cols img{height:300px;width:auto;max-width:100%;object-fit:contain;
+align-self:flex-start;flex:none;border:1px solid var(--line);border-radius:8px;
+background:var(--accent-soft)}
 /* the standards line is one long unbreakable-looking string; without min-width:0
    its min-content width pushes the whole fact list under the picture */
 .facts{list-style:none;padding:0;margin:0;font-size:14px;color:var(--soft);
@@ -79,7 +86,7 @@ header{background:#10302a}.card img{background:#22403a}}
 <div class="crumb"><a href="https://earlyfinisherlab.github.io/">All resources</a> &rsaquo; Logic grid puzzles</div>
 <article>
 <h1>Winter Logic Puzzles Grades 4-6 | Snow Day Brain Teasers | Early Finishers</h1>
-<div class="cols"><img src="https://raw.githubusercontent.com/earlyfinisherlab/earlyfinisherlab.github.io/main/_pins/snow-day-winter-g46.png" alt="Winter Logic Puzzles Grades 4-6 | Snow Day Brain Teasers | Early Finishers" width="600" height="900"><ul class="facts"><li><b>Grade levels:</b> Grades 4-6</li><li><b>Subject:</b> Other (Math)</li><li><b>Pages:</b> 18 (US Letter, PDF)</li><li><b>Price:</b> $4.99</li><li><b>Answer key:</b> included</li></ul></div>
+<div class="cols"><img src="https://raw.githubusercontent.com/earlyfinisherlab/earlyfinisherlab.github.io/main/_pins/snow-day-winter-g46.png" alt="Winter Logic Puzzles Grades 4-6 | Snow Day Brain Teasers | Early Finishers"><ul class="facts"><li><b>Grade levels:</b> Grades 4-6</li><li><b>Subject:</b> Other (Math)</li><li><b>Pages:</b> 18 (US Letter, PDF)</li><li><b>Price:</b> $4.99</li><li><b>Answer key:</b> included</li></ul></div>
 <p><a class="buy" href="https://www.teacherspayteachers.com/Product/Winter-Logic-Puzzles-Grades-4-6-Snow-Day-Brain-Teasers-Early-Finishers-17487489">Buy this resource on Teachers Pay Teachers</a></p>
 <p>10 printable Winter logic grid puzzles with a snow day theme, for grades 4-6.</p>
 <p>Students read a short list of clues and use an elimination grid to work out who goes with what. No prep: print and hand out.</p>

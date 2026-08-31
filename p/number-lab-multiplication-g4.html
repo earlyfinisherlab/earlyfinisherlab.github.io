@@ -56,8 +56,15 @@ article li{margin-bottom:4px}
 .buy{display:inline-block;background:var(--accent);color:#fff;text-decoration:none;
 padding:11px 20px;border-radius:8px;font-weight:600;margin:8px 0 4px}
 .cols{display:flex;gap:26px;align-items:flex-start;flex-wrap:wrap}
-.cols img{width:220px;border:1px solid var(--line);border-radius:8px}
-.cols img{align-self:flex-start}
+/* Height-driven, not width-driven. The pictures are two different shapes -- a
+   2:3 Pinterest pin for most SKUs, a square cover for the ones with no pin --
+   so sizing by width made the pins ~700px tall beside a 185px fact list and
+   left the row two thirds empty. Fixing the height instead makes every product
+   page's hero the same size whatever shape the source is, and `contain` means
+   nothing is cropped. */
+.cols img{height:300px;width:auto;max-width:100%;object-fit:contain;
+align-self:flex-start;flex:none;border:1px solid var(--line);border-radius:8px;
+background:var(--accent-soft)}
 /* the standards line is one long unbreakable-looking string; without min-width:0
    its min-content width pushes the whole fact list under the picture */
 .facts{list-style:none;padding:0;margin:0;font-size:14px;color:var(--soft);
@@ -79,7 +86,7 @@ header{background:#10302a}.card img{background:#22403a}}
 <div class="crumb"><a href="https://earlyfinisherlab.github.io/">All resources</a> &rsaquo; Math crossword puzzles (cross-number)</div>
 <article>
 <h1>Multiplication Math Crossword Puzzles 4th Grade | Early Finishers Enrichment</h1>
-<div class="cols"><img src="https://raw.githubusercontent.com/earlyfinisherlab/earlyfinisherlab.github.io/main/_pins/number-lab-multiplication-g4.png" alt="Multiplication Math Crossword Puzzles 4th Grade | Early Finishers Enrichment" width="600" height="900"><ul class="facts"><li><b>Grade levels:</b> Grade 4</li><li><b>Subject:</b> Basic Operations</li><li><b>Pages:</b> 27 (US Letter, PDF)</li><li><b>Price:</b> $3.99</li><li><b>Standards:</b> 3.OA.C.7, 3.OA.D.9, 4.NBT.B.5, 4.NBT.B.6, 4.OA.C.5</li><li><b>Answer key:</b> included</li></ul></div>
+<div class="cols"><img src="https://raw.githubusercontent.com/earlyfinisherlab/earlyfinisherlab.github.io/main/_pins/number-lab-multiplication-g4.png" alt="Multiplication Math Crossword Puzzles 4th Grade | Early Finishers Enrichment"><ul class="facts"><li><b>Grade levels:</b> Grade 4</li><li><b>Subject:</b> Basic Operations</li><li><b>Pages:</b> 27 (US Letter, PDF)</li><li><b>Price:</b> $3.99</li><li><b>Standards:</b> 3.OA.C.7, 3.OA.D.9, 4.NBT.B.5, 4.NBT.B.6, 4.OA.C.5</li><li><b>Answer key:</b> included</li></ul></div>
 <p><a class="buy" href="https://www.teacherspayteachers.com/Product/Multiplication-Math-Crossword-Puzzles-4th-Grade-Early-Finishers-Enrichment-17499748">Buy this resource on Teachers Pay Teachers</a></p>
 <p>20 printable multiplication and division math crossword puzzles for grade 4.</p>
 <p>Students solve each clue and write one digit per box. Because the answers cross, a wrong answer shows up at the crossing instead of at the answer key, so the page checks itself. No prep: print and hand out.</p>
