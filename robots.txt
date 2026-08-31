@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://thitipatrb.github.io/efl-pins/sitemap.xml
+Sitemap: https://earlyfinisherlab.github.io/sitemap.xml
