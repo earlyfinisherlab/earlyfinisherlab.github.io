@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 45,
+  "count": 46,
   "resources": [
     {
       "sku": "costume-party-crossnumber-g2",
@@ -108,6 +108,22 @@
       "summary": "20 printable Halloween math crossword puzzles (cross-number) for grade 3.",
       "page_url": "https://earlyfinisherlab.github.io/p/costume-party-crossnumber-g3.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Halloween-Math-Crossword-Puzzles-3rd-Grade-Early-Finishers-Enrichment-17530551"
+    },
+    {
+      "sku": "number-lab-addsub-g3",
+      "title": "Addition and Subtraction Math Crossword Puzzles 3rd Grade | Early Finishers",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grade 3",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 27,
+      "standards": [
+        "3.NBT.A.2"
+      ],
+      "listed_on": "2026-09-02",
+      "summary": "20 printable addition and subtraction math crossword puzzles for grade 3.",
+      "page_url": "https://earlyfinisherlab.github.io/p/number-lab-addsub-g3.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Addition-and-Subtraction-Math-Crossword-Puzzles-3rd-Grade-Early-Finishers-17548271"
     },
     {
       "sku": "number-lab-crossnumber-g3",
