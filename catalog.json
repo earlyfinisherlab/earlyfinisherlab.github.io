@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 61,
+  "count": 63,
   "resources": [
     {
       "sku": "costume-party-crossnumber-g2",
@@ -1186,6 +1186,34 @@
       "summary": "10 printable cryptogram (secret-code) puzzles with a bake sale theme, for grades 2-3.",
       "page_url": "https://earlyfinisherlab.github.io/p/bake-sale-codes-g23.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Cryptogram-Puzzles-Early-Finishers-Bake-Sale-Secret-Codes-Grades-2-3-17419503"
+    },
+    {
+      "sku": "animal-coloring-k2",
+      "title": "Animal Coloring Pages | Calm Down Corner & Early Finisher | K-2",
+      "type": "Printable coloring pages",
+      "grades": "Grades K-2",
+      "subject": "Art",
+      "price_usd": 3.5,
+      "pages": 33,
+      "standards": [],
+      "listed_on": "2026-09-04",
+      "summary": "Animals and Magical Creatures - 30 no-prep printable coloring pages for grades K-2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/animal-coloring-k2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Animal-Coloring-Pages-Calm-Down-Corner-Early-Finisher-K-2-17565418"
+    },
+    {
+      "sku": "halloween-coloring-prek2",
+      "title": "Halloween Coloring Pages | Early Finisher & Sub Plans | PreK-2 No Prep",
+      "type": "Printable coloring pages",
+      "grades": "Grades PreK-2",
+      "subject": "Art",
+      "price_usd": 3.5,
+      "pages": 31,
+      "standards": [],
+      "listed_on": "2026-09-04",
+      "summary": "Spooky Cute Halloween - 28 no-prep printable coloring pages for grades PreK-2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/halloween-coloring-prek2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Halloween-Coloring-Pages-Early-Finisher-Sub-Plans-PreK-2-No-Prep-17565377"
     }
   ]
 }
