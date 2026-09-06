@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 74,
+  "count": 75,
   "resources": [
     {
       "sku": "costume-party-crossnumber-g2",
@@ -1314,6 +1314,20 @@
       "summary": "10 printable Winter logic grid puzzles with a snow day theme, for grades 4-6.",
       "page_url": "https://earlyfinisherlab.github.io/p/snow-day-winter-g46.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Winter-Logic-Puzzles-Grades-4-6-Snow-Day-Brain-Teasers-Early-Finishers-17487489"
+    },
+    {
+      "sku": "logic-grid-bundle-g23",
+      "title": "Logic Puzzles Bundle (3 Packs) Grades 2-3 | Early Finishers Enrichment",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 2-3",
+      "subject": "",
+      "price_usd": 11.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-09-06",
+      "summary": "All 3 of the logic grid puzzles packs in one download, Grades 2-3.",
+      "page_url": "https://earlyfinisherlab.github.io/p/logic-grid-bundle-g23.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Bundle-Grades-2-3-Early-Finishers-Sub-Plans-Brain-Teasers-17587650"
     },
     {
       "sku": "logic-grid-bundle-10",
