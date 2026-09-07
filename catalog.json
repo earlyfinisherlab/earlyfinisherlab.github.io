@@ -3,8 +3,29 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 79,
+  "count": 84,
   "resources": [
+    {
+      "sku": "bake-sale-crossnumber-g2",
+      "title": "Math Crossword Puzzles 2nd Grade Math Review Vol 6 | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grade 2",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 27,
+      "standards": [
+        "2.MD.C.8",
+        "2.NBT.A.1",
+        "2.NBT.A.3",
+        "2.NBT.A.4",
+        "2.NBT.B.5",
+        "2.NBT.B.6"
+      ],
+      "listed_on": "2026-09-08",
+      "summary": "20 printable cross-number puzzles (math crosswords) for grade 2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/bake-sale-crossnumber-g2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-2nd-Grade-Math-Review-Vol-6-Early-Finishers-Enrichment-17597350"
+    },
     {
       "sku": "costume-party-crossnumber-g2",
       "title": "Halloween Math Crossword Puzzles 2nd Grade | Early Finishers Sub Plans",
@@ -46,6 +67,27 @@
       "summary": "20 printable cross-number puzzles (math crosswords) for grade 2.",
       "page_url": "https://earlyfinisherlab.github.io/p/field-day-crossnumber-g2.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-2nd-Grade-Math-Review-Vol-4-Early-Finishers-Enrichment-17554034"
+    },
+    {
+      "sku": "library-club-crossnumber-g2",
+      "title": "Math Crossword Puzzles 2nd Grade Math Review Vol 5 | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grade 2",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 27,
+      "standards": [
+        "2.MD.C.8",
+        "2.NBT.A.1",
+        "2.NBT.A.3",
+        "2.NBT.A.4",
+        "2.NBT.B.5",
+        "2.NBT.B.6"
+      ],
+      "listed_on": "2026-09-08",
+      "summary": "20 printable cross-number puzzles (math crosswords) for grade 2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/library-club-crossnumber-g2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-2nd-Grade-Math-Review-Vol-5-Early-Finishers-Enrichment-17597307"
     },
     {
       "sku": "number-lab-addsub-g2",
@@ -125,6 +167,28 @@
       "summary": "20 printable cross-number puzzles (math crosswords) for grade 2.",
       "page_url": "https://earlyfinisherlab.github.io/p/science-fair-crossnumber-g2.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-2nd-Grade-Math-Review-Vol-2-Early-Finishers-Enrichment-17551707"
+    },
+    {
+      "sku": "bake-sale-crossnumber-g3",
+      "title": "Math Crossword Puzzles 3rd Grade Math Review Vol 6 | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grade 3",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 27,
+      "standards": [
+        "2.MD.C.8",
+        "2.NBT.A.1",
+        "2.NBT.A.3",
+        "2.NBT.A.4",
+        "3.NBT.A.2",
+        "3.OA.C.7",
+        "3.OA.D.9"
+      ],
+      "listed_on": "2026-09-08",
+      "summary": "20 printable cross-number puzzles (math crosswords) for grade 3.",
+      "page_url": "https://earlyfinisherlab.github.io/p/bake-sale-crossnumber-g3.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-3rd-Grade-Math-Review-Vol-6-Early-Finishers-Enrichment-17597383"
     },
     {
       "sku": "class-feast-crossnumber-g3",
@@ -335,6 +399,33 @@
       "summary": "20 printable Winter math crossword puzzles (cross-number) for grade 3.",
       "page_url": "https://earlyfinisherlab.github.io/p/snow-day-crossnumber-g3.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Winter-Math-Crossword-Puzzles-3rd-Grade-Early-Finishers-Enrichment-17499914"
+    },
+    {
+      "sku": "bake-sale-crossnumber-g4",
+      "title": "Math Crossword Puzzles 4th Grade Math Review Vol 6 | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grade 4",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 27,
+      "standards": [
+        "2.MD.C.8",
+        "2.NBT.A.1",
+        "2.NBT.A.3",
+        "2.NBT.A.4",
+        "3.NBT.A.2",
+        "3.OA.C.7",
+        "3.OA.D.9",
+        "4.NBT.A.2",
+        "4.NBT.B.4",
+        "4.NBT.B.5",
+        "4.NBT.B.6",
+        "4.OA.C.5"
+      ],
+      "listed_on": "2026-09-08",
+      "summary": "20 printable cross-number puzzles (math crosswords) for grade 4.",
+      "page_url": "https://earlyfinisherlab.github.io/p/bake-sale-crossnumber-g4.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-4th-Grade-Math-Review-Vol-6-Early-Finishers-Enrichment-17597412"
     },
     {
       "sku": "class-feast-crossnumber-g4",
@@ -588,6 +679,33 @@
       "summary": "20 printable cross-number puzzles (math crosswords) for grade 4.",
       "page_url": "https://earlyfinisherlab.github.io/p/science-fair-crossnumber-g4.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-4th-Grade-Math-Review-Vol-2-Early-Finishers-Enrichment-17515673"
+    },
+    {
+      "sku": "bake-sale-crossnumber-g5",
+      "title": "Math Crossword Puzzles 5th Grade Math Review Vol 6 | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grade 5",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 27,
+      "standards": [
+        "2.NBT.A.1",
+        "2.NBT.A.3",
+        "2.NBT.A.4",
+        "3.NBT.A.2",
+        "3.OA.D.9",
+        "4.NBT.A.2",
+        "4.NBT.B.4",
+        "4.NBT.B.5",
+        "4.OA.C.5",
+        "5.NBT.B.5",
+        "5.NBT.B.6",
+        "5.OA.A.1"
+      ],
+      "listed_on": "2026-09-08",
+      "summary": "20 printable cross-number puzzles (math crosswords) for grade 5.",
+      "page_url": "https://earlyfinisherlab.github.io/p/bake-sale-crossnumber-g5.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-5th-Grade-Math-Review-Vol-6-Early-Finishers-Enrichment-17597450"
     },
     {
       "sku": "class-feast-crossnumber-g5",
