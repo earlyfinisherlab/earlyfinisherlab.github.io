@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 84,
+  "count": 89,
   "resources": [
     {
       "sku": "bake-sale-crossnumber-g2",
@@ -972,6 +972,20 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-Bundle-Grades-2-5-Math-Review-Early-Finishers-17488793"
     },
     {
+      "sku": "number-lab-logic-g2",
+      "title": "Logic Puzzles 2nd Grade | Math Facts Brain Teasers | Gifted Early Finishers",
+      "type": "Logic grid puzzles",
+      "grades": "Grade 2",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [],
+      "listed_on": "2026-09-09",
+      "summary": "10 printable logic grid puzzles with a math facts theme, for grade 2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/number-lab-logic-g2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-2nd-Grade-Math-Facts-Brain-Teasers-Gifted-Early-Finishers-17609090"
+    },
+    {
       "sku": "bake-sale-logic-g3",
       "title": "Logic Puzzles 3rd Grade | Bake Sale Brain Teasers | Gifted Early Finishers",
       "type": "Logic grid puzzles",
@@ -1000,6 +1014,48 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-3rd-Grade-Field-Day-Brain-Teasers-Gifted-Early-Finishers-17587133"
     },
     {
+      "sku": "pet-show-logic-g3",
+      "title": "Logic Puzzles 3rd Grade | Pet Show Brain Teasers | Gifted Early Finishers",
+      "type": "Logic grid puzzles",
+      "grades": "Grade 3",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [],
+      "listed_on": "2026-09-09",
+      "summary": "10 printable logic grid puzzles with a pet show theme, for grade 3.",
+      "page_url": "https://earlyfinisherlab.github.io/p/pet-show-logic-g3.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-3rd-Grade-Pet-Show-Brain-Teasers-Gifted-Early-Finishers-17609009"
+    },
+    {
+      "sku": "snow-day-winter-g3",
+      "title": "Winter Logic Puzzles 3rd Grade | Snow Day Brain Teasers | Early Finishers",
+      "type": "Logic grid puzzles",
+      "grades": "Grade 3",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [],
+      "listed_on": "2026-09-09",
+      "summary": "10 printable Winter logic grid puzzles with a snow day theme, for grade 3.",
+      "page_url": "https://earlyfinisherlab.github.io/p/snow-day-winter-g3.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Winter-Logic-Puzzles-3rd-Grade-Snow-Day-Brain-Teasers-Early-Finishers-17608973"
+    },
+    {
+      "sku": "library-club-logic-g4",
+      "title": "Logic Puzzles 4th Grade | Library Club Brain Teasers | Gifted Early Finishers",
+      "type": "Logic grid puzzles",
+      "grades": "Grade 4",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [],
+      "listed_on": "2026-09-09",
+      "summary": "10 printable logic grid puzzles with a library club theme, for grade 4.",
+      "page_url": "https://earlyfinisherlab.github.io/p/library-club-logic-g4.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-4th-Grade-Library-Club-Brain-Teasers-Gifted-Early-Finishers-17609048"
+    },
+    {
       "sku": "number-lab-logic-g4",
       "title": "Logic Puzzles 4th Grade | Math Facts Brain Teasers | Gifted Early Finishers",
       "type": "Logic grid puzzles",
@@ -1012,6 +1068,20 @@
       "summary": "10 printable logic grid puzzles with a math facts theme, for grade 4.",
       "page_url": "https://earlyfinisherlab.github.io/p/number-lab-logic-g4.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-4th-Grade-Math-Facts-Brain-Teasers-Gifted-Early-Finishers-17467794"
+    },
+    {
+      "sku": "class-feast-thanksgiving-g5",
+      "title": "Thanksgiving Logic Puzzles 5th Grade | Brain Teasers | Gifted Early Finishers",
+      "type": "Logic grid puzzles",
+      "grades": "Grade 5",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [],
+      "listed_on": "2026-09-09",
+      "summary": "10 printable Thanksgiving logic grid puzzles with a class feast theme, for grade 5.",
+      "page_url": "https://earlyfinisherlab.github.io/p/class-feast-thanksgiving-g5.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Thanksgiving-Logic-Puzzles-5th-Grade-Brain-Teasers-Gifted-Early-Finishers-17608928"
     },
     {
       "sku": "costume-party-halloween-g5",
