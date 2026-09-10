@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 89,
+  "count": 99,
   "resources": [
     {
       "sku": "bake-sale-crossnumber-g2",
@@ -67,6 +67,27 @@
       "summary": "20 printable cross-number puzzles (math crosswords) for grade 2.",
       "page_url": "https://earlyfinisherlab.github.io/p/field-day-crossnumber-g2.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-2nd-Grade-Math-Review-Vol-4-Early-Finishers-Enrichment-17554034"
+    },
+    {
+      "sku": "game-night-spiral-g2",
+      "title": "Spiral Review 2nd Grade Math Crossword Puzzles | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grade 2",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 27,
+      "standards": [
+        "2.MD.C.8",
+        "2.NBT.A.1",
+        "2.NBT.A.3",
+        "2.NBT.A.4",
+        "2.NBT.B.5",
+        "2.NBT.B.6"
+      ],
+      "listed_on": "2026-09-10",
+      "summary": "20 printable cross-number puzzles (math crosswords) for grade 2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/game-night-spiral-g2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Spiral-Review-2nd-Grade-Math-Crossword-Puzzles-Early-Finishers-Enrichment-17620579"
     },
     {
       "sku": "library-club-crossnumber-g2",
@@ -273,6 +294,28 @@
       "summary": "20 printable cross-number puzzles (math crosswords) for grade 3.",
       "page_url": "https://earlyfinisherlab.github.io/p/field-day-crossnumber-g3.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-3rd-Grade-Math-Review-Vol-4-Early-Finishers-Enrichment-17554065"
+    },
+    {
+      "sku": "game-night-spiral-g3",
+      "title": "Spiral Review 3rd Grade Math Crossword Puzzles | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grade 3",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 27,
+      "standards": [
+        "2.MD.C.8",
+        "2.NBT.A.1",
+        "2.NBT.A.3",
+        "2.NBT.A.4",
+        "3.NBT.A.2",
+        "3.OA.C.7",
+        "3.OA.D.9"
+      ],
+      "listed_on": "2026-09-10",
+      "summary": "20 printable cross-number puzzles (math crosswords) for grade 3.",
+      "page_url": "https://earlyfinisherlab.github.io/p/game-night-spiral-g3.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Spiral-Review-3rd-Grade-Math-Crossword-Puzzles-Early-Finishers-Enrichment-17620607"
     },
     {
       "sku": "library-club-crossnumber-g3",
@@ -507,6 +550,33 @@
       "summary": "20 printable cross-number puzzles (math crosswords) for grade 4.",
       "page_url": "https://earlyfinisherlab.github.io/p/field-day-crossnumber-g4.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-4th-Grade-Math-Review-Vol-4-Early-Finishers-Enrichment-17554097"
+    },
+    {
+      "sku": "game-night-spiral-g4",
+      "title": "Spiral Review 4th Grade Math Crossword Puzzles | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grade 4",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 27,
+      "standards": [
+        "2.MD.C.8",
+        "2.NBT.A.1",
+        "2.NBT.A.3",
+        "2.NBT.A.4",
+        "3.NBT.A.2",
+        "3.OA.C.7",
+        "3.OA.D.9",
+        "4.NBT.A.2",
+        "4.NBT.B.4",
+        "4.NBT.B.5",
+        "4.NBT.B.6",
+        "4.OA.C.5"
+      ],
+      "listed_on": "2026-09-10",
+      "summary": "20 printable cross-number puzzles (math crosswords) for grade 4.",
+      "page_url": "https://earlyfinisherlab.github.io/p/game-night-spiral-g4.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Spiral-Review-4th-Grade-Math-Crossword-Puzzles-Early-Finishers-Enrichment-17620631"
     },
     {
       "sku": "gift-swap-crossnumber-g4",
@@ -789,6 +859,33 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-5th-Grade-Math-Review-Vol-4-Early-Finishers-Enrichment-17554129"
     },
     {
+      "sku": "game-night-spiral-g5",
+      "title": "Spiral Review 5th Grade Math Crossword Puzzles | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grade 5",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 27,
+      "standards": [
+        "2.NBT.A.1",
+        "2.NBT.A.3",
+        "2.NBT.A.4",
+        "3.NBT.A.2",
+        "3.OA.D.9",
+        "4.NBT.A.2",
+        "4.NBT.B.4",
+        "4.NBT.B.5",
+        "4.OA.C.5",
+        "5.NBT.B.5",
+        "5.NBT.B.6",
+        "5.OA.A.1"
+      ],
+      "listed_on": "2026-09-10",
+      "summary": "20 printable cross-number puzzles (math crosswords) for grade 5.",
+      "page_url": "https://earlyfinisherlab.github.io/p/game-night-spiral-g5.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Spiral-Review-5th-Grade-Math-Crossword-Puzzles-Early-Finishers-Enrichment-17620654"
+    },
+    {
       "sku": "gift-swap-crossnumber-g5",
       "title": "Christmas Math Crossword Puzzles 5th Grade | Early Finishers Enrichment",
       "type": "Math crossword puzzles (cross-number)",
@@ -1042,6 +1139,48 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Winter-Logic-Puzzles-3rd-Grade-Snow-Day-Brain-Teasers-Early-Finishers-17608973"
     },
     {
+      "sku": "class-feast-thanksgiving-g4",
+      "title": "Thanksgiving Logic Puzzles 4th Grade | Brain Teasers | Gifted Early Finishers",
+      "type": "Logic grid puzzles",
+      "grades": "Grade 4",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [],
+      "listed_on": "2026-09-10",
+      "summary": "10 printable Thanksgiving logic grid puzzles with a class feast theme, for grade 4.",
+      "page_url": "https://earlyfinisherlab.github.io/p/class-feast-thanksgiving-g4.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Thanksgiving-Logic-Puzzles-4th-Grade-Brain-Teasers-Gifted-Early-Finishers-17616993"
+    },
+    {
+      "sku": "costume-party-halloween-g4",
+      "title": "Halloween Logic Puzzles 4th Grade | Brain Teasers | Early Finishers Enrichment",
+      "type": "Logic grid puzzles",
+      "grades": "Grade 4",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [],
+      "listed_on": "2026-09-10",
+      "summary": "10 printable Halloween logic grid puzzles with a costume party theme, for grade 4.",
+      "page_url": "https://earlyfinisherlab.github.io/p/costume-party-halloween-g4.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Halloween-Logic-Puzzles-4th-Grade-Brain-Teasers-Early-Finishers-Enrichment-17616958"
+    },
+    {
+      "sku": "garden-day-spring-g4",
+      "title": "Spring Logic Puzzles 4th Grade | Garden Day Brain Teasers | Early Finishers",
+      "type": "Logic grid puzzles",
+      "grades": "Grade 4",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [],
+      "listed_on": "2026-09-10",
+      "summary": "10 printable Spring logic grid puzzles with a garden day theme, for grade 4.",
+      "page_url": "https://earlyfinisherlab.github.io/p/garden-day-spring-g4.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Spring-Logic-Puzzles-4th-Grade-Garden-Day-Brain-Teasers-Early-Finishers-17620536"
+    },
+    {
       "sku": "library-club-logic-g4",
       "title": "Logic Puzzles 4th Grade | Library Club Brain Teasers | Gifted Early Finishers",
       "type": "Logic grid puzzles",
@@ -1098,6 +1237,34 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Halloween-Logic-Puzzles-5th-Grade-Brain-Teasers-Early-Finishers-Enrichment-17467758"
     },
     {
+      "sku": "egg-hunt-easter-g5",
+      "title": "Easter Logic Puzzles 5th Grade | Egg Hunt Brain Teasers | Early Finishers",
+      "type": "Logic grid puzzles",
+      "grades": "Grade 5",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [],
+      "listed_on": "2026-09-10",
+      "summary": "10 printable Easter logic grid puzzles with an egg hunt theme, for grade 5.",
+      "page_url": "https://earlyfinisherlab.github.io/p/egg-hunt-easter-g5.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Easter-Logic-Puzzles-5th-Grade-Egg-Hunt-Brain-Teasers-Early-Finishers-17620560"
+    },
+    {
+      "sku": "gift-swap-christmas-g5",
+      "title": "Christmas Logic Puzzles 5th Grade | Gift Swap Brain Teasers | Early Finishers",
+      "type": "Logic grid puzzles",
+      "grades": "Grade 5",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [],
+      "listed_on": "2026-09-10",
+      "summary": "10 printable Christmas logic grid puzzles with a gift swap theme, for grade 5.",
+      "page_url": "https://earlyfinisherlab.github.io/p/gift-swap-christmas-g5.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Christmas-Logic-Puzzles-5th-Grade-Gift-Swap-Brain-Teasers-Early-Finishers-17617101"
+    },
+    {
       "sku": "pet-show-logic-g5",
       "title": "Logic Puzzles 5th Grade | Pet Show Brain Teasers | Gifted Early Finishers",
       "type": "Logic grid puzzles",
@@ -1124,6 +1291,20 @@
       "summary": "10 printable logic grid puzzles with a science fair theme, for grade 5.",
       "page_url": "https://earlyfinisherlab.github.io/p/science-fair-logic-g5.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-5th-Grade-Science-Fair-Brain-Teasers-Gifted-Early-Finishers-17587160"
+    },
+    {
+      "sku": "field-day-logic-g6",
+      "title": "Logic Puzzles 6th Grade | Field Day Brain Teasers | Gifted Early Finishers",
+      "type": "Logic grid puzzles",
+      "grades": "Grade 6",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [],
+      "listed_on": "2026-09-10",
+      "summary": "10 printable logic grid puzzles with a field day theme, for grade 6.",
+      "page_url": "https://earlyfinisherlab.github.io/p/field-day-logic-g6.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-6th-Grade-Field-Day-Brain-Teasers-Gifted-Early-Finishers-17620697"
     },
     {
       "sku": "bake-sale-g23",
