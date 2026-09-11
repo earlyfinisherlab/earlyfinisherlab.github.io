@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 99,
+  "count": 100,
   "resources": [
     {
       "sku": "bake-sale-crossnumber-g2",
@@ -1613,6 +1613,20 @@
       "summary": "10 printable Back to School logic grid puzzles with a first week theme, for grades 4-6.",
       "page_url": "https://earlyfinisherlab.github.io/p/first-week-backtoschool-g46.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Back-to-School-Logic-Puzzles-Grades-4-6-Brain-Teasers-Gifted-Early-Finishers-17477526"
+    },
+    {
+      "sku": "game-night-logic-g46",
+      "title": "Logic Puzzles Early Finishers Enrichment | Game Night Brain Teasers | Grades 4-6",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 4-6",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 17,
+      "standards": [],
+      "listed_on": "2026-09-12",
+      "summary": "10 printable logic grid puzzles with a game night theme, for grades 4-6.",
+      "page_url": "https://earlyfinisherlab.github.io/p/game-night-logic-g46.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Early-Finishers-Enrichment-Game-Night-Brain-Teasers-Grades-4-6-17631655"
     },
     {
       "sku": "garden-day-spring-g46",
