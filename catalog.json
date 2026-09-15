@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 101,
+  "count": 102,
   "resources": [
     {
       "sku": "bake-sale-crossnumber-g2",
@@ -1781,6 +1781,26 @@
       "summary": "All 3 of the logic grid puzzles packs in one download, Grades 4-6.",
       "page_url": "https://earlyfinisherlab.github.io/p/logic-grid-bundle-g46.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Bundle-Grades-4-6-Early-Finishers-Sub-Plans-Brain-Teasers-17588820"
+    },
+    {
+      "sku": "animal-mystery-graph-g56",
+      "title": "Animal Coordinate Graphing Mystery Pictures Grades 5-6 | Early Finishers",
+      "type": "Coordinate graphing mystery pictures",
+      "grades": "Grades 5-6",
+      "subject": "Geometry",
+      "price_usd": 4.99,
+      "pages": 66,
+      "standards": [
+        "5.G.A.1",
+        "5.G.A.2",
+        "6.NS.C.6b",
+        "6.NS.C.6c",
+        "6.NS.C.8"
+      ],
+      "listed_on": "2026-09-15",
+      "summary": "15 printable animal coordinate graphing mystery pictures for grades 5-6, each in 3 versions (45 graphing pages).",
+      "page_url": "https://earlyfinisherlab.github.io/p/animal-mystery-graph-g56.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Animal-Coordinate-Graphing-Mystery-Pictures-Grades-5-6-Early-Finishers-17663878"
     },
     {
       "sku": "mystery-graph-g56",
