@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 139,
+  "count": 142,
   "resources": [
     {
       "sku": "bake-sale-crossnumber-g2",
@@ -1925,6 +1925,20 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Animal-Coloring-Pages-Calm-Down-Corner-Early-Finisher-K-2-17565418"
     },
     {
+      "sku": "bakery-coloring-k2",
+      "title": "Bakery Coloring Pages | Bread, Pies & Donuts Early Finisher | K-2",
+      "type": "Printable coloring pages",
+      "grades": "Grades K-2",
+      "subject": "Coloring Pages",
+      "price_usd": 3.5,
+      "pages": 30,
+      "standards": [],
+      "listed_on": "2026-09-21",
+      "summary": "The Little Bakery - 27 no-prep printable coloring pages for grades K-2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/bakery-coloring-k2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Bakery-Coloring-Pages-Bread-Pies-Donuts-Early-Finisher-K-2-17709220"
+    },
+    {
       "sku": "bird-coloring-k2",
       "title": "Bird Coloring Pages | Spring Science Early Finisher & Sub Plans | K-2",
       "type": "Printable coloring pages",
@@ -1993,6 +2007,20 @@
       "summary": "Community Helpers and Jobs - 30 no-prep printable coloring pages for grades K-2.",
       "page_url": "https://earlyfinisherlab.github.io/p/community-helpers-coloring-k2.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Community-Helpers-Coloring-Pages-Careers-Early-Finisher-K-2-17666857"
+    },
+    {
+      "sku": "desert-coloring-k2",
+      "title": "Desert Animals Coloring Pages | Habitat Science Early Finisher | K-2",
+      "type": "Printable coloring pages",
+      "grades": "Grades K-2",
+      "subject": "Coloring Pages",
+      "price_usd": 3.5,
+      "pages": 32,
+      "standards": [],
+      "listed_on": "2026-09-21",
+      "summary": "Desert Adventure - 29 no-prep printable coloring pages for grades K-2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/desert-coloring-k2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Desert-Animals-Coloring-Pages-Habitat-Science-Early-Finisher-K-2-17709199"
     },
     {
       "sku": "dessert-coloring-k2",
@@ -2343,6 +2371,20 @@
       "summary": "Dolls and Puppets - 28 no-prep printable coloring pages for grades PreK-2.",
       "page_url": "https://earlyfinisherlab.github.io/p/doll-coloring-prek2.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Puppet-Doll-Coloring-Pages-Pretend-Play-Early-Finisher-PreK-2-17709155"
+    },
+    {
+      "sku": "fruit-coloring-prek2",
+      "title": "Fruit Coloring Pages | Healthy Eating Nutrition Early Finisher | PreK-2",
+      "type": "Printable coloring pages",
+      "grades": "Grades PreK-2",
+      "subject": "Coloring Pages",
+      "price_usd": 3.5,
+      "pages": 32,
+      "standards": [],
+      "listed_on": "2026-09-21",
+      "summary": "Fruit Salad - 29 no-prep printable coloring pages for grades PreK-2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/fruit-coloring-prek2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Fruit-Coloring-Pages-Healthy-Eating-Nutrition-Early-Finisher-PreK-2-17709196"
     },
     {
       "sku": "halloween-coloring-prek2",
