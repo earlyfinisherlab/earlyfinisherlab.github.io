@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 129,
+  "count": 139,
   "resources": [
     {
       "sku": "bake-sale-crossnumber-g2",
@@ -1925,6 +1925,20 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Animal-Coloring-Pages-Calm-Down-Corner-Early-Finisher-K-2-17565418"
     },
     {
+      "sku": "bird-coloring-k2",
+      "title": "Bird Coloring Pages | Spring Science Early Finisher & Sub Plans | K-2",
+      "type": "Printable coloring pages",
+      "grades": "Grades K-2",
+      "subject": "Coloring Pages",
+      "price_usd": 3.5,
+      "pages": 30,
+      "standards": [],
+      "listed_on": "2026-09-21",
+      "summary": "Beautiful Birds - 27 no-prep printable coloring pages for grades K-2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/bird-coloring-k2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Bird-Coloring-Pages-Spring-Science-Early-Finisher-Sub-Plans-K-2-17709163"
+    },
+    {
       "sku": "birthday-coloring-k2",
       "title": "Birthday Coloring Pages | Class Party & Early Finisher Activity | K-2",
       "type": "Printable coloring pages",
@@ -1979,6 +1993,20 @@
       "summary": "Community Helpers and Jobs - 30 no-prep printable coloring pages for grades K-2.",
       "page_url": "https://earlyfinisherlab.github.io/p/community-helpers-coloring-k2.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Community-Helpers-Coloring-Pages-Careers-Early-Finisher-K-2-17666857"
+    },
+    {
+      "sku": "dessert-coloring-k2",
+      "title": "Ice Cream & Dessert Coloring Pages | Early Finisher Sub Plans | K-2",
+      "type": "Printable coloring pages",
+      "grades": "Grades K-2",
+      "subject": "Coloring Pages",
+      "price_usd": 3.5,
+      "pages": 33,
+      "standards": [],
+      "listed_on": "2026-09-21",
+      "summary": "Sweet Treats and Ice Cream - 30 no-prep printable coloring pages for grades K-2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/dessert-coloring-k2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Ice-Cream-Dessert-Coloring-Pages-Early-Finisher-Sub-Plans-K-2-17709117"
     },
     {
       "sku": "fairy-coloring-k2",
@@ -2051,6 +2079,20 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Lunar-New-Year-Coloring-Pages-Chinese-New-Year-Early-Finisher-K-2-17666688"
     },
     {
+      "sku": "mermaid-coloring-k2",
+      "title": "Mermaid Coloring Pages | Under the Sea Early Finisher & Sub Plans K-2",
+      "type": "Printable coloring pages",
+      "grades": "Grades K-2",
+      "subject": "Coloring Pages",
+      "price_usd": 3.5,
+      "pages": 30,
+      "standards": [],
+      "listed_on": "2026-09-21",
+      "summary": "Under the Sea Mermaids - 27 no-prep printable coloring pages for grades K-2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/mermaid-coloring-k2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Mermaid-Coloring-Pages-Under-the-Sea-Early-Finisher-Sub-Plans-K-2-17709131"
+    },
+    {
       "sku": "music-coloring-k2",
       "title": "Musical Instruments Coloring Pages | Music Class Early Finisher | K-2",
       "type": "Printable coloring pages",
@@ -2091,6 +2133,20 @@
       "summary": "Polar Animals - 28 no-prep printable coloring pages for grades K-2.",
       "page_url": "https://earlyfinisherlab.github.io/p/polar-coloring-k2.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Arctic-Animals-Coloring-Pages-Winter-Early-Finisher-Sub-Plans-K-2-17706061"
+    },
+    {
+      "sku": "rainforest-coloring-k2",
+      "title": "Rainforest Animals Coloring Pages | Habitat Early Finisher | Grades K-2",
+      "type": "Printable coloring pages",
+      "grades": "Grades K-2",
+      "subject": "Coloring Pages",
+      "price_usd": 3.5,
+      "pages": 32,
+      "standards": [],
+      "listed_on": "2026-09-21",
+      "summary": "In the Rainforest - 29 no-prep printable coloring pages for grades K-2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/rainforest-coloring-k2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Rainforest-Animals-Coloring-Pages-Habitat-Early-Finisher-Grades-K-2-17709106"
     },
     {
       "sku": "robot-coloring-k2",
@@ -2177,6 +2233,20 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Superhero-Coloring-Pages-Heroes-Gadgets-Vehicles-Early-Finisher-K-2-17666912"
     },
     {
+      "sku": "transportation-coloring-k2",
+      "title": "Transportation Coloring Pages | Cars Trucks Planes Early Finisher K-2",
+      "type": "Printable coloring pages",
+      "grades": "Grades K-2",
+      "subject": "Coloring Pages",
+      "price_usd": 3.5,
+      "pages": 32,
+      "standards": [],
+      "listed_on": "2026-09-21",
+      "summary": "Things That Go - 29 no-prep printable coloring pages for grades K-2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/transportation-coloring-k2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Transportation-Coloring-Pages-Cars-Trucks-Planes-Early-Finisher-K-2-17709115"
+    },
+    {
       "sku": "weather-coloring-k2",
       "title": "Weather Coloring Pages | Science Center & Early Finisher | K-2",
       "type": "Printable coloring pages",
@@ -2219,6 +2289,20 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Zoo-Animals-Coloring-Pages-Safari-Early-Finisher-Sub-Plans-K-2-17703220"
     },
     {
+      "sku": "baby-coloring-prek2",
+      "title": "Baby Coloring Pages | New Baby & Family Unit Early Finisher | PreK-2",
+      "type": "Printable coloring pages",
+      "grades": "Grades PreK-2",
+      "subject": "Coloring Pages",
+      "price_usd": 3.5,
+      "pages": 32,
+      "standards": [],
+      "listed_on": "2026-09-21",
+      "summary": "Baby Things - 29 no-prep printable coloring pages for grades PreK-2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/baby-coloring-prek2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Baby-Coloring-Pages-New-Baby-Family-Unit-Early-Finisher-PreK-2-17709141"
+    },
+    {
       "sku": "christmas-coloring-prek2",
       "title": "Christmas Coloring Pages | Early Finisher & Winter Break Fun | PreK-2",
       "type": "Printable coloring pages",
@@ -2231,6 +2315,34 @@
       "summary": "Cozy Christmas - 27 no-prep printable coloring pages for grades PreK-2.",
       "page_url": "https://earlyfinisherlab.github.io/p/christmas-coloring-prek2.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Christmas-Coloring-Pages-Early-Finisher-Winter-Break-Fun-PreK-2-17666566"
+    },
+    {
+      "sku": "construction-coloring-prek2",
+      "title": "Construction Coloring Pages | Tools & Building Early Finisher | PreK-2",
+      "type": "Printable coloring pages",
+      "grades": "Grades PreK-2",
+      "subject": "Coloring Pages",
+      "price_usd": 3.5,
+      "pages": 33,
+      "standards": [],
+      "listed_on": "2026-09-21",
+      "summary": "At the Construction Site - 30 no-prep printable coloring pages for grades PreK-2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/construction-coloring-prek2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Construction-Coloring-Pages-Tools-Building-Early-Finisher-PreK-2-17709130"
+    },
+    {
+      "sku": "doll-coloring-prek2",
+      "title": "Puppet & Doll Coloring Pages | Pretend Play Early Finisher | PreK-2",
+      "type": "Printable coloring pages",
+      "grades": "Grades PreK-2",
+      "subject": "Coloring Pages",
+      "price_usd": 3.5,
+      "pages": 31,
+      "standards": [],
+      "listed_on": "2026-09-21",
+      "summary": "Dolls and Puppets - 28 no-prep printable coloring pages for grades PreK-2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/doll-coloring-prek2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Puppet-Doll-Coloring-Pages-Pretend-Play-Early-Finisher-PreK-2-17709155"
     },
     {
       "sku": "halloween-coloring-prek2",
@@ -2247,6 +2359,20 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Halloween-Coloring-Pages-Early-Finisher-Sub-Plans-PreK-2-No-Prep-17565377"
     },
     {
+      "sku": "home-coloring-prek2",
+      "title": "My House Coloring Pages | Household Objects Vocabulary PreK-2 No Prep",
+      "type": "Printable coloring pages",
+      "grades": "Grades PreK-2",
+      "subject": "Coloring Pages",
+      "price_usd": 3.5,
+      "pages": 31,
+      "standards": [],
+      "listed_on": "2026-09-21",
+      "summary": "My House and Home - 28 no-prep printable coloring pages for grades PreK-2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/home-coloring-prek2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/My-House-Coloring-Pages-Household-Objects-Vocabulary-PreK-2-No-Prep-17709104"
+    },
+    {
       "sku": "school-coloring-prek2",
       "title": "Back to School Coloring Pages | First Week & Early Finisher | PreK-2",
       "type": "Printable coloring pages",
@@ -2259,6 +2385,20 @@
       "summary": "School Days - 29 no-prep printable coloring pages for grades PreK-2.",
       "page_url": "https://earlyfinisherlab.github.io/p/school-coloring-prek2.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Back-to-School-Coloring-Pages-First-Week-Early-Finisher-PreK-2-17703036"
+    },
+    {
+      "sku": "toy-coloring-prek2",
+      "title": "Toy Coloring Pages | Teddy Bears, Blocks & Robots Early Finisher | PreK-2",
+      "type": "Printable coloring pages",
+      "grades": "Grades PreK-2",
+      "subject": "Coloring Pages",
+      "price_usd": 3.5,
+      "pages": 29,
+      "standards": [],
+      "listed_on": "2026-09-21",
+      "summary": "The Toy Box - 26 no-prep printable coloring pages for grades PreK-2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/toy-coloring-prek2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Toy-Coloring-Pages-Teddy-Bears-Blocks-Robots-Early-Finisher-PreK-2-17709148"
     }
   ]
 }
