@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 173,
+  "count": 175,
   "resources": [
     {
       "sku": "bake-sale-crossnumber-g2",
@@ -1404,6 +1404,20 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-Bundle-3rd-Grade-Math-Review-Early-Finishers-Sub-Plans-17588953"
     },
     {
+      "sku": "crossnumber-bundle-christmas-g2-g5",
+      "title": "Math Crossword Puzzles Bundle (4 Packs) Grades 2-5 | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grades 2-5",
+      "subject": "",
+      "price_usd": 9.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-09-24",
+      "summary": "All 4 of the math crossword puzzles (cross-number) packs in one download, Grades 2-5.",
+      "page_url": "https://earlyfinisherlab.github.io/p/crossnumber-bundle-christmas-g2-g5.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Christmas-Math-Crossword-Puzzles-Bundle-Grades-2-5-Early-Finishers-Sub-Plans-17737604"
+    },
+    {
       "sku": "crossnumber-bundle-g2-g5",
       "title": "Math Crossword Puzzles Bundle (4 Packs) Grades 2-5 | Early Finishers Enrichment",
       "type": "Math crossword puzzles (cross-number)",
@@ -1416,6 +1430,20 @@
       "summary": "All 4 of the math crossword puzzles (cross-number) packs in one download, Grades 2-5.",
       "page_url": "https://earlyfinisherlab.github.io/p/crossnumber-bundle-g2-g5.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-Bundle-Grades-2-5-Math-Review-Early-Finishers-17488793"
+    },
+    {
+      "sku": "crossnumber-bundle-thanksgiving-g2-g5",
+      "title": "Math Crossword Puzzles Bundle (4 Packs) Grades 2-5 | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grades 2-5",
+      "subject": "",
+      "price_usd": 9.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-09-24",
+      "summary": "All 4 of the math crossword puzzles (cross-number) packs in one download, Grades 2-5.",
+      "page_url": "https://earlyfinisherlab.github.io/p/crossnumber-bundle-thanksgiving-g2-g5.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Thanksgiving-Math-Crossword-Puzzles-Bundle-Grades-2-5-Early-Finishers-17737631"
     },
     {
       "sku": "number-lab-logic-g2",
