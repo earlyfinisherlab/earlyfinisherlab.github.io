@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 160,
+  "count": 173,
   "resources": [
     {
       "sku": "bake-sale-crossnumber-g2",
@@ -25,6 +25,27 @@
       "summary": "20 printable cross-number puzzles (math crosswords) for grade 2.",
       "page_url": "https://earlyfinisherlab.github.io/p/bake-sale-crossnumber-g2.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-2nd-Grade-Math-Review-Vol-6-Early-Finishers-Enrichment-17597350"
+    },
+    {
+      "sku": "class-feast-crossnumber-g2",
+      "title": "Thanksgiving Math Crossword Puzzles 2nd Grade | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grade 2",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 27,
+      "standards": [
+        "2.MD.C.8",
+        "2.NBT.A.1",
+        "2.NBT.A.3",
+        "2.NBT.A.4",
+        "2.NBT.B.5",
+        "2.NBT.B.6"
+      ],
+      "listed_on": "2026-09-24",
+      "summary": "20 printable Thanksgiving math crossword puzzles (cross-number) for grade 2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/class-feast-crossnumber-g2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Thanksgiving-Math-Crossword-Puzzles-2nd-Grade-Early-Finishers-Enrichment-17736442"
     },
     {
       "sku": "costume-party-crossnumber-g2",
@@ -88,6 +109,27 @@
       "summary": "20 printable cross-number puzzles (math crosswords) for grade 2.",
       "page_url": "https://earlyfinisherlab.github.io/p/game-night-spiral-g2.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Spiral-Review-2nd-Grade-Math-Crossword-Puzzles-Early-Finishers-Enrichment-17620579"
+    },
+    {
+      "sku": "gift-swap-crossnumber-g2",
+      "title": "Christmas Math Crossword Puzzles 2nd Grade | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grade 2",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 27,
+      "standards": [
+        "2.MD.C.8",
+        "2.NBT.A.1",
+        "2.NBT.A.3",
+        "2.NBT.A.4",
+        "2.NBT.B.5",
+        "2.NBT.B.6"
+      ],
+      "listed_on": "2026-09-24",
+      "summary": "20 printable Christmas math crossword puzzles (cross-number) for grade 2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/gift-swap-crossnumber-g2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Christmas-Math-Crossword-Puzzles-2nd-Grade-Early-Finishers-Enrichment-17736495"
     },
     {
       "sku": "library-club-crossnumber-g2",
@@ -169,6 +211,27 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-2nd-Grade-Math-Review-Vol-3-Early-Finishers-Enrichment-17551780"
     },
     {
+      "sku": "pizza-party-crossnumber-g2",
+      "title": "Math Crossword Puzzles 2nd Grade Math Review Vol 9 | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grade 2",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 27,
+      "standards": [
+        "2.MD.C.8",
+        "2.NBT.A.1",
+        "2.NBT.A.3",
+        "2.NBT.A.4",
+        "2.NBT.B.5",
+        "2.NBT.B.6"
+      ],
+      "listed_on": "2026-09-24",
+      "summary": "20 printable cross-number puzzles (math crosswords) for grade 2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/pizza-party-crossnumber-g2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-2nd-Grade-Math-Review-Vol-9-Early-Finishers-Enrichment-17736671"
+    },
+    {
       "sku": "science-fair-crossnumber-g2",
       "title": "Math Crossword Puzzles 2nd Grade Math Review Vol 2 | Early Finishers Enrichment",
       "type": "Math crossword puzzles (cross-number)",
@@ -188,6 +251,27 @@
       "summary": "20 printable cross-number puzzles (math crosswords) for grade 2.",
       "page_url": "https://earlyfinisherlab.github.io/p/science-fair-crossnumber-g2.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-2nd-Grade-Math-Review-Vol-2-Early-Finishers-Enrichment-17551707"
+    },
+    {
+      "sku": "snow-day-crossnumber-g2",
+      "title": "Winter Math Crossword Puzzles 2nd Grade | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grade 2",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 27,
+      "standards": [
+        "2.MD.C.8",
+        "2.NBT.A.1",
+        "2.NBT.A.3",
+        "2.NBT.A.4",
+        "2.NBT.B.5",
+        "2.NBT.B.6"
+      ],
+      "listed_on": "2026-09-24",
+      "summary": "20 printable Winter math crossword puzzles (cross-number) for grade 2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/snow-day-crossnumber-g2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Winter-Math-Crossword-Puzzles-2nd-Grade-Early-Finishers-Enrichment-17736536"
     },
     {
       "sku": "zoo-trip-crossnumber-g2",
@@ -457,6 +541,28 @@
       "summary": "20 printable cross-number puzzles (math crosswords) for grade 3.",
       "page_url": "https://earlyfinisherlab.github.io/p/pet-show-crossnumber-g3.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-3rd-Grade-Math-Review-Vol-3-Early-Finishers-Enrichment-17551850"
+    },
+    {
+      "sku": "pizza-party-crossnumber-g3",
+      "title": "Math Crossword Puzzles 3rd Grade Math Review Vol 9 | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grade 3",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 27,
+      "standards": [
+        "2.MD.C.8",
+        "2.NBT.A.1",
+        "2.NBT.A.3",
+        "2.NBT.A.4",
+        "3.NBT.A.2",
+        "3.OA.C.7",
+        "3.OA.D.9"
+      ],
+      "listed_on": "2026-09-24",
+      "summary": "20 printable cross-number puzzles (math crosswords) for grade 3.",
+      "page_url": "https://earlyfinisherlab.github.io/p/pizza-party-crossnumber-g3.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-3rd-Grade-Math-Review-Vol-9-Early-Finishers-Enrichment-17736713"
     },
     {
       "sku": "science-fair-crossnumber-g3",
@@ -805,6 +911,33 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-4th-Grade-Math-Review-Vol-3-Early-Finishers-Enrichment-17551909"
     },
     {
+      "sku": "pizza-party-crossnumber-g4",
+      "title": "Math Crossword Puzzles 4th Grade Math Review Vol 9 | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grade 4",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 27,
+      "standards": [
+        "2.MD.C.8",
+        "2.NBT.A.1",
+        "2.NBT.A.3",
+        "2.NBT.A.4",
+        "3.NBT.A.2",
+        "3.OA.C.7",
+        "3.OA.D.9",
+        "4.NBT.A.2",
+        "4.NBT.B.4",
+        "4.NBT.B.5",
+        "4.NBT.B.6",
+        "4.OA.C.5"
+      ],
+      "listed_on": "2026-09-24",
+      "summary": "20 printable cross-number puzzles (math crosswords) for grade 4.",
+      "page_url": "https://earlyfinisherlab.github.io/p/pizza-party-crossnumber-g4.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-4th-Grade-Math-Review-Vol-9-Early-Finishers-Enrichment-17736749"
+    },
+    {
       "sku": "science-fair-crossnumber-g4",
       "title": "Math Crossword Puzzles 4th Grade Math Review Vol 2 | Early Finishers Enrichment",
       "type": "Math crossword puzzles (cross-number)",
@@ -830,6 +963,33 @@
       "summary": "20 printable cross-number puzzles (math crosswords) for grade 4.",
       "page_url": "https://earlyfinisherlab.github.io/p/science-fair-crossnumber-g4.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-4th-Grade-Math-Review-Vol-2-Early-Finishers-Enrichment-17515673"
+    },
+    {
+      "sku": "snow-day-crossnumber-g4",
+      "title": "Winter Math Crossword Puzzles 4th Grade | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grade 4",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 27,
+      "standards": [
+        "2.MD.C.8",
+        "2.NBT.A.1",
+        "2.NBT.A.3",
+        "2.NBT.A.4",
+        "3.NBT.A.2",
+        "3.OA.C.7",
+        "3.OA.D.9",
+        "4.NBT.A.2",
+        "4.NBT.B.4",
+        "4.NBT.B.5",
+        "4.NBT.B.6",
+        "4.OA.C.5"
+      ],
+      "listed_on": "2026-09-24",
+      "summary": "20 printable Winter math crossword puzzles (cross-number) for grade 4.",
+      "page_url": "https://earlyfinisherlab.github.io/p/snow-day-crossnumber-g4.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Winter-Math-Crossword-Puzzles-4th-Grade-Early-Finishers-Enrichment-17736579"
     },
     {
       "sku": "zoo-trip-crossnumber-g4",
@@ -1122,6 +1282,33 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-5th-Grade-Math-Review-Vol-3-Early-Finishers-Enrichment-17554001"
     },
     {
+      "sku": "pizza-party-crossnumber-g5",
+      "title": "Math Crossword Puzzles 5th Grade Math Review Vol 9 | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grade 5",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 27,
+      "standards": [
+        "2.NBT.A.1",
+        "2.NBT.A.3",
+        "2.NBT.A.4",
+        "3.NBT.A.2",
+        "3.OA.D.9",
+        "4.NBT.A.2",
+        "4.NBT.B.4",
+        "4.NBT.B.5",
+        "4.OA.C.5",
+        "5.NBT.B.5",
+        "5.NBT.B.6",
+        "5.OA.A.1"
+      ],
+      "listed_on": "2026-09-24",
+      "summary": "20 printable cross-number puzzles (math crosswords) for grade 5.",
+      "page_url": "https://earlyfinisherlab.github.io/p/pizza-party-crossnumber-g5.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-5th-Grade-Math-Review-Vol-9-Early-Finishers-Enrichment-17736809"
+    },
+    {
       "sku": "science-fair-crossnumber-g5",
       "title": "Math Crossword Puzzles 5th Grade Math Review Vol 2 | Early Finishers Enrichment",
       "type": "Math crossword puzzles (cross-number)",
@@ -1147,6 +1334,33 @@
       "summary": "20 printable cross-number puzzles (math crosswords) for grade 5.",
       "page_url": "https://earlyfinisherlab.github.io/p/science-fair-crossnumber-g5.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-5th-Grade-Math-Review-Vol-2-Early-Finishers-Enrichment-17515733"
+    },
+    {
+      "sku": "snow-day-crossnumber-g5",
+      "title": "Winter Math Crossword Puzzles 5th Grade | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grade 5",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 27,
+      "standards": [
+        "2.NBT.A.1",
+        "2.NBT.A.3",
+        "2.NBT.A.4",
+        "3.NBT.A.2",
+        "3.OA.D.9",
+        "4.NBT.A.2",
+        "4.NBT.B.4",
+        "4.NBT.B.5",
+        "4.OA.C.5",
+        "5.NBT.B.5",
+        "5.NBT.B.6",
+        "5.OA.A.1"
+      ],
+      "listed_on": "2026-09-24",
+      "summary": "20 printable Winter math crossword puzzles (cross-number) for grade 5.",
+      "page_url": "https://earlyfinisherlab.github.io/p/snow-day-crossnumber-g5.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Winter-Math-Crossword-Puzzles-5th-Grade-Early-Finishers-Enrichment-17736620"
     },
     {
       "sku": "zoo-trip-crossnumber-g5",
@@ -1442,6 +1656,20 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-6th-Grade-Field-Day-Brain-Teasers-Gifted-Early-Finishers-17620697"
     },
     {
+      "sku": "science-fair-logic-g6",
+      "title": "Logic Puzzles 6th Grade | Science Fair Brain Teasers | Gifted Early Finishers",
+      "type": "Logic grid puzzles",
+      "grades": "Grade 6",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [],
+      "listed_on": "2026-09-24",
+      "summary": "10 printable logic grid puzzles with a science fair theme, for grade 6.",
+      "page_url": "https://earlyfinisherlab.github.io/p/science-fair-logic-g6.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-6th-Grade-Science-Fair-Brain-Teasers-Gifted-Early-Finishers-17736839"
+    },
+    {
       "sku": "bake-sale-g23",
       "title": "Logic Puzzles Early Finishers Enrichment | Bake Sale Brain Teasers | Grades 2-3",
       "type": "Logic grid puzzles",
@@ -1594,6 +1822,20 @@
       "summary": "10 printable logic grid puzzles with a pet show theme, for grades 2-3.",
       "page_url": "https://earlyfinisherlab.github.io/p/pet-show-g23.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Early-Finishers-Enrichment-Pet-Show-Brain-Teasers-Grades-2-3-17418970"
+    },
+    {
+      "sku": "pizza-party-logic-g23",
+      "title": "Logic Puzzles Early Finishers | Pizza Party Brain Teasers Grids | Grades 2-3",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 2-3",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [],
+      "listed_on": "2026-09-24",
+      "summary": "10 printable logic grid puzzles with a pizza party theme, for grades 2-3.",
+      "page_url": "https://earlyfinisherlab.github.io/p/pizza-party-logic-g23.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Early-Finishers-Pizza-Party-Brain-Teasers-Grids-Grades-2-3-17733396"
     },
     {
       "sku": "science-fair-g23",
@@ -1848,6 +2090,20 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Early-Finishers-Enrichment-Pet-Show-Brain-Teasers-Grades-4-6-17419042"
     },
     {
+      "sku": "pizza-party-logic-g46",
+      "title": "Logic Puzzles Early Finishers | Pizza Party Brain Teasers Grids | Grades 4-6",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 4-6",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [],
+      "listed_on": "2026-09-24",
+      "summary": "10 printable logic grid puzzles with a pizza party theme, for grades 4-6.",
+      "page_url": "https://earlyfinisherlab.github.io/p/pizza-party-logic-g46.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Early-Finishers-Pizza-Party-Brain-Teasers-Grids-Grades-4-6-17736364"
+    },
+    {
       "sku": "science-fair-g46",
       "title": "Logic Puzzles Early Finishers | Science Fair Brain Teasers Grids | Grades 4-6",
       "type": "Logic grid puzzles",
@@ -1874,6 +2130,20 @@
       "summary": "10 printable Winter logic grid puzzles with a snow day theme, for grades 4-6.",
       "page_url": "https://earlyfinisherlab.github.io/p/snow-day-winter-g46.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Winter-Logic-Puzzles-Grades-4-6-Snow-Day-Brain-Teasers-Early-Finishers-17487489"
+    },
+    {
+      "sku": "zoo-trip-logic-g46",
+      "title": "Logic Puzzles Early Finishers Enrichment | Zoo Trip Brain Teasers | Grades 4-6",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 4-6",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [],
+      "listed_on": "2026-09-24",
+      "summary": "10 printable logic grid puzzles with a zoo trip theme, for grades 4-6.",
+      "page_url": "https://earlyfinisherlab.github.io/p/zoo-trip-logic-g46.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Early-Finishers-Enrichment-Zoo-Trip-Brain-Teasers-Grades-4-6-17733308"
     },
     {
       "sku": "logic-grid-bundle-g23",
