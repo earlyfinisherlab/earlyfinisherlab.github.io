@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 180,
+  "count": 181,
   "resources": [
     {
       "sku": "bake-sale-crossnumber-g2",
@@ -2270,6 +2270,20 @@
       "summary": "All 10 of the logic grid puzzles packs in one download, Grades 2-6.",
       "page_url": "https://earlyfinisherlab.github.io/p/logic-grid-bundle-10.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Bundle-Early-Finishers-Enrichment-Brain-Teasers-Grades-2-6-17419685"
+    },
+    {
+      "sku": "logic-grid-bundle-10-vol2",
+      "title": "Logic Puzzles Bundle (10 Packs) Grades 2-6 | Early Finishers Enrichment",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 2-6",
+      "subject": "",
+      "price_usd": 29.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-09-25",
+      "summary": "All 10 of the logic grid puzzles packs in one download, Grades 2-6.",
+      "page_url": "https://earlyfinisherlab.github.io/p/logic-grid-bundle-10-vol2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Bundle-Vol-2-Early-Finishers-Brain-Teasers-Grades-2-6-17748267"
     },
     {
       "sku": "logic-grid-bundle-halloween",
