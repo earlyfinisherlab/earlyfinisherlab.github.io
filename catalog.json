@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 181,
+  "count": 187,
   "resources": [
     {
       "sku": "bake-sale-crossnumber-g2",
@@ -1404,6 +1404,34 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-Bundle-3rd-Grade-Math-Review-Early-Finishers-Sub-Plans-17588953"
     },
     {
+      "sku": "crossnumber-bundle-10-g2-g3",
+      "title": "Math Crossword Puzzles Bundle (10 Packs) Grades 2-3 | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grades 2-3",
+      "subject": "",
+      "price_usd": 23.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-09-25",
+      "summary": "All 10 of the math crossword puzzles (cross-number) packs in one download, Grades 2-3.",
+      "page_url": "https://earlyfinisherlab.github.io/p/crossnumber-bundle-10-g2-g3.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-Bundle-Grades-2-3-Math-Review-Early-Finishers-17748553"
+    },
+    {
+      "sku": "crossnumber-bundle-10-g2-g3-vol2",
+      "title": "Math Crossword Puzzles Bundle (10 Packs) Grades 2-3 | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grades 2-3",
+      "subject": "",
+      "price_usd": 23.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-09-26",
+      "summary": "All 10 of the math crossword puzzles (cross-number) packs in one download, Grades 2-3.",
+      "page_url": "https://earlyfinisherlab.github.io/p/crossnumber-bundle-10-g2-g3-vol2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-Bundle-Grades-2-3-Vol-2-10-Packs-Early-Finishers-17751138"
+    },
+    {
       "sku": "crossnumber-bundle-christmas-g2-g5",
       "title": "Math Crossword Puzzles Bundle (4 Packs) Grades 2-5 | Early Finishers Enrichment",
       "type": "Math crossword puzzles (cross-number)",
@@ -1500,6 +1528,34 @@
       "summary": "All 4 of the math crossword puzzles (cross-number) packs in one download, Grades 2-5.",
       "page_url": "https://earlyfinisherlab.github.io/p/crossnumber-bundle-winter-g2-g5.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Winter-Math-Crossword-Puzzles-Bundle-Grades-2-5-Early-Finishers-Sub-Plans-17737715"
+    },
+    {
+      "sku": "crossnumber-bundle-10-g4-g5",
+      "title": "Math Crossword Puzzles Bundle (10 Packs) Grades 4-5 | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grades 4-5",
+      "subject": "",
+      "price_usd": 23.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-09-26",
+      "summary": "All 10 of the math crossword puzzles (cross-number) packs in one download, Grades 4-5.",
+      "page_url": "https://earlyfinisherlab.github.io/p/crossnumber-bundle-10-g4-g5.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-Bundle-Grades-4-5-Math-Review-Early-Finishers-17754780"
+    },
+    {
+      "sku": "crossnumber-bundle-10-g4-g5-vol2",
+      "title": "Math Crossword Puzzles Bundle (10 Packs) Grades 4-5 | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grades 4-5",
+      "subject": "",
+      "price_usd": 23.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-09-26",
+      "summary": "All 10 of the math crossword puzzles (cross-number) packs in one download, Grades 4-5.",
+      "page_url": "https://earlyfinisherlab.github.io/p/crossnumber-bundle-10-g4-g5-vol2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-Bundle-Grades-4-5-Vol-2-10-Packs-Early-Finishers-17754796"
     },
     {
       "sku": "number-lab-logic-g2",
@@ -1752,6 +1808,20 @@
       "summary": "10 printable logic grid puzzles with a science fair theme, for grade 6.",
       "page_url": "https://earlyfinisherlab.github.io/p/science-fair-logic-g6.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-6th-Grade-Science-Fair-Brain-Teasers-Gifted-Early-Finishers-17736839"
+    },
+    {
+      "sku": "zoo-trip-logic-g6",
+      "title": "Logic Puzzles 6th Grade | Zoo Trip Brain Teasers | Gifted Early Finishers",
+      "type": "Logic grid puzzles",
+      "grades": "Grade 6",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [],
+      "listed_on": "2026-09-26",
+      "summary": "10 printable logic grid puzzles with a zoo trip theme, for grade 6.",
+      "page_url": "https://earlyfinisherlab.github.io/p/zoo-trip-logic-g6.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-6th-Grade-Zoo-Trip-Brain-Teasers-Gifted-Early-Finishers-17751093"
     },
     {
       "sku": "bake-sale-g23",
@@ -2284,6 +2354,20 @@
       "summary": "All 10 of the logic grid puzzles packs in one download, Grades 2-6.",
       "page_url": "https://earlyfinisherlab.github.io/p/logic-grid-bundle-10-vol2.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Bundle-Vol-2-Early-Finishers-Brain-Teasers-Grades-2-6-17748267"
+    },
+    {
+      "sku": "logic-grid-bundle-10-vol3",
+      "title": "Logic Puzzles Bundle (10 Packs) Grades 2-6 | Early Finishers Enrichment",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 2-6",
+      "subject": "",
+      "price_usd": 29.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-09-26",
+      "summary": "All 10 of the logic grid puzzles packs in one download, Grades 2-6.",
+      "page_url": "https://earlyfinisherlab.github.io/p/logic-grid-bundle-10-vol3.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Holiday-Logic-Puzzles-Bundle-Early-Finishers-Brain-Teasers-Grades-2-6-17754816"
     },
     {
       "sku": "logic-grid-bundle-halloween",
