@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 192,
+  "count": 201,
   "resources": [
     {
       "sku": "bake-sale-crossnumber-g2",
@@ -1404,6 +1404,20 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-Bundle-3rd-Grade-Math-Review-Early-Finishers-Sub-Plans-17588953"
     },
     {
+      "sku": "crossnumber-bundle-pet-show-g2-g5",
+      "title": "Math Crossword Puzzles Bundle (3 Packs) Grades 2, 4, 5 | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grades 2, 4, 5",
+      "subject": "",
+      "price_usd": 8.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-09-27",
+      "summary": "All 3 of the math crossword puzzles (cross-number) packs in one download, Grades 2, 4, 5.",
+      "page_url": "https://earlyfinisherlab.github.io/p/crossnumber-bundle-pet-show-g2-g5.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-Bundle-Vol-3-2nd-4th-5th-Grade-Early-Finishers-17766019"
+    },
+    {
       "sku": "crossnumber-bundle-10-g2-g3",
       "title": "Math Crossword Puzzles Bundle (10 Packs) Grades 2-3 | Early Finishers Enrichment",
       "type": "Math crossword puzzles (cross-number)",
@@ -1474,6 +1488,20 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Christmas-Math-Crossword-Puzzles-Bundle-Grades-2-5-Early-Finishers-Sub-Plans-17737604"
     },
     {
+      "sku": "crossnumber-bundle-field-day-g2-g5",
+      "title": "Math Crossword Puzzles Bundle (4 Packs) Grades 2-5 | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grades 2-5",
+      "subject": "",
+      "price_usd": 9.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-09-27",
+      "summary": "All 4 of the math crossword puzzles (cross-number) packs in one download, Grades 2-5.",
+      "page_url": "https://earlyfinisherlab.github.io/p/crossnumber-bundle-field-day-g2-g5.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-Bundle-Grades-2-5-Vol-4-Math-Review-Early-Finishers-17765301"
+    },
+    {
       "sku": "crossnumber-bundle-g2-g5",
       "title": "Math Crossword Puzzles Bundle (4 Packs) Grades 2-5 | Early Finishers Enrichment",
       "type": "Math crossword puzzles (cross-number)",
@@ -1500,6 +1528,20 @@
       "summary": "All 4 of the math crossword puzzles (cross-number) packs in one download, Grades 2-5.",
       "page_url": "https://earlyfinisherlab.github.io/p/crossnumber-bundle-halloween-g2-g5.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Halloween-Math-Crossword-Puzzles-Bundle-Grades-2-5-Early-Finishers-Sub-Plans-17737719"
+    },
+    {
+      "sku": "crossnumber-bundle-library-club-g2-g5",
+      "title": "Math Crossword Puzzles Bundle (4 Packs) Grades 2-5 | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grades 2-5",
+      "subject": "",
+      "price_usd": 9.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-09-27",
+      "summary": "All 4 of the math crossword puzzles (cross-number) packs in one download, Grades 2-5.",
+      "page_url": "https://earlyfinisherlab.github.io/p/crossnumber-bundle-library-club-g2-g5.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-Bundle-Grades-2-5-Vol-5-Math-Review-Early-Finishers-17765829"
     },
     {
       "sku": "crossnumber-bundle-thanksgiving-g2-g5",
@@ -1556,6 +1598,20 @@
       "summary": "All 4 of the math crossword puzzles (cross-number) packs in one download, Grades 2-5.",
       "page_url": "https://earlyfinisherlab.github.io/p/crossnumber-bundle-winter-g2-g5.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Winter-Math-Crossword-Puzzles-Bundle-Grades-2-5-Early-Finishers-Sub-Plans-17737715"
+    },
+    {
+      "sku": "crossnumber-bundle-multiplication-g3-g5",
+      "title": "Math Crossword Puzzles Bundle (3 Packs) Grades 3-5 | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grades 3-5",
+      "subject": "",
+      "price_usd": 8.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-09-27",
+      "summary": "All 3 of the math crossword puzzles (cross-number) packs in one download, Grades 3-5.",
+      "page_url": "https://earlyfinisherlab.github.io/p/crossnumber-bundle-multiplication-g3-g5.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Multiplication-Math-Crossword-Puzzles-Bundle-Grades-3-5-Early-Finishers-17765894"
     },
     {
       "sku": "crossnumber-bundle-10-g4-g5",
@@ -2520,6 +2576,46 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Animal-Coordinate-Graphing-Mystery-Pictures-Grades-5-6-Early-Finishers-17663878"
     },
     {
+      "sku": "christmas-mystery-graph-g56",
+      "title": "Christmas Coordinate Graphing Mystery Pictures Grades 5-6 | Early Finishers",
+      "type": "Coordinate graphing mystery pictures",
+      "grades": "Grades 5-6",
+      "subject": "Geometry",
+      "price_usd": 4.99,
+      "pages": 66,
+      "standards": [
+        "5.G.A.1",
+        "5.G.A.2",
+        "6.NS.C.6b",
+        "6.NS.C.6c",
+        "6.NS.C.8"
+      ],
+      "listed_on": "2026-09-27",
+      "summary": "15 printable Christmas coordinate graphing mystery pictures for grades 5-6, each in 3 versions (45 graphing pages).",
+      "page_url": "https://earlyfinisherlab.github.io/p/christmas-mystery-graph-g56.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Christmas-Coordinate-Graphing-Mystery-Pictures-Grades-5-6-Early-Finishers-17765454"
+    },
+    {
+      "sku": "dinosaur-mystery-graph-g56",
+      "title": "Dinosaur Coordinate Graphing Mystery Pictures Grades 5-6 | Early Finishers",
+      "type": "Coordinate graphing mystery pictures",
+      "grades": "Grades 5-6",
+      "subject": "Geometry",
+      "price_usd": 4.99,
+      "pages": 66,
+      "standards": [
+        "5.G.A.1",
+        "5.G.A.2",
+        "6.NS.C.6b",
+        "6.NS.C.6c",
+        "6.NS.C.8"
+      ],
+      "listed_on": "2026-09-27",
+      "summary": "15 printable dinosaur coordinate graphing mystery pictures for grades 5-6, each in 3 versions (45 graphing pages).",
+      "page_url": "https://earlyfinisherlab.github.io/p/dinosaur-mystery-graph-g56.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Dinosaur-Coordinate-Graphing-Mystery-Pictures-Grades-5-6-Early-Finishers-17765622"
+    },
+    {
       "sku": "halloween-mystery-graph-g56",
       "title": "Halloween Coordinate Graphing Mystery Pictures Grades 5-6 | Early Finishers",
       "type": "Coordinate graphing mystery pictures",
@@ -2560,6 +2656,46 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Coordinate-Graphing-Mystery-Pictures-Grades-5-6-Early-Finishers-Enrichment-17657167"
     },
     {
+      "sku": "ocean-mystery-graph-g56",
+      "title": "Ocean Coordinate Graphing Mystery Pictures Grades 5-6 | Early Finishers",
+      "type": "Coordinate graphing mystery pictures",
+      "grades": "Grades 5-6",
+      "subject": "Geometry",
+      "price_usd": 4.99,
+      "pages": 66,
+      "standards": [
+        "5.G.A.1",
+        "5.G.A.2",
+        "6.NS.C.6b",
+        "6.NS.C.6c",
+        "6.NS.C.8"
+      ],
+      "listed_on": "2026-09-27",
+      "summary": "15 printable ocean coordinate graphing mystery pictures for grades 5-6, each in 3 versions (45 graphing pages).",
+      "page_url": "https://earlyfinisherlab.github.io/p/ocean-mystery-graph-g56.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Ocean-Coordinate-Graphing-Mystery-Pictures-Grades-5-6-Early-Finishers-17765798"
+    },
+    {
+      "sku": "space-mystery-graph-g56",
+      "title": "Space Coordinate Graphing Mystery Pictures Grades 5-6 | Early Finishers",
+      "type": "Coordinate graphing mystery pictures",
+      "grades": "Grades 5-6",
+      "subject": "Geometry",
+      "price_usd": 4.99,
+      "pages": 66,
+      "standards": [
+        "5.G.A.1",
+        "5.G.A.2",
+        "6.NS.C.6b",
+        "6.NS.C.6c",
+        "6.NS.C.8"
+      ],
+      "listed_on": "2026-09-28",
+      "summary": "15 printable space coordinate graphing mystery pictures for grades 5-6, each in 3 versions (45 graphing pages).",
+      "page_url": "https://earlyfinisherlab.github.io/p/space-mystery-graph-g56.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Space-Coordinate-Graphing-Mystery-Pictures-Grades-5-6-Early-Finishers-17766633"
+    },
+    {
       "sku": "thanksgiving-mystery-graph-g56",
       "title": "Thanksgiving Coordinate Graphing Mystery Pictures Grades 5-6 | Early Finishers",
       "type": "Coordinate graphing mystery pictures",
@@ -2578,6 +2714,26 @@
       "summary": "15 printable Thanksgiving coordinate graphing mystery pictures for grades 5-6, each in 3 versions (45 graphing pages).",
       "page_url": "https://earlyfinisherlab.github.io/p/thanksgiving-mystery-graph-g56.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Thanksgiving-Coordinate-Graphing-Mystery-Pictures-Grades-5-6-Early-Finishers-17664127"
+    },
+    {
+      "sku": "winter-mystery-graph-g56",
+      "title": "Winter Coordinate Graphing Mystery Pictures Grades 5-6 | Early Finishers",
+      "type": "Coordinate graphing mystery pictures",
+      "grades": "Grades 5-6",
+      "subject": "Geometry",
+      "price_usd": 4.99,
+      "pages": 66,
+      "standards": [
+        "5.G.A.1",
+        "5.G.A.2",
+        "6.NS.C.6b",
+        "6.NS.C.6c",
+        "6.NS.C.8"
+      ],
+      "listed_on": "2026-09-28",
+      "summary": "15 printable Winter coordinate graphing mystery pictures for grades 5-6, each in 3 versions (45 graphing pages).",
+      "page_url": "https://earlyfinisherlab.github.io/p/winter-mystery-graph-g56.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Winter-Coordinate-Graphing-Mystery-Pictures-Grades-5-6-Early-Finishers-17766643"
     },
     {
       "sku": "bake-sale-codes-g23",
