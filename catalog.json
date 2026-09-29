@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 210,
+  "count": 216,
   "resources": [
     {
       "sku": "bake-sale-crossnumber-g2",
@@ -3560,6 +3560,90 @@
       "summary": "Choo Choo Trains - 27 no-prep printable coloring pages for grades PreK-2.",
       "page_url": "https://earlyfinisherlab.github.io/p/train-coloring-prek2.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Train-Coloring-Pages-Choo-Choo-Train-Early-Finisher-No-Prep-PreK-2-17715331"
+    },
+    {
+      "sku": "coloring-bundle-adventure-10-k2",
+      "title": "Puzzle Bundle (10 Packs) Grades K-2 | Early Finishers Enrichment",
+      "type": "Printable coloring pages",
+      "grades": "Grades K-2",
+      "subject": "",
+      "price_usd": 13.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-09-30",
+      "summary": "All 10 of the printable coloring pages packs in one download, Grades K-2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/coloring-bundle-adventure-10-k2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Adventure-Coloring-Pages-Bundle-10-Packs-Early-Finisher-Sub-Plans-K-2-17789600"
+    },
+    {
+      "sku": "coloring-bundle-animals-10-k2",
+      "title": "Puzzle Bundle (10 Packs) Grades K-2 | Early Finishers Enrichment",
+      "type": "Printable coloring pages",
+      "grades": "Grades K-2",
+      "subject": "",
+      "price_usd": 13.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-09-30",
+      "summary": "All 10 of the printable coloring pages packs in one download, Grades K-2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/coloring-bundle-animals-10-k2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Animal-Coloring-Pages-Bundle-10-Packs-Early-Finisher-Sub-Plans-K-2-17789612"
+    },
+    {
+      "sku": "coloring-bundle-celebration-k2",
+      "title": "Puzzle Bundle (3 Packs) Grades K-2 | Early Finishers Enrichment",
+      "type": "Printable coloring pages",
+      "grades": "Grades K-2",
+      "subject": "",
+      "price_usd": 4.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-09-30",
+      "summary": "All 3 of the printable coloring pages packs in one download, Grades K-2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/coloring-bundle-celebration-k2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Celebration-Coloring-Pages-Bundle-Early-Finisher-Sub-Plans-K-2-17789648"
+    },
+    {
+      "sku": "coloring-bundle-fairy-tale-k2",
+      "title": "Puzzle Bundle (3 Packs) Grades K-2 | Early Finishers Enrichment",
+      "type": "Printable coloring pages",
+      "grades": "Grades K-2",
+      "subject": "",
+      "price_usd": 4.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-09-30",
+      "summary": "All 3 of the printable coloring pages packs in one download, Grades K-2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/coloring-bundle-fairy-tale-k2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Fairy-Tale-Coloring-Pages-Bundle-Early-Finisher-Sub-Plans-K-2-17789654"
+    },
+    {
+      "sku": "coloring-bundle-farm-pets-k2",
+      "title": "Puzzle Bundle (3 Packs) Grades K-2 | Early Finishers Enrichment",
+      "type": "Printable coloring pages",
+      "grades": "Grades K-2",
+      "subject": "",
+      "price_usd": 4.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-09-30",
+      "summary": "All 3 of the printable coloring pages packs in one download, Grades K-2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/coloring-bundle-farm-pets-k2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Farm-Pet-Coloring-Pages-Bundle-Early-Finisher-Sub-Plans-K-2-17789662"
+    },
+    {
+      "sku": "coloring-bundle-busy-day-prek2",
+      "title": "Puzzle Bundle (4 Packs) Grades PreK-2 | Early Finishers Enrichment",
+      "type": "Printable coloring pages",
+      "grades": "Grades PreK-2",
+      "subject": "",
+      "price_usd": 6.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-09-30",
+      "summary": "All 4 of the printable coloring pages packs in one download, Grades PreK-2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/coloring-bundle-busy-day-prek2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Busy-Day-Coloring-Pages-Bundle-Early-Finisher-Sub-Plans-PreK-2-17789623"
     }
   ]
 }
