@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 223,
+  "count": 229,
   "resources": [
     {
       "sku": "bake-sale-crossnumber-g2",
@@ -3716,6 +3716,62 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Play-Time-Coloring-Pages-Bundle-Early-Finisher-Sub-Plans-K-2-17789775"
     },
     {
+      "sku": "coloring-bundle-safari-k2",
+      "title": "Puzzle Bundle (3 Packs) Grades K-2 | Early Finishers Enrichment",
+      "type": "Printable coloring pages",
+      "grades": "Grades K-2",
+      "subject": "",
+      "price_usd": 4.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-09-30",
+      "summary": "All 3 of the printable coloring pages packs in one download, Grades K-2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/coloring-bundle-safari-k2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Safari-Coloring-Pages-Bundle-Early-Finisher-Sub-Plans-K-2-17789807"
+    },
+    {
+      "sku": "coloring-bundle-space-robots-k2",
+      "title": "Puzzle Bundle (3 Packs) Grades K-2 | Early Finishers Enrichment",
+      "type": "Printable coloring pages",
+      "grades": "Grades K-2",
+      "subject": "",
+      "price_usd": 4.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-09-30",
+      "summary": "All 3 of the printable coloring pages packs in one download, Grades K-2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/coloring-bundle-space-robots-k2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Space-Robot-Coloring-Pages-Bundle-Early-Finisher-Sub-Plans-K-2-17789818"
+    },
+    {
+      "sku": "coloring-bundle-treasure-k2",
+      "title": "Puzzle Bundle (3 Packs) Grades K-2 | Early Finishers Enrichment",
+      "type": "Printable coloring pages",
+      "grades": "Grades K-2",
+      "subject": "",
+      "price_usd": 4.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-09-30",
+      "summary": "All 3 of the printable coloring pages packs in one download, Grades K-2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/coloring-bundle-treasure-k2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Treasure-Hunt-Coloring-Pages-Bundle-Early-Finisher-Sub-Plans-K-2-17789835"
+    },
+    {
+      "sku": "coloring-bundle-winter-k2",
+      "title": "Puzzle Bundle (3 Packs) Grades K-2 | Early Finishers Enrichment",
+      "type": "Printable coloring pages",
+      "grades": "Grades K-2",
+      "subject": "",
+      "price_usd": 4.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-09-30",
+      "summary": "All 3 of the printable coloring pages packs in one download, Grades K-2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/coloring-bundle-winter-k2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Winter-Coloring-Pages-Bundle-Early-Finisher-Sub-Plans-K-2-17789844"
+    },
+    {
       "sku": "coloring-bundle-busy-day-prek2",
       "title": "Puzzle Bundle (4 Packs) Grades PreK-2 | Early Finishers Enrichment",
       "type": "Printable coloring pages",
@@ -3742,6 +3798,34 @@
       "summary": "All 3 of the printable coloring pages packs in one download, Grades PreK-2.",
       "page_url": "https://earlyfinisherlab.github.io/p/coloring-bundle-holiday-prek2.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Holiday-Coloring-Pages-Bundle-Early-Finisher-Sub-Plans-PreK-2-17789744"
+    },
+    {
+      "sku": "coloring-bundle-preschool-10-prek2",
+      "title": "Puzzle Bundle (10 Packs) Grades PreK-2 | Early Finishers Enrichment",
+      "type": "Printable coloring pages",
+      "grades": "Grades PreK-2",
+      "subject": "",
+      "price_usd": 12.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-09-30",
+      "summary": "All 10 of the printable coloring pages packs in one download, Grades PreK-2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/coloring-bundle-preschool-10-prek2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Preschool-Coloring-Pages-Bundle-10-Packs-Early-Finisher-Sub-Plans-PreK-2-17789802"
+    },
+    {
+      "sku": "coloring-bundle-toy-box-prek2",
+      "title": "Puzzle Bundle (4 Packs) Grades PreK-2 | Early Finishers Enrichment",
+      "type": "Printable coloring pages",
+      "grades": "Grades PreK-2",
+      "subject": "",
+      "price_usd": 6.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-09-30",
+      "summary": "All 4 of the printable coloring pages packs in one download, Grades PreK-2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/coloring-bundle-toy-box-prek2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Toy-Box-Coloring-Pages-Bundle-Early-Finisher-Sub-Plans-PreK-2-17789826"
     }
   ]
 }
