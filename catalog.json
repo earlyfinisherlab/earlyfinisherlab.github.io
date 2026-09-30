@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 234,
+  "count": 239,
   "resources": [
     {
       "sku": "bake-sale-crossnumber-g2",
@@ -2828,6 +2828,86 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Easter-Coordinate-Graphing-Mystery-Pictures-Grades-5-6-Early-Finishers-17798777"
     },
     {
+      "sku": "fairy-tale-mystery-graph-g56",
+      "title": "Fairy Tale Coordinate Graphing Mystery Pictures Grades 5-6 | Early Finishers",
+      "type": "Coordinate graphing mystery pictures",
+      "grades": "Grades 5-6",
+      "subject": "Geometry",
+      "price_usd": 3.99,
+      "pages": 66,
+      "standards": [
+        "5.G.A.1",
+        "5.G.A.2",
+        "6.NS.C.6b",
+        "6.NS.C.6c",
+        "6.NS.C.8"
+      ],
+      "listed_on": "2026-10-01",
+      "summary": "15 printable fairy tale coordinate graphing mystery pictures for grades 5-6, each in 3 versions (45 graphing pages).",
+      "page_url": "https://earlyfinisherlab.github.io/p/fairy-tale-mystery-graph-g56.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Fairy-Tale-Coordinate-Graphing-Mystery-Pictures-Grades-5-6-Early-Finishers-17799607"
+    },
+    {
+      "sku": "fall-mystery-graph-g56",
+      "title": "Fall Coordinate Graphing Mystery Pictures Grades 5-6 | Early Finishers",
+      "type": "Coordinate graphing mystery pictures",
+      "grades": "Grades 5-6",
+      "subject": "Geometry",
+      "price_usd": 3.99,
+      "pages": 66,
+      "standards": [
+        "5.G.A.1",
+        "5.G.A.2",
+        "6.NS.C.6b",
+        "6.NS.C.6c",
+        "6.NS.C.8"
+      ],
+      "listed_on": "2026-10-01",
+      "summary": "15 printable Fall coordinate graphing mystery pictures for grades 5-6, each in 3 versions (45 graphing pages).",
+      "page_url": "https://earlyfinisherlab.github.io/p/fall-mystery-graph-g56.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Fall-Coordinate-Graphing-Mystery-Pictures-Grades-5-6-Early-Finishers-17799621"
+    },
+    {
+      "sku": "farm-mystery-graph-g56",
+      "title": "Farm Coordinate Graphing Mystery Pictures Grades 5-6 | Early Finishers",
+      "type": "Coordinate graphing mystery pictures",
+      "grades": "Grades 5-6",
+      "subject": "Geometry",
+      "price_usd": 3.99,
+      "pages": 66,
+      "standards": [
+        "5.G.A.1",
+        "5.G.A.2",
+        "6.NS.C.6b",
+        "6.NS.C.6c",
+        "6.NS.C.8"
+      ],
+      "listed_on": "2026-10-01",
+      "summary": "15 printable farm coordinate graphing mystery pictures for grades 5-6, each in 3 versions (45 graphing pages).",
+      "page_url": "https://earlyfinisherlab.github.io/p/farm-mystery-graph-g56.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Farm-Coordinate-Graphing-Mystery-Pictures-Grades-5-6-Early-Finishers-17799635"
+    },
+    {
+      "sku": "food-mystery-graph-g56",
+      "title": "Food Coordinate Graphing Mystery Pictures Grades 5-6 | Early Finishers",
+      "type": "Coordinate graphing mystery pictures",
+      "grades": "Grades 5-6",
+      "subject": "Geometry",
+      "price_usd": 3.99,
+      "pages": 66,
+      "standards": [
+        "5.G.A.1",
+        "5.G.A.2",
+        "6.NS.C.6b",
+        "6.NS.C.6c",
+        "6.NS.C.8"
+      ],
+      "listed_on": "2026-10-01",
+      "summary": "15 printable food coordinate graphing mystery pictures for grades 5-6, each in 3 versions (45 graphing pages).",
+      "page_url": "https://earlyfinisherlab.github.io/p/food-mystery-graph-g56.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Food-Coordinate-Graphing-Mystery-Pictures-Grades-5-6-Early-Finishers-17799644"
+    },
+    {
       "sku": "halloween-mystery-graph-g56",
       "title": "Halloween Coordinate Graphing Mystery Pictures Grades 5-6 | Early Finishers",
       "type": "Coordinate graphing mystery pictures",
@@ -2846,6 +2926,26 @@
       "summary": "15 printable Halloween coordinate graphing mystery pictures for grades 5-6, each in 3 versions (45 graphing pages).",
       "page_url": "https://earlyfinisherlab.github.io/p/halloween-mystery-graph-g56.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Halloween-Coordinate-Graphing-Mystery-Pictures-Grades-5-6-Early-Finishers-17664083"
+    },
+    {
+      "sku": "jungle-mystery-graph-g56",
+      "title": "Jungle Coordinate Graphing Mystery Pictures Grades 5-6 | Early Finishers",
+      "type": "Coordinate graphing mystery pictures",
+      "grades": "Grades 5-6",
+      "subject": "Geometry",
+      "price_usd": 3.99,
+      "pages": 66,
+      "standards": [
+        "5.G.A.1",
+        "5.G.A.2",
+        "6.NS.C.6b",
+        "6.NS.C.6c",
+        "6.NS.C.8"
+      ],
+      "listed_on": "2026-10-01",
+      "summary": "15 printable jungle coordinate graphing mystery pictures for grades 5-6, each in 3 versions (45 graphing pages).",
+      "page_url": "https://earlyfinisherlab.github.io/p/jungle-mystery-graph-g56.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Jungle-Coordinate-Graphing-Mystery-Pictures-Grades-5-6-Early-Finishers-17799649"
     },
     {
       "sku": "mystery-graph-g56",
