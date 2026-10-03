@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 248,
+  "count": 254,
   "resources": [
     {
       "sku": "bake-sale-crossnumber-g2",
@@ -2014,6 +2014,20 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-6th-Grade-Zoo-Trip-Brain-Teasers-Gifted-Early-Finishers-17751093"
     },
     {
+      "sku": "art-show-logic-g23",
+      "title": "Logic Puzzles Early Finishers Enrichment | Art Show Brain Teasers | Grades 2-3",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 2-3",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [],
+      "listed_on": "2026-10-04",
+      "summary": "10 printable logic grid puzzles with an art show theme, for grades 2-3.",
+      "page_url": "https://earlyfinisherlab.github.io/p/art-show-logic-g23.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Early-Finishers-Enrichment-Art-Show-Brain-Teasers-Grades-2-3-17825584"
+    },
+    {
       "sku": "bake-sale-g23",
       "title": "Logic Puzzles Early Finishers Enrichment | Bake Sale Brain Teasers | Grades 2-3",
       "type": "Logic grid puzzles",
@@ -2154,6 +2168,20 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Early-Finishers-Library-Club-Brain-Teasers-Grids-Grades-2-3-17419439"
     },
     {
+      "sku": "museum-trip-logic-g23",
+      "title": "Logic Puzzles Early Finishers | Museum Trip Brain Teasers Grids | Grades 2-3",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 2-3",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [],
+      "listed_on": "2026-10-04",
+      "summary": "10 printable logic grid puzzles with a museum trip theme, for grades 2-3.",
+      "page_url": "https://earlyfinisherlab.github.io/p/museum-trip-logic-g23.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Early-Finishers-Museum-Trip-Brain-Teasers-Grids-Grades-2-3-17825601"
+    },
+    {
       "sku": "pet-show-g23",
       "title": "Logic Puzzles Early Finishers Enrichment | Pet Show Brain Teasers | Grades 2-3",
       "type": "Logic grid puzzles",
@@ -2208,6 +2236,20 @@
       "summary": "10 printable Winter logic grid puzzles with a snow day theme, for grades 2-3.",
       "page_url": "https://earlyfinisherlab.github.io/p/snow-day-winter-g23.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Winter-Logic-Puzzles-Grades-2-3-Snow-Day-Brain-Teasers-Early-Finishers-17487460"
+    },
+    {
+      "sku": "talent-show-logic-g23",
+      "title": "Logic Puzzles Early Finishers | Talent Show Brain Teasers Grids | Grades 2-3",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 2-3",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [],
+      "listed_on": "2026-10-04",
+      "summary": "10 printable logic grid puzzles with a talent show theme, for grades 2-3.",
+      "page_url": "https://earlyfinisherlab.github.io/p/talent-show-logic-g23.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Early-Finishers-Talent-Show-Brain-Teasers-Grids-Grades-2-3-17825617"
     },
     {
       "sku": "zoo-trip-logic-g23",
@@ -2278,6 +2320,20 @@
       "summary": "4 printable logic grid puzzles with a pet show theme, for grades 2-6.",
       "page_url": "https://earlyfinisherlab.github.io/p/pet-show-free-sampler.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Early-Finishers-Enrichment-Pet-Show-Brain-Teasers-Grades-2-6-17449693"
+    },
+    {
+      "sku": "art-show-logic-g46",
+      "title": "Logic Puzzles Early Finishers Enrichment | Art Show Brain Teasers | Grades 4-6",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 4-6",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [],
+      "listed_on": "2026-10-04",
+      "summary": "10 printable logic grid puzzles with an art show theme, for grades 4-6.",
+      "page_url": "https://earlyfinisherlab.github.io/p/art-show-logic-g46.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Early-Finishers-Enrichment-Art-Show-Brain-Teasers-Grades-4-6-17825595"
     },
     {
       "sku": "bake-sale-g46",
@@ -2420,6 +2476,20 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Early-Finishers-Library-Club-Brain-Teasers-Grids-Grades-4-6-17419473"
     },
     {
+      "sku": "museum-trip-logic-g46",
+      "title": "Logic Puzzles Early Finishers | Museum Trip Brain Teasers Grids | Grades 4-6",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 4-6",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [],
+      "listed_on": "2026-10-04",
+      "summary": "10 printable logic grid puzzles with a museum trip theme, for grades 4-6.",
+      "page_url": "https://earlyfinisherlab.github.io/p/museum-trip-logic-g46.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Early-Finishers-Museum-Trip-Brain-Teasers-Grids-Grades-4-6-17825612"
+    },
+    {
       "sku": "pet-show-g46",
       "title": "Logic Puzzles Early Finishers Enrichment | Pet Show Brain Teasers | Grades 4-6",
       "type": "Logic grid puzzles",
@@ -2474,6 +2544,20 @@
       "summary": "10 printable Winter logic grid puzzles with a snow day theme, for grades 4-6.",
       "page_url": "https://earlyfinisherlab.github.io/p/snow-day-winter-g46.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Winter-Logic-Puzzles-Grades-4-6-Snow-Day-Brain-Teasers-Early-Finishers-17487489"
+    },
+    {
+      "sku": "talent-show-logic-g46",
+      "title": "Logic Puzzles Early Finishers | Talent Show Brain Teasers Grids | Grades 4-6",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 4-6",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [],
+      "listed_on": "2026-10-04",
+      "summary": "10 printable logic grid puzzles with a talent show theme, for grades 4-6.",
+      "page_url": "https://earlyfinisherlab.github.io/p/talent-show-logic-g46.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Early-Finishers-Talent-Show-Brain-Teasers-Grids-Grades-4-6-17825625"
     },
     {
       "sku": "zoo-trip-logic-g46",
