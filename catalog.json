@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 274,
+  "count": 276,
   "resources": [
     {
       "sku": "art-show-crossnumber-g2",
@@ -109,6 +109,27 @@
       "summary": "20 printable Halloween math crossword puzzles (cross-number) for grade 2.",
       "page_url": "https://earlyfinisherlab.github.io/p/costume-party-crossnumber-g2.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Halloween-Math-Crossword-Puzzles-2nd-Grade-Early-Finishers-Sub-Plans-17539226"
+    },
+    {
+      "sku": "farm-visit-crossnumber-g2",
+      "title": "Math Crossword Puzzles 2nd Grade Math Review Vol 15 | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grade 2",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 27,
+      "standards": [
+        "2.MD.C.8",
+        "2.NBT.A.1",
+        "2.NBT.A.3",
+        "2.NBT.A.4",
+        "2.NBT.B.5",
+        "2.NBT.B.6"
+      ],
+      "listed_on": "2026-10-05",
+      "summary": "20 printable cross-number puzzles (math crosswords) for grade 2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/farm-visit-crossnumber-g2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-2nd-Grade-Math-Review-Vol-15-Early-Finishers-Enrichment-17848114"
     },
     {
       "sku": "field-day-crossnumber-g2",
@@ -1939,6 +1960,23 @@
       "summary": "All 10 of the math crossword puzzles (cross-number) packs in one download, Grades 4-5.",
       "page_url": "https://earlyfinisherlab.github.io/p/crossnumber-bundle-10-g4-g5-vol2.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-Bundle-Grades-4-5-Vol-2-10-Packs-Early-Finishers-17754796"
+    },
+    {
+      "sku": "adding-money-logic-g2",
+      "title": "Adding Money Logic Puzzles 2nd Grade | Snack Bar Brain Teasers | Early Finishers",
+      "type": "Logic grid puzzles",
+      "grades": "Grade 2",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [
+        "2.MD.C.8",
+        "2.NBT.B.5"
+      ],
+      "listed_on": "2026-10-05",
+      "summary": "10 printable logic grid puzzles with a snack bar theme, for grade 2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/adding-money-logic-g2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Adding-Money-Logic-Puzzles-2nd-Grade-Snack-Bar-Brain-Teasers-Early-Finishers-17848092"
     },
     {
       "sku": "number-lab-logic-g2",
