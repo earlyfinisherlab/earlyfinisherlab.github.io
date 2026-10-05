@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 264,
+  "count": 270,
   "resources": [
     {
       "sku": "bake-sale-crossnumber-g2",
@@ -1717,6 +1717,20 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-Bundle-Grades-2-5-Vol-5-Math-Review-Early-Finishers-17765829"
     },
     {
+      "sku": "crossnumber-bundle-museum-trip-g2-g5",
+      "title": "Math Crossword Puzzles Bundle (4 Packs) Grades 2-5 | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grades 2-5",
+      "subject": "",
+      "price_usd": 9.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-10-05",
+      "summary": "All 4 of the math crossword puzzles (cross-number) packs in one download, Grades 2-5.",
+      "page_url": "https://earlyfinisherlab.github.io/p/crossnumber-bundle-museum-trip-g2-g5.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-Bundle-Grades-2-5-Vol-10-Math-Review-Early-Finishers-17845272"
+    },
+    {
       "sku": "crossnumber-bundle-spiral-g2-g5",
       "title": "Math Crossword Puzzles Bundle (4 Packs) Grades 2-5 | Early Finishers Enrichment",
       "type": "Math crossword puzzles (cross-number)",
@@ -2781,6 +2795,20 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Bundle-Grades-2-3-Vol-4-Early-Finishers-Brain-Teasers-17764490"
     },
     {
+      "sku": "logic-grid-bundle-g23-vol5",
+      "title": "Logic Puzzles Bundle (3 Packs) Grades 2-3 | Early Finishers Enrichment",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 2-3",
+      "subject": "",
+      "price_usd": 11.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-10-05",
+      "summary": "All 3 of the logic grid puzzles packs in one download, Grades 2-3.",
+      "page_url": "https://earlyfinisherlab.github.io/p/logic-grid-bundle-g23-vol5.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Bundle-Grades-2-3-Vol-5-Early-Finishers-Brain-Teasers-17845281"
+    },
+    {
       "sku": "logic-grid-bundle-10",
       "title": "Logic Puzzles Bundle (10 Packs) Grades 2-6 | Early Finishers Enrichment",
       "type": "Logic grid puzzles",
@@ -2905,6 +2933,20 @@
       "summary": "All 3 of the logic grid puzzles packs in one download, Grades 4-6.",
       "page_url": "https://earlyfinisherlab.github.io/p/logic-grid-bundle-g46-vol4.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Bundle-Grades-4-6-Vol-4-Early-Finishers-Brain-Teasers-17776315"
+    },
+    {
+      "sku": "logic-grid-bundle-g46-vol5",
+      "title": "Logic Puzzles Bundle (3 Packs) Grades 4-6 | Early Finishers Enrichment",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 4-6",
+      "subject": "",
+      "price_usd": 11.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-10-05",
+      "summary": "All 3 of the logic grid puzzles packs in one download, Grades 4-6.",
+      "page_url": "https://earlyfinisherlab.github.io/p/logic-grid-bundle-g46-vol5.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Bundle-Grades-4-6-Vol-5-Early-Finishers-Brain-Teasers-17845287"
     },
     {
       "sku": "first-quadrant-mystery-graph-g45",
@@ -3487,6 +3529,48 @@
       "summary": "All 10 of the coordinate graphing mystery pictures packs in one download, Grades 5-6.",
       "page_url": "https://earlyfinisherlab.github.io/p/coordinate-bundle-holidays-10-g56.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Holiday-Coordinate-Graphing-Mystery-Pictures-Bundle-Grades-5-6-10-Packs-17827754"
+    },
+    {
+      "sku": "coordinate-bundle-party-g56",
+      "title": "Puzzle Bundle (3 Packs) Grades 5-6 | Early Finishers Enrichment",
+      "type": "Coordinate graphing mystery pictures",
+      "grades": "Grades 5-6",
+      "subject": "",
+      "price_usd": 9.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-10-05",
+      "summary": "All 3 of the coordinate graphing mystery pictures packs in one download, Grades 5-6.",
+      "page_url": "https://earlyfinisherlab.github.io/p/coordinate-bundle-party-g56.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Party-Coordinate-Graphing-Mystery-Pictures-Bundle-Grades-5-6-Early-Finishers-17845235"
+    },
+    {
+      "sku": "coordinate-bundle-spring-summer-g56",
+      "title": "Puzzle Bundle (4 Packs) Grades 5-6 | Early Finishers Enrichment",
+      "type": "Coordinate graphing mystery pictures",
+      "grades": "Grades 5-6",
+      "subject": "",
+      "price_usd": 12.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-10-05",
+      "summary": "All 4 of the coordinate graphing mystery pictures packs in one download, Grades 5-6.",
+      "page_url": "https://earlyfinisherlab.github.io/p/coordinate-bundle-spring-summer-g56.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Spring-Summer-Coordinate-Graphing-Mystery-Pictures-Bundle-Grades-5-6-17845244"
+    },
+    {
+      "sku": "coordinate-bundle-winter-g56",
+      "title": "Puzzle Bundle (3 Packs) Grades 5-6 | Early Finishers Enrichment",
+      "type": "Coordinate graphing mystery pictures",
+      "grades": "Grades 5-6",
+      "subject": "",
+      "price_usd": 9.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-10-05",
+      "summary": "All 3 of the coordinate graphing mystery pictures packs in one download, Grades 5-6.",
+      "page_url": "https://earlyfinisherlab.github.io/p/coordinate-bundle-winter-g56.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Winter-Coordinate-Graphing-Mystery-Pictures-Bundle-Grades-5-6-Early-Finishers-17845256"
     },
     {
       "sku": "bake-sale-codes-g23",
