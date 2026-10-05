@@ -3,8 +3,29 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 270,
+  "count": 274,
   "resources": [
+    {
+      "sku": "art-show-crossnumber-g2",
+      "title": "Math Crossword Puzzles 2nd Grade Math Review Vol 11 | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grade 2",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 27,
+      "standards": [
+        "2.MD.C.8",
+        "2.NBT.A.1",
+        "2.NBT.A.3",
+        "2.NBT.A.4",
+        "2.NBT.B.5",
+        "2.NBT.B.6"
+      ],
+      "listed_on": "2026-10-05",
+      "summary": "20 printable cross-number puzzles (math crosswords) for grade 2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/art-show-crossnumber-g2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-2nd-Grade-Math-Review-Vol-11-Early-Finishers-Enrichment-17847924"
+    },
     {
       "sku": "bake-sale-crossnumber-g2",
       "title": "Math Crossword Puzzles 2nd Grade Math Review Vol 6 | Early Finishers Enrichment",
@@ -25,6 +46,27 @@
       "summary": "20 printable cross-number puzzles (math crosswords) for grade 2.",
       "page_url": "https://earlyfinisherlab.github.io/p/bake-sale-crossnumber-g2.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-2nd-Grade-Math-Review-Vol-6-Early-Finishers-Enrichment-17597350"
+    },
+    {
+      "sku": "book-fair-crossnumber-g2",
+      "title": "Math Crossword Puzzles 2nd Grade Math Review Vol 13 | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grade 2",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 27,
+      "standards": [
+        "2.MD.C.8",
+        "2.NBT.A.1",
+        "2.NBT.A.3",
+        "2.NBT.A.4",
+        "2.NBT.B.5",
+        "2.NBT.B.6"
+      ],
+      "listed_on": "2026-10-05",
+      "summary": "20 printable cross-number puzzles (math crosswords) for grade 2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/book-fair-crossnumber-g2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-2nd-Grade-Math-Review-Vol-13-Early-Finishers-Enrichment-17847939"
     },
     {
       "sku": "class-feast-crossnumber-g2",
@@ -314,6 +356,48 @@
       "summary": "20 printable Winter math crossword puzzles (cross-number) for grade 2.",
       "page_url": "https://earlyfinisherlab.github.io/p/snow-day-crossnumber-g2.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Winter-Math-Crossword-Puzzles-2nd-Grade-Early-Finishers-Enrichment-17736536"
+    },
+    {
+      "sku": "space-camp-crossnumber-g2",
+      "title": "Math Crossword Puzzles 2nd Grade Math Review Vol 14 | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grade 2",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 27,
+      "standards": [
+        "2.MD.C.8",
+        "2.NBT.A.1",
+        "2.NBT.A.3",
+        "2.NBT.A.4",
+        "2.NBT.B.5",
+        "2.NBT.B.6"
+      ],
+      "listed_on": "2026-10-05",
+      "summary": "20 printable cross-number puzzles (math crosswords) for grade 2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/space-camp-crossnumber-g2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-2nd-Grade-Math-Review-Vol-14-Early-Finishers-Enrichment-17848022"
+    },
+    {
+      "sku": "talent-show-crossnumber-g2",
+      "title": "Math Crossword Puzzles 2nd Grade Math Review Vol 12 | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grade 2",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 27,
+      "standards": [
+        "2.MD.C.8",
+        "2.NBT.A.1",
+        "2.NBT.A.3",
+        "2.NBT.A.4",
+        "2.NBT.B.5",
+        "2.NBT.B.6"
+      ],
+      "listed_on": "2026-10-05",
+      "summary": "20 printable cross-number puzzles (math crosswords) for grade 2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/talent-show-crossnumber-g2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-2nd-Grade-Math-Review-Vol-12-Early-Finishers-Enrichment-17848038"
     },
     {
       "sku": "zoo-trip-crossnumber-g2",

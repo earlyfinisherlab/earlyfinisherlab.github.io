@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://earlyfinisherlab.github.io/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+<url><loc>https://earlyfinisherlab.github.io/p/art-show-crossnumber-g2.html</loc><lastmod>2026-10-05</lastmod><priority>0.8</priority></url>
 <url><loc>https://earlyfinisherlab.github.io/p/bake-sale-crossnumber-g2.html</loc><lastmod>2026-09-08</lastmod><priority>0.8</priority></url>
+<url><loc>https://earlyfinisherlab.github.io/p/book-fair-crossnumber-g2.html</loc><lastmod>2026-10-05</lastmod><priority>0.8</priority></url>
 <url><loc>https://earlyfinisherlab.github.io/p/class-feast-crossnumber-g2.html</loc><lastmod>2026-09-24</lastmod><priority>0.8</priority></url>
 <url><loc>https://earlyfinisherlab.github.io/p/costume-party-crossnumber-g2.html</loc><lastmod>2026-09-01</lastmod><priority>0.8</priority></url>
 <url><loc>https://earlyfinisherlab.github.io/p/field-day-crossnumber-g2.html</loc><lastmod>2026-09-02</lastmod><priority>0.8</priority></url>
@@ -16,6 +18,8 @@
 <url><loc>https://earlyfinisherlab.github.io/p/pizza-party-crossnumber-g2.html</loc><lastmod>2026-09-24</lastmod><priority>0.8</priority></url>
 <url><loc>https://earlyfinisherlab.github.io/p/science-fair-crossnumber-g2.html</loc><lastmod>2026-09-02</lastmod><priority>0.8</priority></url>
 <url><loc>https://earlyfinisherlab.github.io/p/snow-day-crossnumber-g2.html</loc><lastmod>2026-09-24</lastmod><priority>0.8</priority></url>
+<url><loc>https://earlyfinisherlab.github.io/p/space-camp-crossnumber-g2.html</loc><lastmod>2026-10-05</lastmod><priority>0.8</priority></url>
+<url><loc>https://earlyfinisherlab.github.io/p/talent-show-crossnumber-g2.html</loc><lastmod>2026-10-05</lastmod><priority>0.8</priority></url>
 <url><loc>https://earlyfinisherlab.github.io/p/zoo-trip-crossnumber-g2.html</loc><lastmod>2026-09-22</lastmod><priority>0.8</priority></url>
 <url><loc>https://earlyfinisherlab.github.io/p/bake-sale-crossnumber-g3.html</loc><lastmod>2026-09-08</lastmod><priority>0.8</priority></url>
 <url><loc>https://earlyfinisherlab.github.io/p/class-feast-crossnumber-g3.html</loc><lastmod>2026-08-29</lastmod><priority>0.8</priority></url>
