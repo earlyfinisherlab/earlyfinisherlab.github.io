@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 283,
+  "count": 289,
   "resources": [
     {
       "sku": "art-show-crossnumber-g2",
@@ -1993,6 +1993,38 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Adding-Money-Logic-Puzzles-2nd-Grade-Snack-Bar-Brain-Teasers-Early-Finishers-17848092"
     },
     {
+      "sku": "hundred-more-less-logic-g2",
+      "title": "10 More 100 More Logic Puzzles 2nd Grade | Brain Teasers | Early Finishers",
+      "type": "Logic grid puzzles",
+      "grades": "Grade 2",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [
+        "2.NBT.B.8"
+      ],
+      "listed_on": "2026-10-07",
+      "summary": "10 printable logic grid puzzles with a rocket race theme, for grade 2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/hundred-more-less-logic-g2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/10-More-100-More-Logic-Puzzles-2nd-Grade-Brain-Teasers-Early-Finishers-17862792"
+    },
+    {
+      "sku": "money-to-dollar-logic-g2",
+      "title": "Counting Money to $1 Logic Puzzles 2nd Grade | Brain Teasers | Early Finishers",
+      "type": "Logic grid puzzles",
+      "grades": "Grade 2",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [
+        "2.MD.C.8"
+      ],
+      "listed_on": "2026-10-07",
+      "summary": "10 printable logic grid puzzles with a book fair theme, for grade 2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/money-to-dollar-logic-g2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Counting-Money-to-1-Logic-Puzzles-2nd-Grade-Brain-Teasers-Early-Finishers-17862819"
+    },
+    {
       "sku": "number-lab-logic-g2",
       "title": "Logic Puzzles 2nd Grade | Math Facts Brain Teasers | Gifted Early Finishers",
       "type": "Logic grid puzzles",
@@ -2019,6 +2051,23 @@
       "summary": "10 printable logic grid puzzles with a bake sale theme, for grade 3.",
       "page_url": "https://earlyfinisherlab.github.io/p/bake-sale-logic-g3.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-3rd-Grade-Bake-Sale-Brain-Teasers-Gifted-Early-Finishers-17587143"
+    },
+    {
+      "sku": "fact-families-logic-g3",
+      "title": "Multiplication and Division Logic Puzzles 3rd Grade | Puzzles | Early Finishers",
+      "type": "Logic grid puzzles",
+      "grades": "Grade 3",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [
+        "3.OA.B.6",
+        "3.OA.C.7"
+      ],
+      "listed_on": "2026-10-07",
+      "summary": "10 printable logic grid puzzles with a reunion theme, for grade 3.",
+      "page_url": "https://earlyfinisherlab.github.io/p/fact-families-logic-g3.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Multiplication-and-Division-Logic-Puzzles-3rd-Grade-Puzzles-Early-Finishers-17862748"
     },
     {
       "sku": "field-day-logic-g3",
@@ -2089,6 +2138,38 @@
       "summary": "10 printable Halloween logic grid puzzles with a costume party theme, for grade 4.",
       "page_url": "https://earlyfinisherlab.github.io/p/costume-party-halloween-g4.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Halloween-Logic-Puzzles-4th-Grade-Brain-Teasers-Early-Finishers-Enrichment-17616958"
+    },
+    {
+      "sku": "four-digit-pv-logic-g4",
+      "title": "4-Digit Place Value Logic Puzzles 4th Grade | Brain Teasers | Early Finishers",
+      "type": "Logic grid puzzles",
+      "grades": "Grade 4",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [
+        "4.NBT.A.2"
+      ],
+      "listed_on": "2026-10-07",
+      "summary": "10 printable logic grid puzzles with a library theme, for grade 4.",
+      "page_url": "https://earlyfinisherlab.github.io/p/four-digit-pv-logic-g4.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/4-Digit-Place-Value-Logic-Puzzles-4th-Grade-Brain-Teasers-Early-Finishers-17862763"
+    },
+    {
+      "sku": "four-digit-words-logic-g4",
+      "title": "4-Digit Number Words Logic Puzzles 4th Grade | Brain Teasers | Early Finishers",
+      "type": "Logic grid puzzles",
+      "grades": "Grade 4",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [
+        "4.NBT.A.2"
+      ],
+      "listed_on": "2026-10-07",
+      "summary": "10 printable logic grid puzzles with a museum theme, for grade 4.",
+      "page_url": "https://earlyfinisherlab.github.io/p/four-digit-words-logic-g4.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/4-Digit-Number-Words-Logic-Puzzles-4th-Grade-Brain-Teasers-Early-Finishers-17862780"
     },
     {
       "sku": "garden-day-spring-g4",
@@ -2477,6 +2558,22 @@
       "summary": "10 printable logic grid puzzles with a library club theme, for grades 2-3.",
       "page_url": "https://earlyfinisherlab.github.io/p/library-club-g23.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Early-Finishers-Library-Club-Brain-Teasers-Grids-Grades-2-3-17419439"
+    },
+    {
+      "sku": "money-review-logic-g23",
+      "title": "Money Review Logic Puzzles Grades 2-3 | Fun Fair Brain Teasers | Early Finishers",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 2-3",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [
+        "2.MD.C.8"
+      ],
+      "listed_on": "2026-10-07",
+      "summary": "10 printable logic grid puzzles with a fun fair theme, for grades 2-3.",
+      "page_url": "https://earlyfinisherlab.github.io/p/money-review-logic-g23.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Money-Review-Logic-Puzzles-Grades-2-3-Fun-Fair-Brain-Teasers-Early-Finishers-17862805"
     },
     {
       "sku": "museum-trip-logic-g23",
