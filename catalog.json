@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 276,
+  "count": 282,
   "resources": [
     {
       "sku": "art-show-crossnumber-g2",
@@ -2273,6 +2273,23 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Early-Finishers-Enrichment-Bake-Sale-Brain-Teasers-Grades-2-3-17418501"
     },
     {
+      "sku": "change-from-dollar-logic-g23",
+      "title": "Making Change from $1 Logic Puzzles Grades 2-3 | Brain Teasers | Early Finishers",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 2-3",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [
+        "2.MD.C.8",
+        "2.NBT.B.5"
+      ],
+      "listed_on": "2026-10-06",
+      "summary": "10 printable logic grid puzzles with a school store theme, for grades 2-3.",
+      "page_url": "https://earlyfinisherlab.github.io/p/change-from-dollar-logic-g23.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Making-Change-from-1-Logic-Puzzles-Grades-2-3-Brain-Teasers-Early-Finishers-17858701"
+    },
+    {
       "sku": "class-feast-thanksgiving-g23",
       "title": "Thanksgiving Logic Puzzles Grades 2-3 | Brain Teasers | Gifted Early Finishers",
       "type": "Logic grid puzzles",
@@ -2301,6 +2318,38 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Halloween-Logic-Puzzles-Grades-2-3-Brain-Teasers-Early-Finishers-Enrichment-17587220"
     },
     {
+      "sku": "counting-coins-logic-g23",
+      "title": "Counting Coins Logic Puzzles Grades 2-3 | Brain Teasers | Gifted Early Finishers",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 2-3",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [
+        "2.MD.C.8"
+      ],
+      "listed_on": "2026-10-06",
+      "summary": "10 printable logic grid puzzles with a class store theme, for grades 2-3.",
+      "page_url": "https://earlyfinisherlab.github.io/p/counting-coins-logic-g23.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Counting-Coins-Logic-Puzzles-Grades-2-3-Brain-Teasers-Gifted-Early-Finishers-17858722"
+    },
+    {
+      "sku": "dollars-coins-logic-g23",
+      "title": "Dollars and Coins Logic Puzzles Grades 2-3 | Brain Teasers | Early Finishers",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 2-3",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [
+        "2.MD.C.8"
+      ],
+      "listed_on": "2026-10-06",
+      "summary": "10 printable logic grid puzzles with a carnival theme, for grades 2-3.",
+      "page_url": "https://earlyfinisherlab.github.io/p/dollars-coins-logic-g23.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Dollars-and-Coins-Logic-Puzzles-Grades-2-3-Brain-Teasers-Early-Finishers-17858740"
+    },
+    {
       "sku": "egg-hunt-easter-g23",
       "title": "Easter Logic Puzzles Grades 2-3 | Egg Hunt Brain Teasers | Early Finishers",
       "type": "Logic grid puzzles",
@@ -2313,6 +2362,23 @@
       "summary": "10 printable Easter logic grid puzzles with an egg hunt theme, for grades 2-3.",
       "page_url": "https://earlyfinisherlab.github.io/p/egg-hunt-easter-g23.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Easter-Logic-Puzzles-Grades-2-3-Egg-Hunt-Brain-Teasers-Early-Finishers-17587176"
+    },
+    {
+      "sku": "expanded-form-logic-g23",
+      "title": "Expanded Form Place Value Logic Puzzles Grades 2-3 | Puzzles | Early Finishers",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 2-3",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [
+        "2.NBT.A.1",
+        "2.NBT.A.3"
+      ],
+      "listed_on": "2026-10-06",
+      "summary": "10 printable logic grid puzzles with a building site theme, for grades 2-3.",
+      "page_url": "https://earlyfinisherlab.github.io/p/expanded-form-logic-g23.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Expanded-Form-Place-Value-Logic-Puzzles-Grades-2-3-Puzzles-Early-Finishers-17858749"
     },
     {
       "sku": "field-day-g23",
@@ -2551,6 +2617,38 @@
       "summary": "4 printable logic grid puzzles with a pet show theme, for grades 2-6.",
       "page_url": "https://earlyfinisherlab.github.io/p/pet-show-free-sampler.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Early-Finishers-Enrichment-Pet-Show-Brain-Teasers-Grades-2-6-17449693"
+    },
+    {
+      "sku": "change-from-five-logic-g34",
+      "title": "Making Change from $5 Logic Puzzles Grades 3-4 | Brain Teasers | Early Finishers",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 3-4",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [
+        "4.MD.A.2"
+      ],
+      "listed_on": "2026-10-06",
+      "summary": "10 printable logic grid puzzles with a farmers market theme, for grades 3-4.",
+      "page_url": "https://earlyfinisherlab.github.io/p/change-from-five-logic-g34.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Making-Change-from-5-Logic-Puzzles-Grades-3-4-Brain-Teasers-Early-Finishers-17858712"
+    },
+    {
+      "sku": "division-facts-logic-g34",
+      "title": "Division Facts Logic Puzzles Grades 3-4 | Zoo Brain Teasers | Early Finishers",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 3-4",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [
+        "3.OA.C.7"
+      ],
+      "listed_on": "2026-10-06",
+      "summary": "10 printable logic grid puzzles with a zoo theme, for grades 3-4.",
+      "page_url": "https://earlyfinisherlab.github.io/p/division-facts-logic-g34.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Division-Facts-Logic-Puzzles-Grades-3-4-Zoo-Brain-Teasers-Early-Finishers-17858731"
     },
     {
       "sku": "art-show-logic-g46",
