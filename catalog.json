@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 282,
+  "count": 283,
   "resources": [
     {
       "sku": "art-show-crossnumber-g2",
@@ -1666,6 +1666,20 @@
       "summary": "20 printable cross-number puzzles (math crosswords) for grade 5.",
       "page_url": "https://earlyfinisherlab.github.io/p/zoo-trip-crossnumber-g5.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-5th-Grade-Vol-8-Early-Finishers-Enrichment-Sub-Plans-17729568"
+    },
+    {
+      "sku": "crossnumber-bundle-10-g2",
+      "title": "Math Crossword Puzzles Bundle (10 Packs) Grade 2 | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grade 2",
+      "subject": "",
+      "price_usd": 23.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-10-06",
+      "summary": "All 10 of the math crossword puzzles (cross-number) packs in one download, Grade 2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/crossnumber-bundle-10-g2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-Bundle-2nd-Grade-10-Packs-Early-Finishers-17858870"
     },
     {
       "sku": "crossnumber-bundle-g3",
