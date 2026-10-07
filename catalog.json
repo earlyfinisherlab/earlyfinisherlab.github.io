@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 307,
+  "count": 310,
   "resources": [
     {
       "sku": "art-show-crossnumber-g2",
@@ -4180,6 +4180,65 @@
       "summary": "All 3 of the coordinate graphing mystery pictures packs in one download, Grades 5-6.",
       "page_url": "https://earlyfinisherlab.github.io/p/coordinate-bundle-winter-g56.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Winter-Coordinate-Graphing-Mystery-Pictures-Bundle-Grades-5-6-Early-Finishers-17845256"
+    },
+    {
+      "sku": "campground-mystery-frac-g3",
+      "title": "Fractions Math Mystery 3rd Grade | Real World Math Project & Fraction Review",
+      "type": "Real-world math projects",
+      "grades": "Grade 3",
+      "subject": "Fractions",
+      "price_usd": 4.99,
+      "pages": 41,
+      "standards": [
+        "3.NF.A.1",
+        "3.NF.A.2",
+        "3.NF.A.3",
+        "3.G.A.2"
+      ],
+      "listed_on": "2026-10-08",
+      "summary": "Turn fraction practice into a mystery your 3rd graders will want to finish. Someone took the s'mores box from the camp kitchen - and the only way to find the thief is to do the math.",
+      "page_url": "https://earlyfinisherlab.github.io/p/campground-mystery-frac-g3.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Fractions-Math-Mystery-3rd-Grade-Real-World-Math-Project-Fraction-Review-17876383"
+    },
+    {
+      "sku": "garden-mystery-area-g3",
+      "title": "Area and Perimeter Math Mystery 3rd Grade | Real World Math Project",
+      "type": "Real-world math projects",
+      "grades": "Grade 3",
+      "subject": "Geometry",
+      "price_usd": 4.99,
+      "pages": 41,
+      "standards": [
+        "3.MD.C.5",
+        "3.MD.C.6",
+        "3.MD.C.7",
+        "3.MD.D.8"
+      ],
+      "listed_on": "2026-10-08",
+      "summary": "Turn area and perimeter practice into a mystery your 3rd graders will want to finish. Someone took the golden watering can from the community garden - and the only way to find the thief is to do the math.",
+      "page_url": "https://earlyfinisherlab.github.io/p/garden-mystery-area-g3.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Area-and-Perimeter-Math-Mystery-3rd-Grade-Real-World-Math-Project-17876391"
+    },
+    {
+      "sku": "pet-shelter-mystery-div-g3",
+      "title": "Division Math Mystery 3rd Grade | Real World Math Project & Word Problems",
+      "type": "Real-world math projects",
+      "grades": "Grade 3",
+      "subject": "Basic Operations",
+      "price_usd": 4.99,
+      "pages": 41,
+      "standards": [
+        "3.OA.A.2",
+        "3.OA.A.3",
+        "3.OA.A.4",
+        "3.OA.B.6",
+        "3.OA.D.8",
+        "3.MD.B.3"
+      ],
+      "listed_on": "2026-10-08",
+      "summary": "Turn division practice into a mystery your 3rd graders will want to finish. Someone took the giant treat jar from the pet shelter - and the only way to find the thief is to do the math.",
+      "page_url": "https://earlyfinisherlab.github.io/p/pet-shelter-mystery-div-g3.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Division-Math-Mystery-3rd-Grade-Real-World-Math-Project-Word-Problems-17876399"
     },
     {
       "sku": "smoothie-mystery-mult-g3",
