@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 289,
+  "count": 294,
   "resources": [
     {
       "sku": "art-show-crossnumber-g2",
@@ -2025,6 +2025,22 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Counting-Money-to-1-Logic-Puzzles-2nd-Grade-Brain-Teasers-Early-Finishers-17862819"
     },
     {
+      "sku": "nickels-dimes-quarters-logic-g2",
+      "title": "Nickels Dimes and Quarters Logic Puzzles 2nd Grade | Puzzles | Early Finishers",
+      "type": "Logic grid puzzles",
+      "grades": "Grade 2",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [
+        "2.MD.C.8"
+      ],
+      "listed_on": "2026-10-07",
+      "summary": "10 printable logic grid puzzles with an arcade theme, for grade 2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/nickels-dimes-quarters-logic-g2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Nickels-Dimes-and-Quarters-Logic-Puzzles-2nd-Grade-Puzzles-Early-Finishers-17871743"
+    },
+    {
       "sku": "number-lab-logic-g2",
       "title": "Logic Puzzles 2nd Grade | Math Facts Brain Teasers | Gifted Early Finishers",
       "type": "Logic grid puzzles",
@@ -2340,6 +2356,22 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-6th-Grade-Zoo-Trip-Brain-Teasers-Gifted-Early-Finishers-17751093"
     },
     {
+      "sku": "pennies-nickels-dimes-logic-g12",
+      "title": "Pennies Nickels and Dimes Logic Puzzles Grades 1-2 | Puzzles | Early Finishers",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 1-2",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [
+        "2.MD.C.8"
+      ],
+      "listed_on": "2026-10-07",
+      "summary": "10 printable logic grid puzzles with a lemonade stand theme, for grades 1-2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/pennies-nickels-dimes-logic-g12.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Pennies-Nickels-and-Dimes-Logic-Puzzles-Grades-1-2-Puzzles-Early-Finishers-17871764"
+    },
+    {
       "sku": "art-show-logic-g23",
       "title": "Logic Puzzles Early Finishers Enrichment | Art Show Brain Teasers | Grades 2-3",
       "type": "Logic grid puzzles",
@@ -2576,6 +2608,22 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Money-Review-Logic-Puzzles-Grades-2-3-Fun-Fair-Brain-Teasers-Early-Finishers-17862805"
     },
     {
+      "sku": "money-to-five-logic-g23",
+      "title": "Counting Money to $5 Logic Puzzles Grades 2-3 | Brain Teasers | Early Finishers",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 2-3",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [
+        "2.MD.C.8"
+      ],
+      "listed_on": "2026-10-07",
+      "summary": "10 printable logic grid puzzles with a pet store theme, for grades 2-3.",
+      "page_url": "https://earlyfinisherlab.github.io/p/money-to-five-logic-g23.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Counting-Money-to-5-Logic-Puzzles-Grades-2-3-Brain-Teasers-Early-Finishers-17871726"
+    },
+    {
       "sku": "museum-trip-logic-g23",
       "title": "Logic Puzzles Early Finishers | Museum Trip Brain Teasers Grids | Grades 2-3",
       "type": "Logic grid puzzles",
@@ -2588,6 +2636,22 @@
       "summary": "10 printable logic grid puzzles with a museum trip theme, for grades 2-3.",
       "page_url": "https://earlyfinisherlab.github.io/p/museum-trip-logic-g23.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Early-Finishers-Museum-Trip-Brain-Teasers-Grids-Grades-2-3-17825601"
+    },
+    {
+      "sku": "number-words-logic-g23",
+      "title": "Number Words Place Value Logic Puzzles Grades 2-3 | Puzzles | Early Finishers",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 2-3",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [
+        "2.NBT.A.3"
+      ],
+      "listed_on": "2026-10-07",
+      "summary": "10 printable logic grid puzzles with a post office theme, for grades 2-3.",
+      "page_url": "https://earlyfinisherlab.github.io/p/number-words-logic-g23.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Number-Words-Place-Value-Logic-Puzzles-Grades-2-3-Puzzles-Early-Finishers-17871753"
     },
     {
       "sku": "pet-show-g23",
@@ -2616,6 +2680,23 @@
       "summary": "10 printable logic grid puzzles with a pizza party theme, for grades 2-3.",
       "page_url": "https://earlyfinisherlab.github.io/p/pizza-party-logic-g23.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Early-Finishers-Pizza-Party-Brain-Teasers-Grids-Grades-2-3-17733396"
+    },
+    {
+      "sku": "place-value-logic-g23",
+      "title": "Place Value Logic Puzzles Grades 2-3 | Brain Teasers | Gifted Early Finishers",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 2-3",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [
+        "2.NBT.A.1",
+        "2.NBT.A.3"
+      ],
+      "listed_on": "2026-10-07",
+      "summary": "10 printable logic grid puzzles with a treasure hunt theme, for grades 2-3.",
+      "page_url": "https://earlyfinisherlab.github.io/p/place-value-logic-g23.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Place-Value-Logic-Puzzles-Grades-2-3-Brain-Teasers-Gifted-Early-Finishers-17871777"
     },
     {
       "sku": "science-fair-g23",
