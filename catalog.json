@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 301,
+  "count": 307,
   "resources": [
     {
       "sku": "art-show-crossnumber-g2",
@@ -2128,6 +2128,22 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Winter-Logic-Puzzles-3rd-Grade-Snow-Day-Brain-Teasers-Early-Finishers-17608973"
     },
     {
+      "sku": "times-3-4-logic-g3",
+      "title": "3 and 4 Times Tables Logic Puzzles 3rd Grade | Brain Teasers | Early Finishers",
+      "type": "Logic grid puzzles",
+      "grades": "Grade 3",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [
+        "3.OA.C.7"
+      ],
+      "listed_on": "2026-10-08",
+      "summary": "10 printable logic grid puzzles with a garden theme, for grade 3.",
+      "page_url": "https://earlyfinisherlab.github.io/p/times-3-4-logic-g3.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/3-and-4-Times-Tables-Logic-Puzzles-3rd-Grade-Brain-Teasers-Early-Finishers-17875134"
+    },
+    {
       "sku": "class-feast-thanksgiving-g4",
       "title": "Thanksgiving Logic Puzzles 4th Grade | Brain Teasers | Gifted Early Finishers",
       "type": "Logic grid puzzles",
@@ -2823,6 +2839,23 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/2-5-and-10-Times-Tables-Logic-Puzzles-Grades-2-3-Puzzles-Early-Finishers-17874048"
     },
     {
+      "sku": "zeros-pv-logic-g23",
+      "title": "Place Value with Zeros Logic Puzzles Grades 2-3 | Puzzles | Early Finishers",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 2-3",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [
+        "2.NBT.A.1",
+        "2.NBT.A.3"
+      ],
+      "listed_on": "2026-10-08",
+      "summary": "10 printable logic grid puzzles with a bus depot theme, for grades 2-3.",
+      "page_url": "https://earlyfinisherlab.github.io/p/zeros-pv-logic-g23.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Place-Value-with-Zeros-Logic-Puzzles-Grades-2-3-Puzzles-Early-Finishers-17875189"
+    },
+    {
       "sku": "zoo-trip-logic-g23",
       "title": "Logic Puzzles Early Finishers Enrichment | Zoo Trip Brain Teasers | Grades 2-3",
       "type": "Logic grid puzzles",
@@ -2940,6 +2973,71 @@
       "summary": "10 printable logic grid puzzles with a mountain theme, for grades 3-4.",
       "page_url": "https://earlyfinisherlab.github.io/p/pv-review-logic-g34.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Place-Value-Review-Logic-Puzzles-Grades-3-4-Brain-Teasers-Early-Finishers-17874004"
+    },
+    {
+      "sku": "times-6-7-logic-g34",
+      "title": "6 and 7 Times Tables Logic Puzzles Grades 3-4 | Brain Teasers | Early Finishers",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 3-4",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [
+        "3.OA.C.7"
+      ],
+      "listed_on": "2026-10-08",
+      "summary": "10 printable logic grid puzzles with a space station theme, for grades 3-4.",
+      "page_url": "https://earlyfinisherlab.github.io/p/times-6-7-logic-g34.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/6-and-7-Times-Tables-Logic-Puzzles-Grades-3-4-Brain-Teasers-Early-Finishers-17875142"
+    },
+    {
+      "sku": "times-8-9-logic-g34",
+      "title": "8 and 9 Times Tables Logic Puzzles Grades 3-4 | Brain Teasers | Early Finishers",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 3-4",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [
+        "3.OA.C.7"
+      ],
+      "listed_on": "2026-10-08",
+      "summary": "10 printable logic grid puzzles with an ocean lab theme, for grades 3-4.",
+      "page_url": "https://earlyfinisherlab.github.io/p/times-8-9-logic-g34.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/8-and-9-Times-Tables-Logic-Puzzles-Grades-3-4-Brain-Teasers-Early-Finishers-17875153"
+    },
+    {
+      "sku": "times-table-logic-g34",
+      "title": "Multiplication Logic Puzzles Grades 3-4 | Brain Teasers | Gifted Early Finishers",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 3-4",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [
+        "3.OA.C.7"
+      ],
+      "listed_on": "2026-10-08",
+      "summary": "10 printable logic grid puzzles with a times table theme, for grades 3-4.",
+      "page_url": "https://earlyfinisherlab.github.io/p/times-table-logic-g34.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Multiplication-Logic-Puzzles-Grades-3-4-Brain-Teasers-Gifted-Early-Finishers-17875164"
+    },
+    {
+      "sku": "times-to-12-logic-g34",
+      "title": "Times Tables Review Logic Puzzles Grades 3-4 | Brain Teasers | Early Finishers",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 3-4",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [
+        "3.OA.C.7",
+        "4.NBT.B.5"
+      ],
+      "listed_on": "2026-10-08",
+      "summary": "10 printable logic grid puzzles with a treasure vault theme, for grades 3-4.",
+      "page_url": "https://earlyfinisherlab.github.io/p/times-to-12-logic-g34.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Times-Tables-Review-Logic-Puzzles-Grades-3-4-Brain-Teasers-Early-Finishers-17875178"
     },
     {
       "sku": "art-show-logic-g46",
