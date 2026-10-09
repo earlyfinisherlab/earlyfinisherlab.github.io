@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 316,
+  "count": 317,
   "resources": [
     {
       "sku": "art-show-crossnumber-g2",
@@ -4344,6 +4344,29 @@
       "summary": "Turn multiplication practice into a mystery your 3rd graders will want to finish. Someone stole the secret recipe from the smoothie stand - and the only way to find the thief is to do the math.",
       "page_url": "https://earlyfinisherlab.github.io/p/smoothie-mystery-mult-g3.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Multiplication-Math-Mystery-3rd-Grade-Real-World-Math-Project-Word-Problems-17873962"
+    },
+    {
+      "sku": "forest-fair-mystery-factors-g4",
+      "title": "Factors and Multiples Math Mystery 4th Grade | Prime & Composite Math Project",
+      "type": "Real-world math projects",
+      "grades": "Grade 4",
+      "subject": [
+        "Basic Operations",
+        "Numbers"
+      ],
+      "price_usd": 4.99,
+      "pages": 41,
+      "standards": [
+        "4.OA.A.1",
+        "4.OA.A.2",
+        "4.OA.A.3",
+        "4.OA.B.4",
+        "4.OA.C.5"
+      ],
+      "listed_on": "2026-10-10",
+      "summary": "Turn factors and multiples into a mystery your 4th graders will want to finish. Someone took the blue ribbon from the forest fair's prize table - and the only way to find the thief is to do the math.",
+      "page_url": "https://earlyfinisherlab.github.io/p/forest-fair-mystery-factors-g4.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Factors-and-Multiples-Math-Mystery-4th-Grade-Prime-Composite-Math-Project-17898714"
     },
     {
       "sku": "bake-sale-codes-g23",
