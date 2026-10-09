@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 317,
+  "count": 322,
   "resources": [
     {
       "sku": "art-show-crossnumber-g2",
@@ -1682,6 +1682,20 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-Bundle-2nd-Grade-10-Packs-Early-Finishers-17858870"
     },
     {
+      "sku": "crossnumber-bundle-g2-vol3",
+      "title": "Math Crossword Puzzles Bundle (4 Packs) Grade 2 | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grade 2",
+      "subject": "",
+      "price_usd": 11.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-10-10",
+      "summary": "All 4 of the math crossword puzzles (cross-number) packs in one download, Grade 2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/crossnumber-bundle-g2-vol3.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-Bundle-2nd-Grade-Vol-3-Add-Subtract-Place-Value-Money-17898754"
+    },
+    {
       "sku": "crossnumber-bundle-g3",
       "title": "Math Crossword Puzzles Bundle (3 Packs) Grade 3 | Early Finishers Enrichment",
       "type": "Math crossword puzzles (cross-number)",
@@ -1974,6 +1988,20 @@
       "summary": "All 10 of the math crossword puzzles (cross-number) packs in one download, Grades 4-5.",
       "page_url": "https://earlyfinisherlab.github.io/p/crossnumber-bundle-10-g4-g5-vol2.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-Bundle-Grades-4-5-Vol-2-10-Packs-Early-Finishers-17754796"
+    },
+    {
+      "sku": "crossnumber-bundle-10-g4-g5-vol3",
+      "title": "Math Crossword Puzzles Bundle (10 Packs) Grades 4-5 | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grades 4-5",
+      "subject": "",
+      "price_usd": 23.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-10-10",
+      "summary": "All 10 of the math crossword puzzles (cross-number) packs in one download, Grades 4-5.",
+      "page_url": "https://earlyfinisherlab.github.io/p/crossnumber-bundle-10-g4-g5-vol3.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Holiday-Math-Crossword-Puzzles-Bundle-4th-5th-Grade-Halloween-Christmas-17898744"
     },
     {
       "sku": "adding-money-logic-g2",
@@ -3460,6 +3488,20 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Bundle-Grades-2-3-Vol-5-Early-Finishers-Brain-Teasers-17845281"
     },
     {
+      "sku": "logic-grid-bundle-math-skills-10-g23",
+      "title": "Logic Puzzles Bundle (10 Packs) Grades 2-3 | Early Finishers Enrichment",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 2-3",
+      "subject": "",
+      "price_usd": 29.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-10-10",
+      "summary": "All 10 of the logic grid puzzles packs in one download, Grades 2-3.",
+      "page_url": "https://earlyfinisherlab.github.io/p/logic-grid-bundle-math-skills-10-g23.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Money-Place-Value-Times-Tables-Logic-Puzzles-Bundle-Grades-2-3-Math-Review-17898782"
+    },
+    {
       "sku": "logic-grid-bundle-money-g23",
       "title": "Logic Puzzles Bundle (4 Packs) Grades 2-3 | Early Finishers Enrichment",
       "type": "Logic grid puzzles",
@@ -3556,6 +3598,20 @@
       "summary": "All 4 of the logic grid puzzles packs in one download, Grades 2-6.",
       "page_url": "https://earlyfinisherlab.github.io/p/logic-grid-bundle-winter.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Winter-Christmas-Logic-Puzzles-Bundle-Grades-2-6-Early-Finishers-Sub-Plans-17588902"
+    },
+    {
+      "sku": "logic-grid-bundle-math-review-g34",
+      "title": "Logic Puzzles Bundle (3 Packs) Grades 3-4 | Early Finishers Enrichment",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 3-4",
+      "subject": "",
+      "price_usd": 11.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-10-10",
+      "summary": "All 3 of the logic grid puzzles packs in one download, Grades 3-4.",
+      "page_url": "https://earlyfinisherlab.github.io/p/logic-grid-bundle-math-review-g34.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Review-Logic-Puzzles-Bundle-Grades-3-4-Division-Place-Value-Money-17898769"
     },
     {
       "sku": "logic-grid-bundle-times-tables-g34",
@@ -4367,6 +4423,20 @@
       "summary": "Turn factors and multiples into a mystery your 4th graders will want to finish. Someone took the blue ribbon from the forest fair's prize table - and the only way to find the thief is to do the math.",
       "page_url": "https://earlyfinisherlab.github.io/p/forest-fair-mystery-factors-g4.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Factors-and-Multiples-Math-Mystery-4th-Grade-Prime-Composite-Math-Project-17898714"
+    },
+    {
+      "sku": "math-mystery-bundle-g3",
+      "title": "Puzzle Bundle (4 Packs) Grade 3 | Early Finishers Enrichment",
+      "type": "Real-world math projects",
+      "grades": "Grade 3",
+      "subject": "",
+      "price_usd": 15.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-10-10",
+      "summary": "All 4 of the real-world math projects packs in one download, Grade 3.",
+      "page_url": "https://earlyfinisherlab.github.io/p/math-mystery-bundle-g3.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Mystery-Bundle-3rd-Grade-Multiplication-Division-Fractions-Area-Projects-17898791"
     },
     {
       "sku": "bake-sale-codes-g23",
