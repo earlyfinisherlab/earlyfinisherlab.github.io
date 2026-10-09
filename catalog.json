@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 310,
+  "count": 316,
   "resources": [
     {
       "sku": "art-show-crossnumber-g2",
@@ -3292,6 +3292,20 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Early-Finishers-Enrichment-Zoo-Trip-Brain-Teasers-Grades-4-6-17733308"
     },
     {
+      "sku": "logic-grid-bundle-math-skills-g2",
+      "title": "Logic Puzzles Bundle (4 Packs) Grade 2 | Early Finishers Enrichment",
+      "type": "Logic grid puzzles",
+      "grades": "Grade 2",
+      "subject": "",
+      "price_usd": 15.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-10-10",
+      "summary": "All 4 of the logic grid puzzles packs in one download, Grade 2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/logic-grid-bundle-math-skills-g2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Money-100-More-Less-Logic-Puzzles-Bundle-2nd-Grade-Counting-Coins-17898589"
+    },
+    {
       "sku": "logic-grid-bundle-grade3",
       "title": "Logic Puzzles Bundle (3 Packs) Grade 3 | Early Finishers Enrichment",
       "type": "Logic grid puzzles",
@@ -3320,6 +3334,20 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Bundle-4th-Grade-Early-Finishers-Enrichment-Brain-Teasers-17776358"
     },
     {
+      "sku": "logic-grid-bundle-math-skills-g4",
+      "title": "Logic Puzzles Bundle (4 Packs) Grade 4 | Early Finishers Enrichment",
+      "type": "Logic grid puzzles",
+      "grades": "Grade 4",
+      "subject": "",
+      "price_usd": 15.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-10-10",
+      "summary": "All 4 of the logic grid puzzles packs in one download, Grade 4.",
+      "page_url": "https://earlyfinisherlab.github.io/p/logic-grid-bundle-math-skills-g4.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/4th-Grade-Math-Logic-Puzzles-Bundle-Place-Value-Multi-Digit-Multiplication-17898600"
+    },
+    {
       "sku": "logic-grid-bundle-grade5",
       "title": "Logic Puzzles Bundle (4 Packs) Grade 5 | Early Finishers Enrichment",
       "type": "Logic grid puzzles",
@@ -3346,6 +3374,20 @@
       "summary": "All 3 of the logic grid puzzles packs in one download, Grade 6.",
       "page_url": "https://earlyfinisherlab.github.io/p/logic-grid-bundle-grade6.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Bundle-6th-Grade-Early-Finishers-Enrichment-Brain-Teasers-17776379"
+    },
+    {
+      "sku": "logic-grid-bundle-math-skills-g12",
+      "title": "Logic Puzzles Bundle (3 Packs) Grades 1-2 | Early Finishers Enrichment",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 1-2",
+      "subject": "",
+      "price_usd": 11.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-10-10",
+      "summary": "All 3 of the logic grid puzzles packs in one download, Grades 1-2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/logic-grid-bundle-math-skills-g12.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Coins-Tens-and-Ones-Logic-Puzzles-Bundle-Grades-1-2-10-More-10-Less-17898575"
     },
     {
       "sku": "logic-grid-bundle-g23",
@@ -3418,6 +3460,34 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Bundle-Grades-2-3-Vol-5-Early-Finishers-Brain-Teasers-17845281"
     },
     {
+      "sku": "logic-grid-bundle-money-g23",
+      "title": "Logic Puzzles Bundle (4 Packs) Grades 2-3 | Early Finishers Enrichment",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 2-3",
+      "subject": "",
+      "price_usd": 15.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-10-10",
+      "summary": "All 4 of the logic grid puzzles packs in one download, Grades 2-3.",
+      "page_url": "https://earlyfinisherlab.github.io/p/logic-grid-bundle-money-g23.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Money-Logic-Puzzles-Bundle-Grades-2-3-Counting-Coins-Making-Change-17898607"
+    },
+    {
+      "sku": "logic-grid-bundle-place-value-g23",
+      "title": "Logic Puzzles Bundle (4 Packs) Grades 2-3 | Early Finishers Enrichment",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 2-3",
+      "subject": "",
+      "price_usd": 15.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-10-10",
+      "summary": "All 4 of the logic grid puzzles packs in one download, Grades 2-3.",
+      "page_url": "https://earlyfinisherlab.github.io/p/logic-grid-bundle-place-value-g23.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Place-Value-Logic-Puzzles-Bundle-Grades-2-3-Expanded-Form-Number-Words-17898613"
+    },
+    {
       "sku": "logic-grid-bundle-10",
       "title": "Logic Puzzles Bundle (10 Packs) Grades 2-6 | Early Finishers Enrichment",
       "type": "Logic grid puzzles",
@@ -3486,6 +3556,20 @@
       "summary": "All 4 of the logic grid puzzles packs in one download, Grades 2-6.",
       "page_url": "https://earlyfinisherlab.github.io/p/logic-grid-bundle-winter.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Winter-Christmas-Logic-Puzzles-Bundle-Grades-2-6-Early-Finishers-Sub-Plans-17588902"
+    },
+    {
+      "sku": "logic-grid-bundle-times-tables-g34",
+      "title": "Logic Puzzles Bundle (4 Packs) Grades 3-4 | Early Finishers Enrichment",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 3-4",
+      "subject": "",
+      "price_usd": 15.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-10-10",
+      "summary": "All 4 of the logic grid puzzles packs in one download, Grades 3-4.",
+      "page_url": "https://earlyfinisherlab.github.io/p/logic-grid-bundle-times-tables-g34.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Times-Tables-Logic-Puzzles-Bundle-Grades-3-4-Multiplication-Facts-to-12-17898622"
     },
     {
       "sku": "logic-grid-bundle-g46",
