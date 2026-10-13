@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 325,
+  "count": 326,
   "resources": [
     {
       "sku": "art-show-crossnumber-g2",
@@ -3738,6 +3738,20 @@
       "summary": "All 3 of the logic grid puzzles packs in one download, Grades 4-6.",
       "page_url": "https://earlyfinisherlab.github.io/p/logic-grid-bundle-g46-vol5.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Bundle-Grades-4-6-Vol-5-Early-Finishers-Brain-Teasers-17845287"
+    },
+    {
+      "sku": "logic-grid-bundle-g46-vol6",
+      "title": "Logic Puzzles Bundle (3 Packs) Grades 4-6 | Early Finishers Enrichment",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 4-6",
+      "subject": "",
+      "price_usd": 11.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-10-14",
+      "summary": "All 3 of the logic grid puzzles packs in one download, Grades 4-6.",
+      "page_url": "https://earlyfinisherlab.github.io/p/logic-grid-bundle-g46-vol6.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Bundle-Grades-4-6-Vol-6-Early-Finishers-Brain-Teasers-17940156"
     },
     {
       "sku": "first-quadrant-mystery-graph-g45",
