@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 322,
+  "count": 325,
   "resources": [
     {
       "sku": "art-show-crossnumber-g2",
@@ -3096,6 +3096,20 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Early-Finishers-Enrichment-Bake-Sale-Brain-Teasers-Grades-4-6-17418861"
     },
     {
+      "sku": "book-fair-logic-g46",
+      "title": "Logic Puzzles Early Finishers Enrichment | Book Fair Brain Teasers | Grades 4-6",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 4-6",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [],
+      "listed_on": "2026-10-14",
+      "summary": "10 printable logic grid puzzles with a book fair theme, for grades 4-6.",
+      "page_url": "https://earlyfinisherlab.github.io/p/book-fair-logic-g46.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Early-Finishers-Enrichment-Book-Fair-Brain-Teasers-Grades-4-6-17940009"
+    },
+    {
       "sku": "class-feast-thanksgiving-g46",
       "title": "Thanksgiving Logic Puzzles Grades 4-6 | Brain Teasers | Gifted Early Finishers",
       "type": "Logic grid puzzles",
@@ -3136,6 +3150,20 @@
       "summary": "10 printable Easter logic grid puzzles with an egg hunt theme, for grades 4-6.",
       "page_url": "https://earlyfinisherlab.github.io/p/egg-hunt-easter-g46.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Easter-Logic-Puzzles-Grades-4-6-Egg-Hunt-Brain-Teasers-Early-Finishers-17587195"
+    },
+    {
+      "sku": "farm-visit-logic-g46",
+      "title": "Logic Puzzles Early Finishers Enrichment | Farm Visit Brain Teasers | Grades 4-6",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 4-6",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [],
+      "listed_on": "2026-10-14",
+      "summary": "10 printable logic grid puzzles with a farm visit theme, for grades 4-6.",
+      "page_url": "https://earlyfinisherlab.github.io/p/farm-visit-logic-g46.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Early-Finishers-Enrichment-Farm-Visit-Brain-Teasers-Grades-4-6-17940028"
     },
     {
       "sku": "field-day-g46",
@@ -3290,6 +3318,20 @@
       "summary": "10 printable Winter logic grid puzzles with a snow day theme, for grades 4-6.",
       "page_url": "https://earlyfinisherlab.github.io/p/snow-day-winter-g46.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Winter-Logic-Puzzles-Grades-4-6-Snow-Day-Brain-Teasers-Early-Finishers-17487489"
+    },
+    {
+      "sku": "space-camp-logic-g46",
+      "title": "Logic Puzzles Early Finishers Enrichment | Space Camp Brain Teasers | Grades 4-6",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 4-6",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [],
+      "listed_on": "2026-10-14",
+      "summary": "10 printable logic grid puzzles with a space camp theme, for grades 4-6.",
+      "page_url": "https://earlyfinisherlab.github.io/p/space-camp-logic-g46.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Early-Finishers-Enrichment-Space-Camp-Brain-Teasers-Grades-4-6-17940044"
     },
     {
       "sku": "talent-show-logic-g46",
