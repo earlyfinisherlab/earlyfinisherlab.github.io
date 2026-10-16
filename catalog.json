@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 326,
+  "count": 330,
   "resources": [
     {
       "sku": "art-show-crossnumber-g2",
@@ -797,6 +797,28 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Winter-Math-Crossword-Puzzles-3rd-Grade-Early-Finishers-Enrichment-17499914"
     },
     {
+      "sku": "winter-fest-crossnumber-g3",
+      "title": "Winter Math Crossword Puzzles 3rd Grade | Early Finishers Enrichment Sub Plans",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grade 3",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 27,
+      "standards": [
+        "2.MD.C.8",
+        "2.NBT.A.1",
+        "2.NBT.A.3",
+        "2.NBT.A.4",
+        "3.NBT.A.2",
+        "3.OA.C.7",
+        "3.OA.D.9"
+      ],
+      "listed_on": "2026-10-17",
+      "summary": "20 printable Winter math crossword puzzles (cross-number) for grade 3.",
+      "page_url": "https://earlyfinisherlab.github.io/p/winter-fest-crossnumber-g3.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Winter-Math-Crossword-Puzzles-3rd-Grade-Early-Finishers-Enrichment-Sub-Plans-17978437"
+    },
+    {
       "sku": "zoo-trip-crossnumber-g3",
       "title": "Math Crossword Puzzles 3rd Grade Vol 8 | Early Finishers Enrichment Sub Plans",
       "type": "Math crossword puzzles (cross-number)",
@@ -1225,6 +1247,50 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Winter-Math-Crossword-Puzzles-4th-Grade-Early-Finishers-Enrichment-17736579"
     },
     {
+      "sku": "talent-show-addsub-g4",
+      "title": "Addition and Subtraction Math Crossword Puzzles 4th Grade | Sub Plans Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grade 4",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 27,
+      "standards": [
+        "3.NBT.A.2",
+        "4.NBT.B.4"
+      ],
+      "listed_on": "2026-10-17",
+      "summary": "20 printable addition and subtraction math crossword puzzles for grade 4.",
+      "page_url": "https://earlyfinisherlab.github.io/p/talent-show-addsub-g4.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Addition-and-Subtraction-Math-Crossword-Puzzles-4th-Grade-Sub-Plans-Enrichment-17978422"
+    },
+    {
+      "sku": "winter-fest-crossnumber-g4",
+      "title": "Winter Math Crossword Puzzles 4th Grade | Early Finishers Enrichment Sub Plans",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grade 4",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 27,
+      "standards": [
+        "2.MD.C.8",
+        "2.NBT.A.1",
+        "2.NBT.A.3",
+        "2.NBT.A.4",
+        "3.NBT.A.2",
+        "3.OA.C.7",
+        "3.OA.D.9",
+        "4.NBT.A.2",
+        "4.NBT.B.4",
+        "4.NBT.B.5",
+        "4.NBT.B.6",
+        "4.OA.C.5"
+      ],
+      "listed_on": "2026-10-17",
+      "summary": "20 printable Winter math crossword puzzles (cross-number) for grade 4.",
+      "page_url": "https://earlyfinisherlab.github.io/p/winter-fest-crossnumber-g4.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Winter-Math-Crossword-Puzzles-4th-Grade-Early-Finishers-Enrichment-Sub-Plans-17978462"
+    },
+    {
       "sku": "zoo-trip-crossnumber-g4",
       "title": "Math Crossword Puzzles 4th Grade Vol 8 | Early Finishers Enrichment Sub Plans",
       "type": "Math crossword puzzles (cross-number)",
@@ -1639,6 +1705,33 @@
       "summary": "20 printable Winter math crossword puzzles (cross-number) for grade 5.",
       "page_url": "https://earlyfinisherlab.github.io/p/snow-day-crossnumber-g5.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Winter-Math-Crossword-Puzzles-5th-Grade-Early-Finishers-Enrichment-17736620"
+    },
+    {
+      "sku": "winter-fest-crossnumber-g5",
+      "title": "Winter Math Crossword Puzzles 5th Grade | Early Finishers Enrichment Sub Plans",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grade 5",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 27,
+      "standards": [
+        "2.NBT.A.1",
+        "2.NBT.A.3",
+        "2.NBT.A.4",
+        "3.NBT.A.2",
+        "3.OA.D.9",
+        "4.NBT.A.2",
+        "4.NBT.B.4",
+        "4.NBT.B.5",
+        "4.OA.C.5",
+        "5.NBT.B.5",
+        "5.NBT.B.6",
+        "5.OA.A.1"
+      ],
+      "listed_on": "2026-10-17",
+      "summary": "20 printable Winter math crossword puzzles (cross-number) for grade 5.",
+      "page_url": "https://earlyfinisherlab.github.io/p/winter-fest-crossnumber-g5.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Winter-Math-Crossword-Puzzles-5th-Grade-Early-Finishers-Enrichment-Sub-Plans-17978478"
     },
     {
       "sku": "zoo-trip-crossnumber-g5",
