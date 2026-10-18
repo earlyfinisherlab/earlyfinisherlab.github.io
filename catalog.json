@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 338,
+  "count": 348,
   "resources": [
     {
       "sku": "art-show-crossnumber-g2",
@@ -4712,6 +4712,175 @@
       "summary": "All 4 of the real-world math projects packs in one download, Grade 3.",
       "page_url": "https://earlyfinisherlab.github.io/p/math-mystery-bundle-g3.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Math-Mystery-Bundle-3rd-Grade-Multiplication-Division-Fractions-Area-Projects-17898791"
+    },
+    {
+      "sku": "christmas-i-have-who-has-add-subtract-g2",
+      "title": "Christmas Math Games 2nd Grade | I Have Who Has Addition and Subtraction",
+      "type": "Math facts card games (I Have, Who Has?)",
+      "grades": "Grade 2",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 18,
+      "standards": [
+        "2.OA.B.2",
+        "2.NBT.B.5"
+      ],
+      "listed_on": "2026-10-19",
+      "summary": "A Christmas whole-class addition & subtraction game for 2nd grade. \"I have 31. Who has 54 + 18?\" - every student holds a card, listens, and answers in turn until the game comes back round to the START card.",
+      "page_url": "https://earlyfinisherlab.github.io/p/christmas-i-have-who-has-add-subtract-g2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Christmas-Math-Games-2nd-Grade-I-Have-Who-Has-Addition-and-Subtraction-17995200"
+    },
+    {
+      "sku": "i-have-who-has-double-digit-add-subtract-g2",
+      "title": "I Have Who Has Double Digit Addition Games & Subtraction | 2nd Grade Math Game",
+      "type": "Math facts card games (I Have, Who Has?)",
+      "grades": "Grade 2",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 18,
+      "standards": [
+        "2.NBT.B.5"
+      ],
+      "listed_on": "2026-10-19",
+      "summary": "A whole-class double-digit addition & subtraction game for 2nd grade. \"I have 47. Who has 38 + 25?\" - every student holds a card, listens, and answers in turn until the game comes back round to the START card.",
+      "page_url": "https://earlyfinisherlab.github.io/p/i-have-who-has-double-digit-add-subtract-g2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/I-Have-Who-Has-Double-Digit-Addition-Games-Subtraction-2nd-Grade-Math-Game-17989357"
+    },
+    {
+      "sku": "i-have-who-has-place-value-g2",
+      "title": "I Have Who Has Place Value Game | Place Value Games 2nd Grade | Expanded Form",
+      "type": "Math facts card games (I Have, Who Has?)",
+      "grades": "Grade 2",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 18,
+      "standards": [
+        "2.NBT.A.1",
+        "2.NBT.A.3"
+      ],
+      "listed_on": "2026-10-19",
+      "summary": "A whole-class place value game for 2nd grade. \"I have 345. Who has 6 hundreds, 0 tens, 2 ones?\" - every student holds a card, listens, and answers in turn until the game comes back round to the START card.",
+      "page_url": "https://earlyfinisherlab.github.io/p/i-have-who-has-place-value-g2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/I-Have-Who-Has-Place-Value-Game-Place-Value-Games-2nd-Grade-Expanded-Form-17995225"
+    },
+    {
+      "sku": "i-have-who-has-3-digit-add-subtract-g3",
+      "title": "I Have Who Has 3 Digit Addition Games & 3 Digit Subtraction Game | 3rd Grade",
+      "type": "Math facts card games (I Have, Who Has?)",
+      "grades": "Grade 3",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 18,
+      "standards": [
+        "3.NBT.A.2"
+      ],
+      "listed_on": "2026-10-19",
+      "summary": "A whole-class 3-digit addition & subtraction game for 3rd grade. \"I have 512. Who has 347 + 286?\" - every student holds a card, listens, and answers in turn until the game comes back round to the START card.",
+      "page_url": "https://earlyfinisherlab.github.io/p/i-have-who-has-3-digit-add-subtract-g3.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/I-Have-Who-Has-3-Digit-Addition-Games-3-Digit-Subtraction-Game-3rd-Grade-17989337"
+    },
+    {
+      "sku": "i-have-who-has-multiplication-division-g3",
+      "title": "I Have Who Has Multiplication and Division Games 3rd Grade | Math Fact Fluency",
+      "type": "Math facts card games (I Have, Who Has?)",
+      "grades": "Grade 3",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 18,
+      "standards": [
+        "3.OA.C.7",
+        "3.OA.B.6",
+        "3.OA.A.4"
+      ],
+      "listed_on": "2026-10-19",
+      "summary": "A whole-class multiplication & division game for 3rd grade. \"I have 24. Who has 42 ÷ 6?\" - every student holds a card, listens, and answers in turn until the game comes back round to the START card.",
+      "page_url": "https://earlyfinisherlab.github.io/p/i-have-who-has-multiplication-division-g3.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/I-Have-Who-Has-Multiplication-and-Division-Games-3rd-Grade-Math-Fact-Fluency-17995209"
+    },
+    {
+      "sku": "i-have-who-has-rounding-g3",
+      "title": "I Have Who Has Rounding Game 3rd Grade | Round to the Nearest 10 and 100",
+      "type": "Math facts card games (I Have, Who Has?)",
+      "grades": "Grade 3",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 13,
+      "standards": [
+        "3.NBT.A.1"
+      ],
+      "listed_on": "2026-10-19",
+      "summary": "A whole-class rounding game for 3rd grade. \"I have 350. Who has 268 rounded to the nearest 100?\" - every student holds a card, listens, and answers in turn until the game comes back round to the START card.",
+      "page_url": "https://earlyfinisherlab.github.io/p/i-have-who-has-rounding-g3.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/I-Have-Who-Has-Rounding-Game-3rd-Grade-Round-to-the-Nearest-10-and-100-17995246"
+    },
+    {
+      "sku": "i-have-who-has-place-value-g4",
+      "title": "I Have Who Has Place Value Game | Place Value Games 4th Grade | Expanded Form",
+      "type": "Math facts card games (I Have, Who Has?)",
+      "grades": "Grade 4",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 18,
+      "standards": [
+        "4.NBT.A.1",
+        "4.NBT.A.2"
+      ],
+      "listed_on": "2026-10-19",
+      "summary": "A whole-class place value game for 4th grade. \"I have 43,526. Who has 1,000 more than 61,204?\" - every student holds a card, listens, and answers in turn until the game comes back round to the START card.",
+      "page_url": "https://earlyfinisherlab.github.io/p/i-have-who-has-place-value-g4.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/I-Have-Who-Has-Place-Value-Game-Place-Value-Games-4th-Grade-Expanded-Form-17995235"
+    },
+    {
+      "sku": "i-have-who-has-add-subtract-within-20-g12",
+      "title": "I Have Who Has Addition and Subtraction Within 20 Games | 1st & 2nd Grade",
+      "type": "Math facts card games (I Have, Who Has?)",
+      "grades": "Grades 1-2",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 18,
+      "standards": [
+        "1.OA.C.6",
+        "2.OA.B.2"
+      ],
+      "listed_on": "2026-10-19",
+      "summary": "A whole-class addition & subtraction game for 1st and 2nd grade. \"I have 12. Who has 9 + 6?\" - every student holds a card, listens, and answers in turn until the game comes back round to the START card.",
+      "page_url": "https://earlyfinisherlab.github.io/p/i-have-who-has-add-subtract-within-20-g12.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/I-Have-Who-Has-Addition-and-Subtraction-Within-20-Games-1st-2nd-Grade-17989350"
+    },
+    {
+      "sku": "i-have-who-has-multiplication-g34",
+      "title": "I Have Who Has Multiplication Games 3rd Grade | Math Fact Fluency Games",
+      "type": "Math facts card games (I Have, Who Has?)",
+      "grades": "Grades 3-4",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 19,
+      "standards": [
+        "3.OA.C.7",
+        "3.OA.A.1",
+        "3.OA.B.5"
+      ],
+      "listed_on": "2026-10-19",
+      "summary": "A whole-class multiplication facts game for 3rd and 4th grade. \"I have 24. Who has 7 x 8?\" - every student holds a card, listens, and answers in turn until the game comes back round to the START card.",
+      "page_url": "https://earlyfinisherlab.github.io/p/i-have-who-has-multiplication-g34.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/I-Have-Who-Has-Multiplication-Games-3rd-Grade-Math-Fact-Fluency-Games-17995216"
+    },
+    {
+      "sku": "thanksgiving-i-have-who-has-mult-div-g34",
+      "title": "Thanksgiving Math Games | I Have Who Has Multiplication and Division 3rd 4th",
+      "type": "Math facts card games (I Have, Who Has?)",
+      "grades": "Grades 3-4",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 18,
+      "standards": [
+        "3.OA.C.7",
+        "3.OA.B.6"
+      ],
+      "listed_on": "2026-10-19",
+      "summary": "A Thanksgiving whole-class multiplication & division game for 3rd and 4th grade. \"I have 56. Who has 72 ÷ 9?\" - every student holds a card, listens, and answers in turn until the game comes back round to the START card.",
+      "page_url": "https://earlyfinisherlab.github.io/p/thanksgiving-i-have-who-has-mult-div-g34.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Thanksgiving-Math-Games-I-Have-Who-Has-Multiplication-and-Division-3rd-4th-17989364"
     },
     {
       "sku": "bake-sale-codes-g23",
