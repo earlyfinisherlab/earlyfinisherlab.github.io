@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 354,
+  "count": 360,
   "resources": [
     {
       "sku": "art-show-crossnumber-g2",
@@ -4915,6 +4915,38 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Math-Mazes-Multiplying-by-Multiples-of-10-3rd-Grade-Worksheets-18018536"
     },
     {
+      "sku": "math-mazes-2-digit-by-1-digit-multiplication-g4",
+      "title": "Math Mazes 2-Digit by 1-Digit Multiplication | 4th Grade Worksheets",
+      "type": "Self-checking math mazes",
+      "grades": "Grade 4",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 33,
+      "standards": [
+        "4.NBT.B.5"
+      ],
+      "listed_on": "2026-10-20",
+      "summary": "Self-checking math mazes: 2-Digit by 1-Digit Multiplication, 4th Grade. Students start at the green box, solve the problem, and find the answer in a box next to it - up, down, left or right. A wrong answer leads the wrong way, so the maze checks itself.",
+      "page_url": "https://earlyfinisherlab.github.io/p/math-mazes-2-digit-by-1-digit-multiplication-g4.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Mazes-2-Digit-by-1-Digit-Multiplication-4th-Grade-Worksheets-18018916"
+    },
+    {
+      "sku": "math-mazes-add-subtract-within-10000-g4",
+      "title": "Math Mazes Multi-Digit Addition and Subtraction | 4th Grade Worksheets",
+      "type": "Self-checking math mazes",
+      "grades": "Grade 4",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 33,
+      "standards": [
+        "4.NBT.B.4"
+      ],
+      "listed_on": "2026-10-20",
+      "summary": "Self-checking math mazes: add & Subtract Within 10,000, 4th Grade. Students start at the green box, solve the problem, and find the answer in a box next to it - up, down, left or right. A wrong answer leads the wrong way, so the maze checks itself.",
+      "page_url": "https://earlyfinisherlab.github.io/p/math-mazes-add-subtract-within-10000-g4.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Mazes-Multi-Digit-Addition-and-Subtraction-4th-Grade-Worksheets-18018964"
+    },
+    {
       "sku": "math-mazes-division-1-digit-divisors-g4",
       "title": "Math Mazes Division With 1-Digit Divisors | 4th Grade Division Worksheets",
       "type": "Self-checking math mazes",
@@ -4931,6 +4963,39 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Math-Mazes-Division-With-1-Digit-Divisors-4th-Grade-Division-Worksheets-18018504"
     },
     {
+      "sku": "math-mazes-add-subtract-decimals-g5",
+      "title": "Math Mazes Adding and Subtracting Decimals | 5th Grade Decimal Worksheets",
+      "type": "Self-checking math mazes",
+      "grades": "Grade 5",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 33,
+      "standards": [
+        "5.NBT.B.7"
+      ],
+      "listed_on": "2026-10-20",
+      "summary": "Self-checking math mazes: add & Subtract Decimals to Hundredths, 5th Grade. Students start at the green box, solve the problem, and find the answer in a box next to it - up, down, left or right. A wrong answer leads the wrong way, so the maze checks itself.",
+      "page_url": "https://earlyfinisherlab.github.io/p/math-mazes-add-subtract-decimals-g5.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Mazes-Adding-and-Subtracting-Decimals-5th-Grade-Decimal-Worksheets-18018931"
+    },
+    {
+      "sku": "math-mazes-add-subtract-within-100-g12",
+      "title": "Math Mazes Addition and Subtraction Within 100 | 1st & 2nd Grade Worksheets",
+      "type": "Self-checking math mazes",
+      "grades": "Grades 1-2",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 33,
+      "standards": [
+        "2.NBT.B.5",
+        "1.NBT.C.4"
+      ],
+      "listed_on": "2026-10-20",
+      "summary": "Self-checking math mazes: add & Subtract Within 100, 1st and 2nd Grade. Students start at the green box, solve the problem, and find the answer in a box next to it - up, down, left or right. A wrong answer leads the wrong way, so the maze checks itself.",
+      "page_url": "https://earlyfinisherlab.github.io/p/math-mazes-add-subtract-within-100-g12.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Mazes-Addition-and-Subtraction-Within-100-1st-2nd-Grade-Worksheets-18018940"
+    },
+    {
       "sku": "christmas-math-mazes-add-subtract-within-1000-g23",
       "title": "Christmas Math Mazes Addition and Subtraction Within 1000 | 2nd & 3rd Grade",
       "type": "Self-checking math mazes",
@@ -4945,6 +5010,23 @@
       "summary": "Self-checking math mazes: add & Subtract Within 1,000, 2nd and 3rd Grade. Students start at the green box, solve the problem, and find the answer in a box next to it - up, down, left or right. A wrong answer leads the wrong way, so the maze checks itself.",
       "page_url": "https://earlyfinisherlab.github.io/p/christmas-math-mazes-add-subtract-within-1000-g23.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Christmas-Math-Mazes-Addition-and-Subtraction-Within-1000-2nd-3rd-Grade-18018490"
+    },
+    {
+      "sku": "math-mazes-add-subtract-within-1000-g23",
+      "title": "Math Mazes Addition and Subtraction Within 1000 | 2nd & 3rd Grade Worksheets",
+      "type": "Self-checking math mazes",
+      "grades": "Grades 2-3",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 33,
+      "standards": [
+        "3.NBT.A.2",
+        "2.NBT.B.7"
+      ],
+      "listed_on": "2026-10-20",
+      "summary": "Self-checking math mazes for adding and subtracting within 1,000. Students start at the green box, solve the problem, and find the answer in a box next to it - up, down, left or right. A wrong answer leads the wrong way, so the maze checks itself.",
+      "page_url": "https://earlyfinisherlab.github.io/p/math-mazes-add-subtract-within-1000-g23.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Mazes-Addition-and-Subtraction-Within-1000-2nd-3rd-Grade-Worksheets-18018952"
     },
     {
       "sku": "thanksgiving-math-mazes-multiplication-g34",
@@ -4978,6 +5060,22 @@
       "summary": "Color by number mystery pictures: addition & Subtraction Within 20, 1st and 2nd Grade. Every square on the grid has an addition or subtraction fact. Students solve it, find the answer in the color key, and color the square. When every square is colored, a picture appears.",
       "page_url": "https://earlyfinisherlab.github.io/p/christmas-color-by-number-add-subtract-within-20-g12.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Christmas-Color-by-Number-Addition-and-Subtraction-Within-20-1st-2nd-Grade-18018482"
+    },
+    {
+      "sku": "thanksgiving-color-by-number-multiplication-g34",
+      "title": "Thanksgiving Color by Number Multiplication | 3rd & 4th Grade Mystery Pictures",
+      "type": "Color by number math pictures",
+      "grades": "Grades 3-4",
+      "subject": "Basic Operations",
+      "price_usd": 4.75,
+      "pages": 18,
+      "standards": [
+        "3.OA.C.7"
+      ],
+      "listed_on": "2026-10-20",
+      "summary": "Color by number mystery pictures: multiplication, 3rd and 4th Grade. Every square on the grid has a multiplication fact. Students solve it, find the product in the color key, and color the square. When every square is colored, a picture appears.",
+      "page_url": "https://earlyfinisherlab.github.io/p/thanksgiving-color-by-number-multiplication-g34.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Thanksgiving-Color-by-Number-Multiplication-3rd-4th-Grade-Mystery-Pictures-18018973"
     },
     {
       "sku": "bake-sale-codes-g23",
