@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 348,
+  "count": 354,
   "resources": [
     {
       "sku": "art-show-crossnumber-g2",
@@ -4881,6 +4881,103 @@
       "summary": "A Thanksgiving whole-class multiplication & division game for 3rd and 4th grade. \"I have 56. Who has 72 ÷ 9?\" - every student holds a card, listens, and answers in turn until the game comes back round to the START card.",
       "page_url": "https://earlyfinisherlab.github.io/p/thanksgiving-i-have-who-has-mult-div-g34.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Thanksgiving-Math-Games-I-Have-Who-Has-Multiplication-and-Division-3rd-4th-17989364"
+    },
+    {
+      "sku": "math-mazes-multiplication-facts-g3",
+      "title": "Math Mazes Multiplication Facts | 3rd Grade Multiplication Worksheets",
+      "type": "Self-checking math mazes",
+      "grades": "Grade 3",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 33,
+      "standards": [
+        "3.OA.C.7"
+      ],
+      "listed_on": "2026-10-20",
+      "summary": "Self-checking math mazes: multiplication Facts, 3rd Grade. Students start at the green box, solve the problem, and find the answer in a box next to it - up, down, left or right. A wrong answer leads the wrong way, so the maze checks itself.",
+      "page_url": "https://earlyfinisherlab.github.io/p/math-mazes-multiplication-facts-g3.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Mazes-Multiplication-Facts-3rd-Grade-Multiplication-Worksheets-18018523"
+    },
+    {
+      "sku": "math-mazes-multiply-multiples-of-10-g3",
+      "title": "Math Mazes Multiplying by Multiples of 10 | 3rd Grade Worksheets",
+      "type": "Self-checking math mazes",
+      "grades": "Grade 3",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 33,
+      "standards": [
+        "3.NBT.A.3"
+      ],
+      "listed_on": "2026-10-20",
+      "summary": "Self-checking math mazes: multiply by Multiples of 10, 3rd Grade. Students start at the green box, solve the problem, and find the answer in a box next to it - up, down, left or right. A wrong answer leads the wrong way, so the maze checks itself.",
+      "page_url": "https://earlyfinisherlab.github.io/p/math-mazes-multiply-multiples-of-10-g3.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Mazes-Multiplying-by-Multiples-of-10-3rd-Grade-Worksheets-18018536"
+    },
+    {
+      "sku": "math-mazes-division-1-digit-divisors-g4",
+      "title": "Math Mazes Division With 1-Digit Divisors | 4th Grade Division Worksheets",
+      "type": "Self-checking math mazes",
+      "grades": "Grade 4",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 33,
+      "standards": [
+        "4.NBT.B.6"
+      ],
+      "listed_on": "2026-10-20",
+      "summary": "Self-checking math mazes: division With 1-Digit Divisors, 4th Grade. Students start at the green box, solve the problem, and find the answer in a box next to it - up, down, left or right. A wrong answer leads the wrong way, so the maze checks itself.",
+      "page_url": "https://earlyfinisherlab.github.io/p/math-mazes-division-1-digit-divisors-g4.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Mazes-Division-With-1-Digit-Divisors-4th-Grade-Division-Worksheets-18018504"
+    },
+    {
+      "sku": "christmas-math-mazes-add-subtract-within-1000-g23",
+      "title": "Christmas Math Mazes Addition and Subtraction Within 1000 | 2nd & 3rd Grade",
+      "type": "Self-checking math mazes",
+      "grades": "Grades 2-3",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 33,
+      "standards": [
+        "3.NBT.A.2"
+      ],
+      "listed_on": "2026-10-20",
+      "summary": "Self-checking math mazes: add & Subtract Within 1,000, 2nd and 3rd Grade. Students start at the green box, solve the problem, and find the answer in a box next to it - up, down, left or right. A wrong answer leads the wrong way, so the maze checks itself.",
+      "page_url": "https://earlyfinisherlab.github.io/p/christmas-math-mazes-add-subtract-within-1000-g23.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Christmas-Math-Mazes-Addition-and-Subtraction-Within-1000-2nd-3rd-Grade-18018490"
+    },
+    {
+      "sku": "thanksgiving-math-mazes-multiplication-g34",
+      "title": "Thanksgiving Math Mazes Multiplication Facts | 3rd & 4th Grade Activity",
+      "type": "Self-checking math mazes",
+      "grades": "Grades 3-4",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 33,
+      "standards": [
+        "3.OA.C.7"
+      ],
+      "listed_on": "2026-10-20",
+      "summary": "Self-checking math mazes: multiplication Facts, 3rd and 4th Grade. Students start at the green box, solve the problem, and find the answer in a box next to it - up, down, left or right. A wrong answer leads the wrong way, so the maze checks itself.",
+      "page_url": "https://earlyfinisherlab.github.io/p/thanksgiving-math-mazes-multiplication-g34.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Thanksgiving-Math-Mazes-Multiplication-Facts-3rd-4th-Grade-Activity-18018546"
+    },
+    {
+      "sku": "christmas-color-by-number-add-subtract-within-20-g12",
+      "title": "Christmas Color by Number Addition and Subtraction Within 20 | 1st & 2nd Grade",
+      "type": "Color by number math pictures",
+      "grades": "Grades 1-2",
+      "subject": "Basic Operations",
+      "price_usd": 4.75,
+      "pages": 18,
+      "standards": [
+        "1.OA.C.6",
+        "2.OA.B.2"
+      ],
+      "listed_on": "2026-10-20",
+      "summary": "Color by number mystery pictures: addition & Subtraction Within 20, 1st and 2nd Grade. Every square on the grid has an addition or subtraction fact. Students solve it, find the answer in the color key, and color the square. When every square is colored, a picture appears.",
+      "page_url": "https://earlyfinisherlab.github.io/p/christmas-color-by-number-add-subtract-within-20-g12.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Christmas-Color-by-Number-Addition-and-Subtraction-Within-20-1st-2nd-Grade-18018482"
     },
     {
       "sku": "bake-sale-codes-g23",
