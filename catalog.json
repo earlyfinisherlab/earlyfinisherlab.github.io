@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 368,
+  "count": 376,
   "resources": [
     {
       "sku": "art-show-crossnumber-g2",
@@ -3581,6 +3581,20 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Money-100-More-Less-Logic-Puzzles-Bundle-2nd-Grade-Counting-Coins-17898589"
     },
     {
+      "sku": "logic-grid-bundle-g3-fact-families",
+      "title": "Logic Puzzles Bundle (3 Packs) Grade 3 | Early Finishers Enrichment",
+      "type": "Logic grid puzzles",
+      "grades": "Grade 3",
+      "subject": "",
+      "price_usd": 11.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-10-22",
+      "summary": "All 3 of the logic grid puzzles packs in one download, Grade 3.",
+      "page_url": "https://earlyfinisherlab.github.io/p/logic-grid-bundle-g3-fact-families.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-3rd-Grade-Bundle-Fact-Families-Multiplication-Early-Finishers-18034051"
+    },
+    {
       "sku": "logic-grid-bundle-grade3",
       "title": "Logic Puzzles Bundle (3 Packs) Grade 3 | Early Finishers Enrichment",
       "type": "Logic grid puzzles",
@@ -5045,6 +5059,62 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Thanksgiving-Math-Mazes-Multiplication-Facts-3rd-4th-Grade-Activity-18018546"
     },
     {
+      "sku": "math-mazes-bundle-add-subtract-g13",
+      "title": "Puzzle Bundle (3 Packs) Grades 1-3 | Early Finishers Enrichment",
+      "type": "Self-checking math mazes",
+      "grades": "Grades 1-3",
+      "subject": "",
+      "price_usd": 9.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-10-22",
+      "summary": "All 3 of the self-checking math mazes packs in one download, Grades 1-3.",
+      "page_url": "https://earlyfinisherlab.github.io/p/math-mazes-bundle-add-subtract-g13.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Addition-and-Subtraction-Math-Mazes-Bundle-1st-2nd-3rd-Grade-Worksheets-18034087"
+    },
+    {
+      "sku": "math-mazes-bundle-10-g1-g5",
+      "title": "Puzzle Bundle (10 Packs) Grades 1-5 | Early Finishers Enrichment",
+      "type": "Self-checking math mazes",
+      "grades": "Grades 1-5",
+      "subject": "",
+      "price_usd": 23.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-10-22",
+      "summary": "All 10 of the self-checking math mazes packs in one download, Grades 1-5.",
+      "page_url": "https://earlyfinisherlab.github.io/p/math-mazes-bundle-10-g1-g5.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Mazes-Bundle-Grades-1-5-Addition-Subtraction-Multiplication-Division-18034073"
+    },
+    {
+      "sku": "math-mazes-bundle-multiply-divide-g34",
+      "title": "Puzzle Bundle (4 Packs) Grades 3-4 | Early Finishers Enrichment",
+      "type": "Self-checking math mazes",
+      "grades": "Grades 3-4",
+      "subject": "",
+      "price_usd": 12.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-10-22",
+      "summary": "All 4 of the self-checking math mazes packs in one download, Grades 3-4.",
+      "page_url": "https://earlyfinisherlab.github.io/p/math-mazes-bundle-multiply-divide-g34.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Multiplication-and-Division-Math-Mazes-Bundle-3rd-4th-Grade-Worksheets-18034121"
+    },
+    {
+      "sku": "math-mazes-bundle-g45",
+      "title": "Puzzle Bundle (3 Packs) Grades 4-5 | Early Finishers Enrichment",
+      "type": "Self-checking math mazes",
+      "grades": "Grades 4-5",
+      "subject": "",
+      "price_usd": 9.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-10-22",
+      "summary": "All 3 of the self-checking math mazes packs in one download, Grades 4-5.",
+      "page_url": "https://earlyfinisherlab.github.io/p/math-mazes-bundle-g45.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Mazes-Bundle-4th-5th-Grade-Multi-Digit-Multiplication-Decimals-18034106"
+    },
+    {
       "sku": "color-by-number-2-digit-add-subtract-g2",
       "title": "Color by Number 2-Digit Addition and Subtraction | 2nd Grade Math Worksheets",
       "type": "Color by number math pictures",
@@ -5207,6 +5277,48 @@
       "summary": "Color by number mystery pictures: addition & Subtraction Within 10, Kindergarten and 1st Grade. Every square on the grid has an addition or subtraction fact. Students solve it, find the answer in the color key, and color the square. When every square is colored, a picture appears.",
       "page_url": "https://earlyfinisherlab.github.io/p/color-by-number-add-subtract-within-10-gk1.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Color-by-Number-Addition-and-Subtraction-Within-10-Kindergarten-1st-Grade-18023576"
+    },
+    {
+      "sku": "color-by-number-bundle-multiply-divide-g34",
+      "title": "Puzzle Bundle (4 Packs) Grades 3-4 | Early Finishers Enrichment",
+      "type": "Color by number math pictures",
+      "grades": "Grades 3-4",
+      "subject": "",
+      "price_usd": 14.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-10-22",
+      "summary": "All 4 of the color by number math pictures packs in one download, Grades 3-4.",
+      "page_url": "https://earlyfinisherlab.github.io/p/color-by-number-bundle-multiply-divide-g34.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Color-by-Number-Multiplication-Division-Rounding-Bundle-3rd-4th-Grade-Math-18034042"
+    },
+    {
+      "sku": "color-by-number-bundle-add-subtract-gk2",
+      "title": "Puzzle Bundle (4 Packs) Grades K-2 | Early Finishers Enrichment",
+      "type": "Color by number math pictures",
+      "grades": "Grades K-2",
+      "subject": "",
+      "price_usd": 14.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-10-22",
+      "summary": "All 4 of the color by number math pictures packs in one download, Grades K-2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/color-by-number-bundle-add-subtract-gk2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Color-by-Number-Addition-and-Subtraction-Bundle-Kindergarten-1st-2nd-Grade-18034030"
+    },
+    {
+      "sku": "color-by-number-bundle-10-gk4",
+      "title": "Puzzle Bundle (10 Packs) Grades K-4 | Early Finishers Enrichment",
+      "type": "Color by number math pictures",
+      "grades": "Grades K-4",
+      "subject": "",
+      "price_usd": 28.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-10-22",
+      "summary": "All 10 of the color by number math pictures packs in one download, Grades K-4.",
+      "page_url": "https://earlyfinisherlab.github.io/p/color-by-number-bundle-10-gk4.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Color-by-Number-Math-Bundle-K-4-Addition-Subtraction-Multiplication-Division-18034014"
     },
     {
       "sku": "bake-sale-codes-g23",
