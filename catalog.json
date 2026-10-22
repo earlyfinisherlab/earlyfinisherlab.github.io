@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 376,
+  "count": 384,
   "resources": [
     {
       "sku": "art-show-crossnumber-g2",
@@ -542,6 +542,28 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Halloween-Math-Crossword-Puzzles-3rd-Grade-Early-Finishers-Enrichment-17530551"
     },
     {
+      "sku": "farm-visit-crossnumber-g3",
+      "title": "Math Crossword Puzzles 3rd Grade Math Review Vol 15 | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grade 3",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 27,
+      "standards": [
+        "2.MD.C.8",
+        "2.NBT.A.1",
+        "2.NBT.A.3",
+        "2.NBT.A.4",
+        "3.NBT.A.2",
+        "3.OA.C.7",
+        "3.OA.D.9"
+      ],
+      "listed_on": "2026-10-23",
+      "summary": "20 printable cross-number puzzles (math crosswords) for grade 3.",
+      "page_url": "https://earlyfinisherlab.github.io/p/farm-visit-crossnumber-g3.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-3rd-Grade-Math-Review-Vol-15-Early-Finishers-Enrichment-18046524"
+    },
+    {
       "sku": "field-day-crossnumber-g3",
       "title": "Math Crossword Puzzles 3rd Grade Math Review Vol 4 | Early Finishers Enrichment",
       "type": "Math crossword puzzles (cross-number)",
@@ -813,6 +835,28 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Winter-Math-Crossword-Puzzles-3rd-Grade-Early-Finishers-Enrichment-17499914"
     },
     {
+      "sku": "valentine-party-crossnumber-g3",
+      "title": "Valentine's Day Math Crossword Puzzles 3rd Grade | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grade 3",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 27,
+      "standards": [
+        "2.MD.C.8",
+        "2.NBT.A.1",
+        "2.NBT.A.3",
+        "2.NBT.A.4",
+        "3.NBT.A.2",
+        "3.OA.C.7",
+        "3.OA.D.9"
+      ],
+      "listed_on": "2026-10-23",
+      "summary": "20 printable Valentine's Day math crossword puzzles (cross-number) for grade 3.",
+      "page_url": "https://earlyfinisherlab.github.io/p/valentine-party-crossnumber-g3.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Valentines-Day-Math-Crossword-Puzzles-3rd-Grade-Early-Finishers-Enrichment-18046591"
+    },
+    {
       "sku": "winter-fest-crossnumber-g3",
       "title": "Winter Math Crossword Puzzles 3rd Grade | Early Finishers Enrichment Sub Plans",
       "type": "Math crossword puzzles (cross-number)",
@@ -956,6 +1000,33 @@
       "summary": "20 printable Halloween math crossword puzzles (cross-number) for grade 4.",
       "page_url": "https://earlyfinisherlab.github.io/p/costume-party-crossnumber-g4.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Halloween-Math-Crossword-Puzzles-4th-Grade-Early-Finishers-Enrichment-17500017"
+    },
+    {
+      "sku": "farm-visit-crossnumber-g4",
+      "title": "Math Crossword Puzzles 4th Grade Math Review Vol 15 | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grade 4",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 27,
+      "standards": [
+        "2.MD.C.8",
+        "2.NBT.A.1",
+        "2.NBT.A.3",
+        "2.NBT.A.4",
+        "3.NBT.A.2",
+        "3.OA.C.7",
+        "3.OA.D.9",
+        "4.NBT.A.2",
+        "4.NBT.B.4",
+        "4.NBT.B.5",
+        "4.NBT.B.6",
+        "4.OA.C.5"
+      ],
+      "listed_on": "2026-10-23",
+      "summary": "20 printable cross-number puzzles (math crosswords) for grade 4.",
+      "page_url": "https://earlyfinisherlab.github.io/p/farm-visit-crossnumber-g4.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-4th-Grade-Math-Review-Vol-15-Early-Finishers-Enrichment-18046537"
     },
     {
       "sku": "field-day-crossnumber-g4",
@@ -1433,6 +1504,33 @@
       "summary": "20 printable Halloween math crossword puzzles (cross-number) for grade 5.",
       "page_url": "https://earlyfinisherlab.github.io/p/costume-party-crossnumber-g5.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Halloween-Math-Crossword-Puzzles-5th-Grade-Early-Finishers-Enrichment-17515773"
+    },
+    {
+      "sku": "farm-visit-crossnumber-g5",
+      "title": "Math Crossword Puzzles 5th Grade Math Review Vol 15 | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grade 5",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 27,
+      "standards": [
+        "2.NBT.A.1",
+        "2.NBT.A.3",
+        "2.NBT.A.4",
+        "3.NBT.A.2",
+        "3.OA.D.9",
+        "4.NBT.A.2",
+        "4.NBT.B.4",
+        "4.NBT.B.5",
+        "4.OA.C.5",
+        "5.NBT.B.5",
+        "5.NBT.B.6",
+        "5.OA.A.1"
+      ],
+      "listed_on": "2026-10-23",
+      "summary": "20 printable cross-number puzzles (math crosswords) for grade 5.",
+      "page_url": "https://earlyfinisherlab.github.io/p/farm-visit-crossnumber-g5.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-5th-Grade-Math-Review-Vol-15-Early-Finishers-Enrichment-18046574"
     },
     {
       "sku": "field-day-crossnumber-g5",
@@ -2184,6 +2282,22 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Adding-Money-Logic-Puzzles-2nd-Grade-Snack-Bar-Brain-Teasers-Early-Finishers-17848092"
     },
     {
+      "sku": "fact-families-add-sub-logic-g2",
+      "title": "Addition and Subtraction Logic Puzzles 2nd Grade | Puzzles | Early Finishers",
+      "type": "Logic grid puzzles",
+      "grades": "Grade 2",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [
+        "2.OA.B.2"
+      ],
+      "listed_on": "2026-10-23",
+      "summary": "10 printable logic grid puzzles with a train theme, for grade 2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/fact-families-add-sub-logic-g2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Addition-and-Subtraction-Logic-Puzzles-2nd-Grade-Puzzles-Early-Finishers-18046517"
+    },
+    {
       "sku": "hundred-more-less-logic-g2",
       "title": "10 More 100 More Logic Puzzles 2nd Grade | Brain Teasers | Early Finishers",
       "type": "Logic grid puzzles",
@@ -2363,6 +2477,23 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Halloween-Logic-Puzzles-4th-Grade-Brain-Teasers-Early-Finishers-Enrichment-17616958"
     },
     {
+      "sku": "fact-families-12-logic-g4",
+      "title": "Multiplication and Division Logic Puzzles 4th Grade | Puzzles | Early Finishers",
+      "type": "Logic grid puzzles",
+      "grades": "Grade 4",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [
+        "3.OA.C.7",
+        "4.NBT.B.6"
+      ],
+      "listed_on": "2026-10-23",
+      "summary": "10 printable logic grid puzzles with a post office theme, for grade 4.",
+      "page_url": "https://earlyfinisherlab.github.io/p/fact-families-12-logic-g4.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Multiplication-and-Division-Logic-Puzzles-4th-Grade-Puzzles-Early-Finishers-18046510"
+    },
+    {
       "sku": "four-digit-pv-logic-g4",
       "title": "4-Digit Place Value Logic Puzzles 4th Grade | Brain Teasers | Early Finishers",
       "type": "Logic grid puzzles",
@@ -2496,6 +2627,22 @@
       "summary": "10 printable Halloween logic grid puzzles with a costume party theme, for grade 5.",
       "page_url": "https://earlyfinisherlab.github.io/p/costume-party-halloween-g5.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Halloween-Logic-Puzzles-5th-Grade-Brain-Teasers-Early-Finishers-Enrichment-17467758"
+    },
+    {
+      "sku": "decimal-place-value-logic-g5",
+      "title": "Decimal Place Value Logic Puzzles 5th Grade | Brain Teasers | Early Finishers",
+      "type": "Logic grid puzzles",
+      "grades": "Grade 5",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 18,
+      "standards": [
+        "5.NBT.A.3"
+      ],
+      "listed_on": "2026-10-23",
+      "summary": "10 printable logic grid puzzles with a museum theme, for grade 5.",
+      "page_url": "https://earlyfinisherlab.github.io/p/decimal-place-value-logic-g5.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Decimal-Place-Value-Logic-Puzzles-5th-Grade-Brain-Teasers-Early-Finishers-18046503"
     },
     {
       "sku": "egg-hunt-easter-g5",
@@ -5212,6 +5359,23 @@
       "summary": "Color by number mystery pictures: adding Three Numbers, 1st and 2nd Grade. Every square on the grid has three numbers to add. Students solve it, find the sum in the color key, and color the square. When every square is colored, a picture appears.",
       "page_url": "https://earlyfinisherlab.github.io/p/color-by-number-adding-three-numbers-g12.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Color-by-Number-Adding-Three-Numbers-1st-2nd-Grade-Addition-Worksheets-18023604"
+    },
+    {
+      "sku": "valentine-color-by-number-add-subtract-within-20-g12",
+      "title": "Valentine's Day Color by Number Addition and Subtraction | 1st & 2nd Grade",
+      "type": "Color by number math pictures",
+      "grades": "Grades 1-2",
+      "subject": "Basic Operations",
+      "price_usd": 4.75,
+      "pages": 18,
+      "standards": [
+        "1.OA.C.6",
+        "2.OA.B.2"
+      ],
+      "listed_on": "2026-10-23",
+      "summary": "Color by number mystery pictures: addition & Subtraction Within 20, 1st and 2nd Grade. Every square on the grid has an addition or subtraction fact. Students solve it, find the answer in the color key, and color the square. When every square is colored, a picture appears.",
+      "page_url": "https://earlyfinisherlab.github.io/p/valentine-color-by-number-add-subtract-within-20-g12.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Valentines-Day-Color-by-Number-Addition-and-Subtraction-1st-2nd-Grade-18046583"
     },
     {
       "sku": "color-by-number-division-facts-g34",
