@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 397,
+  "count": 403,
   "resources": [
     {
       "sku": "art-show-crossnumber-g2",
@@ -5514,6 +5514,22 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Math-Mazes-Bundle-4th-5th-Grade-Multi-Digit-Multiplication-Decimals-18034106"
     },
     {
+      "sku": "color-by-number-adding-within-100-zoo-g1",
+      "title": "Color by Number Adding Within 100 | 1st Grade Zoo Animal Mystery Pictures",
+      "type": "Color by number math pictures",
+      "grades": "Grade 1",
+      "subject": "Basic Operations",
+      "price_usd": 4.75,
+      "pages": 19,
+      "standards": [
+        "1.NBT.C.4"
+      ],
+      "listed_on": "2026-11-06",
+      "summary": "Color by number mystery pictures: adding Within 100, 1st Grade. Every square on the grid has an addition problem. Students solve it, find the sum in the color key, and color the square. When every square is colored, a picture appears.",
+      "page_url": "https://earlyfinisherlab.github.io/p/color-by-number-adding-within-100-zoo-g1.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Color-by-Number-Adding-Within-100-1st-Grade-Zoo-Animal-Mystery-Pictures-18213520"
+    },
+    {
       "sku": "color-by-number-2-digit-add-subtract-g2",
       "title": "Color by Number 2-Digit Addition and Subtraction | 2nd Grade Math Worksheets",
       "type": "Color by number math pictures",
@@ -5560,6 +5576,38 @@
       "summary": "Color by number mystery pictures: rounding to the Nearest 10 and 100, 3rd Grade. Every square on the grid has a number. Students round it, find the rounded number in the color key, and color the square. When every square is colored, a picture appears.",
       "page_url": "https://earlyfinisherlab.github.io/p/color-by-number-rounding-g3.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Color-by-Number-Rounding-to-the-Nearest-10-and-100-3rd-Grade-Rounding-18023650"
+    },
+    {
+      "sku": "color-by-number-dividing-by-1-digit-g4",
+      "title": "Color by Number Division 1-Digit Divisors | 4th Grade Camping Mystery Pictures",
+      "type": "Color by number math pictures",
+      "grades": "Grade 4",
+      "subject": "Basic Operations",
+      "price_usd": 4.75,
+      "pages": 19,
+      "standards": [
+        "4.NBT.B.6"
+      ],
+      "listed_on": "2026-11-06",
+      "summary": "Color by number mystery pictures: division With 2- and 3-Digit Dividends, 4th Grade. Every square on the grid has a division problem. Students solve it, find the quotient in the color key, and color the square. When every square is colored, a picture appears.",
+      "page_url": "https://earlyfinisherlab.github.io/p/color-by-number-dividing-by-1-digit-g4.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Color-by-Number-Division-1-Digit-Divisors-4th-Grade-Camping-Mystery-Pictures-18213528"
+    },
+    {
+      "sku": "color-by-number-multiply-2-digit-by-1-digit-g4",
+      "title": "Color by Number Multiplying 2-Digit by 1-Digit | 4th Grade Mystery Pictures",
+      "type": "Color by number math pictures",
+      "grades": "Grade 4",
+      "subject": "Basic Operations",
+      "price_usd": 4.75,
+      "pages": 19,
+      "standards": [
+        "4.NBT.B.5"
+      ],
+      "listed_on": "2026-11-06",
+      "summary": "Color by number mystery pictures: 2-Digit by 1-Digit Multiplication, 4th Grade. Every square on the grid has a multiplication problem. Students solve it, find the product in the color key, and color the square. When every square is colored, a picture appears.",
+      "page_url": "https://earlyfinisherlab.github.io/p/color-by-number-multiply-2-digit-by-1-digit-g4.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Color-by-Number-Multiplying-2-Digit-by-1-Digit-4th-Grade-Mystery-Pictures-18213542"
     },
     {
       "sku": "christmas-color-by-number-add-subtract-within-20-g12",
@@ -5613,6 +5661,24 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Color-by-Number-Adding-Three-Numbers-1st-2nd-Grade-Addition-Worksheets-18023604"
     },
     {
+      "sku": "color-by-number-place-value-expanded-form-g12",
+      "title": "Color by Number Place Value Expanded Form | 1st & 2nd Grade Math Pictures",
+      "type": "Color by number math pictures",
+      "grades": "Grades 1-2",
+      "subject": "Basic Operations",
+      "price_usd": 4.75,
+      "pages": 19,
+      "standards": [
+        "1.NBT.B.2",
+        "2.NBT.A.1",
+        "2.NBT.A.3"
+      ],
+      "listed_on": "2026-11-06",
+      "summary": "Color by number mystery pictures: place Value: Expanded Form, 1st and 2nd Grade. Every square on the grid has a number in expanded form. Students solve it, find the number in the color key, and color the square. When every square is colored, a picture appears.",
+      "page_url": "https://earlyfinisherlab.github.io/p/color-by-number-place-value-expanded-form-g12.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Color-by-Number-Place-Value-Expanded-Form-1st-2nd-Grade-Math-Pictures-18213557"
+    },
+    {
       "sku": "valentine-color-by-number-add-subtract-within-20-g12",
       "title": "Valentine's Day Color by Number Addition and Subtraction | 1st & 2nd Grade",
       "type": "Color by number math pictures",
@@ -5628,6 +5694,22 @@
       "summary": "Color by number mystery pictures: addition & Subtraction Within 20, 1st and 2nd Grade. Every square on the grid has an addition or subtraction fact. Students solve it, find the answer in the color key, and color the square. When every square is colored, a picture appears.",
       "page_url": "https://earlyfinisherlab.github.io/p/valentine-color-by-number-add-subtract-within-20-g12.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Valentines-Day-Color-by-Number-Addition-and-Subtraction-1st-2nd-Grade-18046583"
+    },
+    {
+      "sku": "christmas-color-by-number-multiplication-g34",
+      "title": "Christmas Color by Number Multiplication | 3rd & 4th Grade Mystery Pictures",
+      "type": "Color by number math pictures",
+      "grades": "Grades 3-4",
+      "subject": "Basic Operations",
+      "price_usd": 4.75,
+      "pages": 19,
+      "standards": [
+        "3.OA.C.7"
+      ],
+      "listed_on": "2026-11-06",
+      "summary": "Color by number mystery pictures: multiplication, 3rd and 4th Grade. Every square on the grid has a multiplication fact. Students solve it, find the product in the color key, and color the square. When every square is colored, a picture appears.",
+      "page_url": "https://earlyfinisherlab.github.io/p/christmas-color-by-number-multiplication-g34.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Christmas-Color-by-Number-Multiplication-3rd-4th-Grade-Mystery-Pictures-18213503"
     },
     {
       "sku": "color-by-number-division-facts-g34",
@@ -5676,6 +5758,23 @@
       "summary": "Color by number mystery pictures: multiplication, 3rd and 4th Grade. Every square on the grid has a multiplication fact. Students solve it, find the product in the color key, and color the square. When every square is colored, a picture appears.",
       "page_url": "https://earlyfinisherlab.github.io/p/thanksgiving-color-by-number-multiplication-g34.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Thanksgiving-Color-by-Number-Multiplication-3rd-4th-Grade-Mystery-Pictures-18018973"
+    },
+    {
+      "sku": "winter-color-by-number-division-facts-g34",
+      "title": "Winter Color by Number Division Facts | 3rd & 4th Grade Mystery Pictures",
+      "type": "Color by number math pictures",
+      "grades": "Grades 3-4",
+      "subject": "Basic Operations",
+      "price_usd": 4.75,
+      "pages": 19,
+      "standards": [
+        "3.OA.C.7",
+        "3.OA.B.6"
+      ],
+      "listed_on": "2026-11-06",
+      "summary": "Color by number mystery pictures: division Facts, 3rd and 4th Grade. Every square on the grid has a division fact. Students solve it, find the quotient in the color key, and color the square. When every square is colored, a picture appears.",
+      "page_url": "https://earlyfinisherlab.github.io/p/winter-color-by-number-division-facts-g34.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Winter-Color-by-Number-Division-Facts-3rd-4th-Grade-Mystery-Pictures-18213567"
     },
     {
       "sku": "color-by-number-add-subtract-within-10-gk1",
