@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 403,
+  "count": 413,
   "resources": [
     {
       "sku": "art-show-crossnumber-g2",
@@ -1570,6 +1570,33 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-5th-Grade-Math-Review-Vol-6-Early-Finishers-Enrichment-17597450"
     },
     {
+      "sku": "book-fair-crossnumber-g5",
+      "title": "Math Crossword Puzzles 5th Grade Math Review Vol 13 | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grade 5",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 28,
+      "standards": [
+        "2.NBT.A.1",
+        "2.NBT.A.3",
+        "2.NBT.A.4",
+        "3.NBT.A.2",
+        "3.OA.D.9",
+        "4.NBT.A.2",
+        "4.NBT.B.4",
+        "4.NBT.B.5",
+        "4.OA.C.5",
+        "5.NBT.B.5",
+        "5.NBT.B.6",
+        "5.OA.A.1"
+      ],
+      "listed_on": "2026-11-06",
+      "summary": "20 printable cross-number puzzles (math crosswords) for grade 5.",
+      "page_url": "https://earlyfinisherlab.github.io/p/book-fair-crossnumber-g5.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Crossword-Puzzles-5th-Grade-Math-Review-Vol-13-Early-Finishers-Enrichment-18223182"
+    },
+    {
       "sku": "class-feast-crossnumber-g5",
       "title": "Thanksgiving Math Crossword Puzzles 5th Grade | Early Finishers Enrichment",
       "type": "Math crossword puzzles (cross-number)",
@@ -2980,6 +3007,20 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Early-Finishers-Enrichment-Bake-Sale-Brain-Teasers-Grades-2-3-17418501"
     },
     {
+      "sku": "book-fair-logic-g23",
+      "title": "Logic Puzzles Early Finishers Enrichment | Book Fair Brain Teasers | Grades 2-3",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 2-3",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 19,
+      "standards": [],
+      "listed_on": "2026-11-06",
+      "summary": "10 printable logic grid puzzles with a book fair theme, for grades 2-3.",
+      "page_url": "https://earlyfinisherlab.github.io/p/book-fair-logic-g23.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Early-Finishers-Enrichment-Book-Fair-Brain-Teasers-Grades-2-3-18223194"
+    },
+    {
       "sku": "change-from-dollar-logic-g23",
       "title": "Making Change from $1 Logic Puzzles Grades 2-3 | Brain Teasers | Early Finishers",
       "type": "Logic grid puzzles",
@@ -3086,6 +3127,20 @@
       "summary": "10 printable logic grid puzzles with a building site theme, for grades 2-3.",
       "page_url": "https://earlyfinisherlab.github.io/p/expanded-form-logic-g23.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Expanded-Form-Place-Value-Logic-Puzzles-Grades-2-3-Puzzles-Early-Finishers-17858749"
+    },
+    {
+      "sku": "farm-visit-logic-g23",
+      "title": "Logic Puzzles Early Finishers Enrichment | Farm Visit Brain Teasers | Grades 2-3",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 2-3",
+      "subject": "Other (Math)",
+      "price_usd": 4.99,
+      "pages": 19,
+      "standards": [],
+      "listed_on": "2026-11-06",
+      "summary": "10 printable logic grid puzzles with a farm visit theme, for grades 2-3.",
+      "page_url": "https://earlyfinisherlab.github.io/p/farm-visit-logic-g23.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-Early-Finishers-Enrichment-Farm-Visit-Brain-Teasers-Grades-2-3-18223216"
     },
     {
       "sku": "field-day-g23",
@@ -5144,6 +5199,22 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/I-Have-Who-Has-3-Digit-Addition-Games-3-Digit-Subtraction-Game-3rd-Grade-17989337"
     },
     {
+      "sku": "i-have-who-has-multiples-of-10-g3",
+      "title": "I Have Who Has Multiplying by Multiples of 10 Game | 3rd Grade Math Game",
+      "type": "Math facts card games (I Have, Who Has?)",
+      "grades": "Grade 3",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 19,
+      "standards": [
+        "3.NBT.A.3"
+      ],
+      "listed_on": "2026-11-06",
+      "summary": "A whole-class multiplying by multiples of 10 game for 3rd grade. \"I have 240. Who has 7 x 50?\" - every student holds a card, listens, and answers in turn until the game comes back round to the START card.",
+      "page_url": "https://earlyfinisherlab.github.io/p/i-have-who-has-multiples-of-10-g3.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/I-Have-Who-Has-Multiplying-by-Multiples-of-10-Game-3rd-Grade-Math-Game-18223229"
+    },
+    {
       "sku": "i-have-who-has-multiplication-division-g3",
       "title": "I Have Who Has Multiplication and Division Games 3rd Grade | Math Fact Fluency",
       "type": "Math facts card games (I Have, Who Has?)",
@@ -5194,6 +5265,38 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/I-Have-Who-Has-Multi-Digit-Addition-and-Subtraction-Game-4th-Grade-Math-Game-18065174"
     },
     {
+      "sku": "i-have-who-has-long-division-g4",
+      "title": "I Have Who Has Division Game 4th Grade | Long Division Without Remainders",
+      "type": "Math facts card games (I Have, Who Has?)",
+      "grades": "Grade 4",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 19,
+      "standards": [
+        "4.NBT.B.6"
+      ],
+      "listed_on": "2026-11-06",
+      "summary": "A whole-class long division game for 4th grade. \"I have 64. Who has 384 ÷ 6?\" - every student holds a card, listens, and answers in turn until the game comes back round to the START card.",
+      "page_url": "https://earlyfinisherlab.github.io/p/i-have-who-has-long-division-g4.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/I-Have-Who-Has-Division-Game-4th-Grade-Long-Division-Without-Remainders-18223115"
+    },
+    {
+      "sku": "i-have-who-has-multi-digit-multiplication-g4",
+      "title": "I Have Who Has Multi Digit Multiplication Game | 2 Digit by 1 Digit | 4th Grade",
+      "type": "Math facts card games (I Have, Who Has?)",
+      "grades": "Grade 4",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 19,
+      "standards": [
+        "4.NBT.B.5"
+      ],
+      "listed_on": "2026-11-06",
+      "summary": "A whole-class multi-digit multiplication game for 4th grade. \"I have 216. Who has 47 x 6?\" - every student holds a card, listens, and answers in turn until the game comes back round to the START card.",
+      "page_url": "https://earlyfinisherlab.github.io/p/i-have-who-has-multi-digit-multiplication-g4.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/I-Have-Who-Has-Multi-Digit-Multiplication-Game-2-Digit-by-1-Digit-4th-Grade-18223131"
+    },
+    {
       "sku": "i-have-who-has-place-value-g4",
       "title": "I Have Who Has Place Value Game | Place Value Games 4th Grade | Expanded Form",
       "type": "Math facts card games (I Have, Who Has?)",
@@ -5242,6 +5345,23 @@
       "summary": "A whole-class addition & subtraction game for 1st and 2nd grade. \"I have 12. Who has 9 + 6?\" - every student holds a card, listens, and answers in turn until the game comes back round to the START card.",
       "page_url": "https://earlyfinisherlab.github.io/p/i-have-who-has-add-subtract-within-20-g12.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/I-Have-Who-Has-Addition-and-Subtraction-Within-20-Games-1st-2nd-Grade-17989350"
+    },
+    {
+      "sku": "christmas-i-have-who-has-mult-div-g34",
+      "title": "Christmas Math Games | I Have Who Has Multiplication and Division 3rd 4th Grade",
+      "type": "Math facts card games (I Have, Who Has?)",
+      "grades": "Grades 3-4",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 19,
+      "standards": [
+        "3.OA.C.7",
+        "3.OA.B.6"
+      ],
+      "listed_on": "2026-11-06",
+      "summary": "A Christmas whole-class multiplication & division game for 3rd and 4th grade. \"I have 42. Who has 54 ÷ 9?\" - every student holds a card, listens, and answers in turn until the game comes back round to the START card.",
+      "page_url": "https://earlyfinisherlab.github.io/p/christmas-i-have-who-has-mult-div-g34.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Christmas-Math-Games-I-Have-Who-Has-Multiplication-and-Division-3rd-4th-Grade-18223206"
     },
     {
       "sku": "i-have-who-has-multiplication-g34",
@@ -5296,6 +5416,24 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Valentines-Day-Math-Games-I-Have-Who-Has-Multiplication-and-Division-3rd-4th-18065197"
     },
     {
+      "sku": "i-have-who-has-add-subtract-within-10-k1",
+      "title": "I Have Who Has Addition and Subtraction Within 10 Games | Kindergarten 1st Grade",
+      "type": "Math facts card games (I Have, Who Has?)",
+      "grades": "Grades K-1",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 23,
+      "standards": [
+        "K.OA.A.5",
+        "1.OA.C.6",
+        "1.OA.A.2"
+      ],
+      "listed_on": "2026-11-06",
+      "summary": "A whole-class addition & subtraction within 10 game for kindergarten and 1st grade. \"I have 7. Who has 4 + 5?\" - every student holds a card, listens, and answers in turn until the game comes back round to the START card.",
+      "page_url": "https://earlyfinisherlab.github.io/p/i-have-who-has-add-subtract-within-10-k1.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/I-Have-Who-Has-Addition-and-Subtraction-Within-10-Games-Kindergarten-1st-Grade-18223101"
+    },
+    {
       "sku": "math-mazes-multiplication-facts-g3",
       "title": "Math Mazes Multiplication Facts | 3rd Grade Multiplication Worksheets",
       "type": "Self-checking math mazes",
@@ -5344,6 +5482,22 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Math-Mazes-2-Digit-by-1-Digit-Multiplication-4th-Grade-Worksheets-18018916"
     },
     {
+      "sku": "math-mazes-3-digit-by-1-digit-multiplication-g4",
+      "title": "Math Mazes 3-Digit by 1-Digit Multiplication | 4th Grade Worksheets",
+      "type": "Self-checking math mazes",
+      "grades": "Grade 4",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 34,
+      "standards": [
+        "4.NBT.B.5"
+      ],
+      "listed_on": "2026-11-06",
+      "summary": "Self-checking math mazes: 3-Digit by 1-Digit Multiplication, 4th Grade. Students start at the green box, solve the problem, and find the answer in a box next to it - up, down, left or right. A wrong answer leads the wrong way, so the maze checks itself.",
+      "page_url": "https://earlyfinisherlab.github.io/p/math-mazes-3-digit-by-1-digit-multiplication-g4.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Mazes-3-Digit-by-1-Digit-Multiplication-4th-Grade-Worksheets-18223260"
+    },
+    {
       "sku": "math-mazes-add-subtract-within-10000-g4",
       "title": "Math Mazes Multi-Digit Addition and Subtraction | 4th Grade Worksheets",
       "type": "Self-checking math mazes",
@@ -5374,6 +5528,22 @@
       "summary": "Self-checking math mazes: division With 1-Digit Divisors, 4th Grade. Students start at the green box, solve the problem, and find the answer in a box next to it - up, down, left or right. A wrong answer leads the wrong way, so the maze checks itself.",
       "page_url": "https://earlyfinisherlab.github.io/p/math-mazes-division-1-digit-divisors-g4.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Math-Mazes-Division-With-1-Digit-Divisors-4th-Grade-Division-Worksheets-18018504"
+    },
+    {
+      "sku": "math-mazes-2-digit-by-2-digit-multiplication-g5",
+      "title": "Math Mazes 2-Digit by 2-Digit Multiplication | 5th Grade Worksheets",
+      "type": "Self-checking math mazes",
+      "grades": "Grade 5",
+      "subject": "Basic Operations",
+      "price_usd": 3.99,
+      "pages": 34,
+      "standards": [
+        "5.NBT.B.5"
+      ],
+      "listed_on": "2026-11-06",
+      "summary": "Self-checking math mazes: 2-Digit by 2-Digit Multiplication, 5th Grade. Students start at the green box, solve the problem, and find the answer in a box next to it - up, down, left or right. A wrong answer leads the wrong way, so the maze checks itself.",
+      "page_url": "https://earlyfinisherlab.github.io/p/math-mazes-2-digit-by-2-digit-multiplication-g5.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Mazes-2-Digit-by-2-Digit-Multiplication-5th-Grade-Worksheets-18223245"
     },
     {
       "sku": "math-mazes-add-subtract-decimals-g5",
