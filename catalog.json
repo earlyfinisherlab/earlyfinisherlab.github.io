@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 449,
+  "count": 454,
   "resources": [
     {
       "sku": "art-show-crossnumber-g2",
@@ -4361,6 +4361,20 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Logic-Puzzles-2nd-3rd-Grade-Bundle-Brain-Teasers-Early-Finishers-Enrichment-18252076"
     },
     {
+      "sku": "logic-grid-bundle-g23-vol7",
+      "title": "Logic Puzzles Bundle (3 Packs) Grades 2-3 | Early Finishers Enrichment",
+      "type": "Logic grid puzzles",
+      "grades": "Grades 2-3",
+      "subject": "",
+      "price_usd": 11.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-11-16",
+      "summary": "All 3 of the logic grid puzzles packs in one download, Grades 2-3.",
+      "page_url": "https://earlyfinisherlab.github.io/p/logic-grid-bundle-g23-vol7.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Math-Logic-Puzzles-2nd-3rd-Grade-Money-Times-Tables-Valentines-Bundle-18368450"
+    },
+    {
       "sku": "logic-grid-bundle-math-skills-10-g23",
       "title": "Logic Puzzles Bundle (10 Packs) Grades 2-3 | Early Finishers Enrichment",
       "type": "Logic grid puzzles",
@@ -7568,6 +7582,62 @@
       "summary": "A no-prep zoo puzzle packet for early finishers: word searches, crosswords, word scrambles and crack-the-code math pages. Every page is about zoo animals, with two levels so every student in 2nd, 3rd or 4th grade has a page that fits.",
       "page_url": "https://earlyfinisherlab.github.io/p/zoo-puzzle-packet-g24.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Zoo-Animal-Word-Search-Crossword-Math-Puzzles-Early-Finishers-Grades-2-4-18327558"
+    },
+    {
+      "sku": "puzzle-packet-bundle-10-g24",
+      "title": "Puzzle Bundle (10 Packs) Grades 2-4 | Early Finishers Enrichment",
+      "type": "resource",
+      "grades": "Grades 2-4",
+      "subject": "",
+      "price_usd": 23.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-11-16",
+      "summary": "All 10 of the puzzle packs in one download, Grades 2-4.",
+      "page_url": "https://earlyfinisherlab.github.io/p/puzzle-packet-bundle-10-g24.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Word-Search-Crossword-Puzzles-Bundle-10-Themes-Early-Finishers-2nd-3rd-4th-18368461"
+    },
+    {
+      "sku": "puzzle-packet-bundle-animals-g24",
+      "title": "Puzzle Bundle (4 Packs) Grades 2-4 | Early Finishers Enrichment",
+      "type": "resource",
+      "grades": "Grades 2-4",
+      "subject": "",
+      "price_usd": 12.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-11-16",
+      "summary": "All 4 of the puzzle packs in one download, Grades 2-4.",
+      "page_url": "https://earlyfinisherlab.github.io/p/puzzle-packet-bundle-animals-g24.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Animal-Word-Search-Crossword-Puzzles-Bundle-Zoo-Farm-Ocean-Bugs-2nd-4th-18368473"
+    },
+    {
+      "sku": "puzzle-packet-bundle-holiday-g24",
+      "title": "Puzzle Bundle (3 Packs) Grades 2-4 | Early Finishers Enrichment",
+      "type": "resource",
+      "grades": "Grades 2-4",
+      "subject": "",
+      "price_usd": 9.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-11-16",
+      "summary": "All 3 of the puzzle packs in one download, Grades 2-4.",
+      "page_url": "https://earlyfinisherlab.github.io/p/puzzle-packet-bundle-holiday-g24.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Christmas-Winter-Valentines-Word-Search-Crossword-Bundle-2nd-3rd-4th-Grade-18368484"
+    },
+    {
+      "sku": "puzzle-packet-bundle-science-g24",
+      "title": "Puzzle Bundle (3 Packs) Grades 2-4 | Early Finishers Enrichment",
+      "type": "resource",
+      "grades": "Grades 2-4",
+      "subject": "",
+      "price_usd": 9.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-11-16",
+      "summary": "All 3 of the puzzle packs in one download, Grades 2-4.",
+      "page_url": "https://earlyfinisherlab.github.io/p/puzzle-packet-bundle-science-g24.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Space-Weather-Dinosaur-Word-Search-Crossword-Bundle-2nd-3rd-4th-Grade-18368499"
     }
   ]
 }
