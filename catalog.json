@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 441,
+  "count": 449,
   "resources": [
     {
       "sku": "art-show-crossnumber-g2",
@@ -2252,6 +2252,34 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/4th-Grade-Math-Crossword-Puzzles-Bundle-Multiplication-Review-Early-Finishers-18251982"
     },
     {
+      "sku": "crossnumber-bundle-g4-small",
+      "title": "Math Crossword Puzzles Bundle (4 Packs) Grade 4 | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grade 4",
+      "subject": "",
+      "price_usd": 12.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-11-16",
+      "summary": "All 4 of the math crossword puzzles (cross-number) packs in one download, Grade 4.",
+      "page_url": "https://earlyfinisherlab.github.io/p/crossnumber-bundle-g4-small.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/4th-Grade-Math-Crossword-Puzzles-Small-Bundle-for-Early-Finishers-Review-18368298"
+    },
+    {
+      "sku": "crossnumber-bundle-g4-small-vol2",
+      "title": "Math Crossword Puzzles Bundle (4 Packs) Grade 4 | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grade 4",
+      "subject": "",
+      "price_usd": 9.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-11-16",
+      "summary": "All 4 of the math crossword puzzles (cross-number) packs in one download, Grade 4.",
+      "page_url": "https://earlyfinisherlab.github.io/p/crossnumber-bundle-g4-small-vol2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/4th-Grade-Multiplication-Money-Crossword-Puzzles-Math-Bundle-Early-Finishers-18368307"
+    },
+    {
       "sku": "crossnumber-bundle-g5-small",
       "title": "Math Crossword Puzzles Bundle (4 Packs) Grade 5 | Early Finishers Enrichment",
       "type": "Math crossword puzzles (cross-number)",
@@ -2264,6 +2292,20 @@
       "summary": "All 4 of the math crossword puzzles (cross-number) packs in one download, Grade 5.",
       "page_url": "https://earlyfinisherlab.github.io/p/crossnumber-bundle-g5-small.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/5th-Grade-Math-Crossword-Puzzles-Small-Bundle-for-Early-Finishers-Review-18252019"
+    },
+    {
+      "sku": "crossnumber-bundle-g5-small-vol2",
+      "title": "Math Crossword Puzzles Bundle (3 Packs) Grade 5 | Early Finishers Enrichment",
+      "type": "Math crossword puzzles (cross-number)",
+      "grades": "Grade 5",
+      "subject": "",
+      "price_usd": 6.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-11-16",
+      "summary": "All 3 of the math crossword puzzles (cross-number) packs in one download, Grade 5.",
+      "page_url": "https://earlyfinisherlab.github.io/p/crossnumber-bundle-g5-small-vol2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/5th-Grade-Math-Crossword-Puzzles-Vol-2-Small-Bundle-Early-Finishers-Review-18368324"
     },
     {
       "sku": "crossnumber-bundle-pet-show-g2-g5",
@@ -5643,6 +5685,34 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/I-Have-Who-Has-Addition-and-Subtraction-Within-10-Games-Kindergarten-1st-Grade-18223101"
     },
     {
+      "sku": "i-have-who-has-bundle-g2",
+      "title": "Puzzle Bundle (3 Packs) Grade 2 | Early Finishers Enrichment",
+      "type": "Math facts card games (I Have, Who Has?)",
+      "grades": "Grade 2",
+      "subject": "",
+      "price_usd": 9.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-11-16",
+      "summary": "All 3 of the math facts card games (i have, who has?) packs in one download, Grade 2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/i-have-who-has-bundle-g2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/I-Have-Who-Has-Math-Games-2nd-Grade-Bundle-Addition-Subtraction-Place-Value-18368340"
+    },
+    {
+      "sku": "i-have-who-has-bundle-g3",
+      "title": "Puzzle Bundle (3 Packs) Grade 3 | Early Finishers Enrichment",
+      "type": "Math facts card games (I Have, Who Has?)",
+      "grades": "Grade 3",
+      "subject": "",
+      "price_usd": 9.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-11-16",
+      "summary": "All 3 of the math facts card games (i have, who has?) packs in one download, Grade 3.",
+      "page_url": "https://earlyfinisherlab.github.io/p/i-have-who-has-bundle-g3.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/I-Have-Who-Has-Math-Games-3rd-Grade-Bundle-Rounding-Multiplication-Division-18368348"
+    },
+    {
       "sku": "i-have-who-has-bundle-g4",
       "title": "Puzzle Bundle (4 Packs) Grade 4 | Early Finishers Enrichment",
       "type": "Math facts card games (I Have, Who Has?)",
@@ -5655,6 +5725,20 @@
       "summary": "All 4 of the math facts card games (i have, who has?) packs in one download, Grade 4.",
       "page_url": "https://earlyfinisherlab.github.io/p/i-have-who-has-bundle-g4.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/I-Have-Who-Has-4th-Grade-Math-Games-Bundle-Long-Division-Multiply-Rounding-18252035"
+    },
+    {
+      "sku": "i-have-who-has-bundle-10-g1-g4",
+      "title": "Puzzle Bundle (10 Packs) Grades 1-4 | Early Finishers Enrichment",
+      "type": "Math facts card games (I Have, Who Has?)",
+      "grades": "Grades 1-4",
+      "subject": "",
+      "price_usd": 23.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-11-16",
+      "summary": "All 10 of the math facts card games (i have, who has?) packs in one download, Grades 1-4.",
+      "page_url": "https://earlyfinisherlab.github.io/p/i-have-who-has-bundle-10-g1-g4.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/I-Have-Who-Has-Math-Games-Bundle-Grades-1-4-Math-Fact-Fluency-Games-18368332"
     },
     {
       "sku": "i-have-who-has-bundle-mult-div-g34",
@@ -6264,6 +6348,34 @@
       "summary": "Color by number mystery pictures: addition & Subtraction Within 10, Kindergarten and 1st Grade. Every square on the grid has an addition or subtraction fact. Students solve it, find the answer in the color key, and color the square. When every square is colored, a picture appears.",
       "page_url": "https://earlyfinisherlab.github.io/p/color-by-number-add-subtract-within-10-gk1.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Color-by-Number-Addition-and-Subtraction-Within-10-Kindergarten-1st-Grade-18023576"
+    },
+    {
+      "sku": "color-by-number-bundle-g12",
+      "title": "Puzzle Bundle (3 Packs) Grades 1-2 | Early Finishers Enrichment",
+      "type": "Color by number math pictures",
+      "grades": "Grades 1-2",
+      "subject": "",
+      "price_usd": 10.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-11-16",
+      "summary": "All 3 of the color by number math pictures packs in one download, Grades 1-2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/color-by-number-bundle-g12.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Color-by-Number-Place-Value-Addition-Subtraction-Bundle-1st-2nd-Grade-Math-18368289"
+    },
+    {
+      "sku": "color-by-number-bundle-holiday-g34",
+      "title": "Puzzle Bundle (3 Packs) Grades 3-4 | Early Finishers Enrichment",
+      "type": "Color by number math pictures",
+      "grades": "Grades 3-4",
+      "subject": "",
+      "price_usd": 10.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-11-16",
+      "summary": "All 3 of the color by number math pictures packs in one download, Grades 3-4.",
+      "page_url": "https://earlyfinisherlab.github.io/p/color-by-number-bundle-holiday-g34.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Holiday-Color-by-Number-Multiplication-Division-3rd-4th-Grade-Bundle-18368294"
     },
     {
       "sku": "color-by-number-bundle-multiply-divide-g34",
