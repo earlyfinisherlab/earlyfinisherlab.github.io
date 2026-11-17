@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 454,
+  "count": 463,
   "resources": [
     {
       "sku": "art-show-crossnumber-g2",
@@ -7584,6 +7584,104 @@
       "buy_url": "https://www.teacherspayteachers.com/Product/Zoo-Animal-Word-Search-Crossword-Math-Puzzles-Early-Finishers-Grades-2-4-18327558"
     },
     {
+      "sku": "mixed-bundle-10-g2",
+      "title": "Math Activities Bundle (10 Packs) Grade 2 | Early Finishers Enrichment",
+      "type": "Mixed math activity bundles",
+      "grades": "Grade 2",
+      "subject": "",
+      "price_usd": 26.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-11-18",
+      "summary": "All 10 of the mixed math activity bundles packs in one download, Grade 2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/mixed-bundle-10-g2.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/2nd-Grade-Math-Activities-Bundle-Math-Crosswords-Logic-Puzzles-Card-Games-18393500"
+    },
+    {
+      "sku": "mixed-bundle-g2-add-subtract",
+      "title": "Math Activities Bundle (4 Packs) Grade 2 | Early Finishers Enrichment",
+      "type": "Mixed math activity bundles",
+      "grades": "Grade 2",
+      "subject": "",
+      "price_usd": 12.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-11-18",
+      "summary": "All 4 of the mixed math activity bundles packs in one download, Grade 2.",
+      "page_url": "https://earlyfinisherlab.github.io/p/mixed-bundle-g2-add-subtract.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/2nd-Grade-Addition-and-Subtraction-Activities-Early-Finisher-Math-Bundle-18393650"
+    },
+    {
+      "sku": "mixed-bundle-10-g3",
+      "title": "Math Activities Bundle (10 Packs) Grade 3 | Early Finishers Enrichment",
+      "type": "Mixed math activity bundles",
+      "grades": "Grade 3",
+      "subject": "",
+      "price_usd": 26.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-11-18",
+      "summary": "All 10 of the mixed math activity bundles packs in one download, Grade 3.",
+      "page_url": "https://earlyfinisherlab.github.io/p/mixed-bundle-10-g3.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/3rd-Grade-Math-Activities-Bundle-Crosswords-Logic-Mazes-Color-by-Number-18393555"
+    },
+    {
+      "sku": "mixed-bundle-g3-multiplication",
+      "title": "Math Activities Bundle (4 Packs) Grade 3 | Early Finishers Enrichment",
+      "type": "Mixed math activity bundles",
+      "grades": "Grade 3",
+      "subject": "",
+      "price_usd": 11.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-11-18",
+      "summary": "All 4 of the mixed math activity bundles packs in one download, Grade 3.",
+      "page_url": "https://earlyfinisherlab.github.io/p/mixed-bundle-g3-multiplication.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/3rd-Grade-Multiplication-Activities-Bundle-Maze-Game-Logic-Crossword-18393671"
+    },
+    {
+      "sku": "mixed-bundle-g4-multiply-divide",
+      "title": "Math Activities Bundle (4 Packs) Grade 4 | Early Finishers Enrichment",
+      "type": "Mixed math activity bundles",
+      "grades": "Grade 4",
+      "subject": "",
+      "price_usd": 11.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-11-18",
+      "summary": "All 4 of the mixed math activity bundles packs in one download, Grade 4.",
+      "page_url": "https://earlyfinisherlab.github.io/p/mixed-bundle-g4-multiply-divide.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/4th-Grade-Multiplication-and-Division-Activities-Bundle-Early-Finishers-18393742"
+    },
+    {
+      "sku": "mixed-bundle-10-g5",
+      "title": "Math Activities Bundle (10 Packs) Grade 5 | Early Finishers Enrichment",
+      "type": "Mixed math activity bundles",
+      "grades": "Grade 5",
+      "subject": "",
+      "price_usd": 25.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-11-18",
+      "summary": "All 10 of the mixed math activity bundles packs in one download, Grade 5.",
+      "page_url": "https://earlyfinisherlab.github.io/p/mixed-bundle-10-g5.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/5th-Grade-Math-Activities-Bundle-Math-Crosswords-Logic-Puzzles-Math-Mazes-18393610"
+    },
+    {
+      "sku": "mixed-bundle-g5-decimals-multiply-divide",
+      "title": "Math Activities Bundle (4 Packs) Grade 5 | Early Finishers Enrichment",
+      "type": "Mixed math activity bundles",
+      "grades": "Grade 5",
+      "subject": "",
+      "price_usd": 11.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-11-18",
+      "summary": "All 4 of the mixed math activity bundles packs in one download, Grade 5.",
+      "page_url": "https://earlyfinisherlab.github.io/p/mixed-bundle-g5-decimals-multiply-divide.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/5th-Grade-Decimals-and-Multi-Digit-Math-Activities-Bundle-Early-Finishers-18393768"
+    },
+    {
       "sku": "puzzle-packet-bundle-10-g24",
       "title": "Puzzle Bundle (10 Packs) Grades 2-4 | Early Finishers Enrichment",
       "type": "resource",
@@ -7638,6 +7736,34 @@
       "summary": "All 3 of the puzzle packs in one download, Grades 2-4.",
       "page_url": "https://earlyfinisherlab.github.io/p/puzzle-packet-bundle-science-g24.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/Space-Weather-Dinosaur-Word-Search-Crossword-Bundle-2nd-3rd-4th-Grade-18368499"
+    },
+    {
+      "sku": "mixed-bundle-christmas-winter-g34",
+      "title": "Math Activities Bundle (3 Packs) Grades 3-4 | Early Finishers Enrichment",
+      "type": "Mixed math activity bundles",
+      "grades": "Grades 3-4",
+      "subject": "",
+      "price_usd": 9.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-11-18",
+      "summary": "All 3 of the mixed math activity bundles packs in one download, Grades 3-4.",
+      "page_url": "https://earlyfinisherlab.github.io/p/mixed-bundle-christmas-winter-g34.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Christmas-Math-Activities-3rd-4th-Grade-Winter-Multiplication-Division-Bundle-18393628"
+    },
+    {
+      "sku": "mixed-bundle-g34-multiplication-division",
+      "title": "Math Activities Bundle (4 Packs) Grades 3-4 | Early Finishers Enrichment",
+      "type": "Mixed math activity bundles",
+      "grades": "Grades 3-4",
+      "subject": "",
+      "price_usd": 12.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-11-18",
+      "summary": "All 4 of the mixed math activity bundles packs in one download, Grades 3-4.",
+      "page_url": "https://earlyfinisherlab.github.io/p/mixed-bundle-g34-multiplication-division.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/Multiplication-and-Division-Facts-Activities-Bundle-3rd-4th-Grade-Math-18393706"
     }
   ]
 }
