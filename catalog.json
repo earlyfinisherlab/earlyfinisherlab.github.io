@@ -3,7 +3,7 @@
   "store_url": "https://www.teacherspayteachers.com/store/early-finisher-lab",
   "site_url": "https://earlyfinisherlab.github.io/",
   "description": "Printable no-prep puzzle packs for early finishers, enrichment groups and emergency sub plans -- logic grid puzzles, math crossword (cross-number) puzzles and cryptograms for grades 2 to 6. Every pack ships with a complete answer key, and every clue is re-solved by an independent program before it goes on sale.",
-  "count": 463,
+  "count": 464,
   "resources": [
     {
       "sku": "art-show-crossnumber-g2",
@@ -7638,6 +7638,20 @@
       "summary": "All 4 of the mixed math activity bundles packs in one download, Grade 3.",
       "page_url": "https://earlyfinisherlab.github.io/p/mixed-bundle-g3-multiplication.html",
       "buy_url": "https://www.teacherspayteachers.com/Product/3rd-Grade-Multiplication-Activities-Bundle-Maze-Game-Logic-Crossword-18393671"
+    },
+    {
+      "sku": "mixed-bundle-10-g4",
+      "title": "Math Activities Bundle (10 Packs) Grade 4 | Early Finishers Enrichment",
+      "type": "Mixed math activity bundles",
+      "grades": "Grade 4",
+      "subject": "",
+      "price_usd": 26.99,
+      "pages": null,
+      "standards": [],
+      "listed_on": "2026-11-18",
+      "summary": "All 10 of the mixed math activity bundles packs in one download, Grade 4.",
+      "page_url": "https://earlyfinisherlab.github.io/p/mixed-bundle-10-g4.html",
+      "buy_url": "https://www.teacherspayteachers.com/Product/4th-Grade-Math-Activities-Bundle-Crosswords-Logic-Mazes-Color-by-Number-18394020"
     },
     {
       "sku": "mixed-bundle-g4-multiply-divide",
